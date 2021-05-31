@@ -1,0 +1,9 @@
+./.testr.conf
+./os_performance_tools/tests/__init__.py
+./os_performance_tools/tests/base.py
+./os_performance_tools/tests/test_collect.py
+./os_performance_tools/tests/test_collectors_delta.py
+./os_performance_tools/tests/test_counters2statsd.py
+./os_performance_tools/tests/test_mysql.py
+./os_performance_tools/tests/test_queues.py
+./tox.ini

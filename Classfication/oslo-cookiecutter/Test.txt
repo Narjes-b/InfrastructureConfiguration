@@ -1,0 +1,7 @@
+./oslo.{{cookiecutter.module_name}}/.stestr.conf
+./oslo.{{cookiecutter.module_name}}/oslo_{{cookiecutter.module_name}}/tests/__init__.py
+./oslo.{{cookiecutter.module_name}}/oslo_{{cookiecutter.module_name}}/tests/test_{{cookiecutter.module_name}}.py
+./oslo.{{cookiecutter.module_name}}/tox.ini
+./tools/test_template.sh
+./tools/test_tox_targets.sh
+./tox.ini

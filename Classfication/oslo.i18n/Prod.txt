@@ -1,0 +1,11 @@
+./oslo_i18n/__init__.py
+./oslo_i18n/_factory.py
+./oslo_i18n/_gettextutils.py
+./oslo_i18n/_i18n.py
+./oslo_i18n/_lazy.py
+./oslo_i18n/_locale.py
+./oslo_i18n/_message.py
+./oslo_i18n/_translate.py
+./oslo_i18n/fixture.py
+./oslo_i18n/log.py
+./setup.py

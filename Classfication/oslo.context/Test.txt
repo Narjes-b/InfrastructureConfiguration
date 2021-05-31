@@ -1,0 +1,5 @@
+./.stestr.conf
+./oslo_context/tests/__init__.py
+./oslo_context/tests/test_context.py
+./oslo_context/tests/test_fixture.py
+./tox.ini
