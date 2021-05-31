@@ -1,0 +1,12 @@
+./ironic_python_agent/agent.py
+./ironic_python_agent/config.py
+./ironic_python_agent/extensions/image.py
+./ironic_python_agent/extensions/standby.py
+./ironic_python_agent/hardware.py
+./ironic_python_agent/hardware_managers/cna.py
+./ironic_python_agent/inject_files.py
+./ironic_python_agent/inspect.py
+./ironic_python_agent/inspector.py
+./ironic_python_agent/ironic_api_client.py
+./ironic_python_agent/netutils.py
+./ironic_python_agent/utils.py

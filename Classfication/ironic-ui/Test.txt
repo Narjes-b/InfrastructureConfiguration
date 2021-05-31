@@ -1,0 +1,16 @@
+./.testr.conf
+./ironic_ui/static/dashboard/admin/ironic/test-data.spec.js
+./ironic_ui/test/__init__.py
+./ironic_ui/test/integration/__init__.py
+./ironic_ui/test/integration/horizon.conf
+./ironic_ui/test/integration/pages/__init__.py
+./ironic_ui/test/integration/pages/admin/__init__.py
+./ironic_ui/test/integration/pages/admin/system/__init__.py
+./ironic_ui/test/integration/pages/admin/system/ironicbaremetalprovisioningpage.py
+./ironic_ui/test/integration/test_basic.py
+./ironic_ui/test/settings.py
+./ironic_ui/test/tests/__init__.py
+./ironic_ui/test/tests/test_registration.py
+./ironic_ui/test/urls.py
+./test-shim.js
+./tox.ini

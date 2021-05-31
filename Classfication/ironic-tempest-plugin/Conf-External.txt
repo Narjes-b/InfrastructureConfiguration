@@ -1,0 +1,4 @@
+./doc/source/conf.py
+./setup.cfg
+./zuul.d/project.yaml
+./zuul.d/stable-jobs.yaml
