@@ -1,0 +1,8 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/host_vars/localhost.yml
+./tests/inventory
+./tests/test-vars.yml
+./tests/test.yml
+./tox.ini

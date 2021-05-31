@@ -1,0 +1,13 @@
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/blazar1.yml
+./tests/host_vars/infra1.yml
+./tests/host_vars/localhost.yml
+./tests/host_vars/openstack1.yml
+./tests/inventory
+./tests/os_blazar-overrides.yml
+./tests/test-blazar-functional.yml
+./tests/test-install-blazar.yml
+./tests/test.yml
+./tox.ini

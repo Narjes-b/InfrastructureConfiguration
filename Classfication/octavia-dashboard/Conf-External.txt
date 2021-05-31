@@ -1,0 +1,6 @@
+./babel-django.cfg
+./babel-djangojs.cfg
+./doc/source/conf.py
+./octavia_dashboard/karma.conf.js
+./setup.cfg
+./zuul.d/projects.yaml

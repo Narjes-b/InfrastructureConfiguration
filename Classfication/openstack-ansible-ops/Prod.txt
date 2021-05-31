@@ -1,0 +1,16 @@
+./bowling_ball/rolling_restart.py
+./generate_requirements/generate_requirements.py
+./leap-upgrades/lib/functions.sh
+./leap-upgrades/lib/vars.sh
+./leap-upgrades/upgrade-utilities-kilo/scripts/juno-is-metal-preserve.py
+./leap-upgrades/upgrade-utilities-kilo/scripts/juno-kilo-add-repo-infra.py
+./leap-upgrades/upgrade-utilities-kilo/scripts/juno-kilo-ldap-conversion.py
+./leap-upgrades/upgrade-utilities-kilo/scripts/juno-rpc-extras-create.py
+./leap-upgrades/upgrade-utilities-liberty/scripts/add_new_neutron_env.py
+./leap-upgrades/upgrade-utilities-liberty/scripts/fix_ceilometer_env.py
+./leap-upgrades/upgrade-utilities-liberty/scripts/make_rst_table.py
+./leap-upgrades/upgrade-utilities-liberty/scripts/migrate_openstack_vars.py
+./leap-upgrades/upgrade-utilities-mitaka/scripts/make_rst_table.py
+./leap-upgrades/upgrade-utilities-mitaka/scripts/migrate_openstack_vars.py
+./leap-upgrades/upgrade-utilities-newton/scripts/make_rst_table.py
+./leap-upgrades/upgrade-utilities-newton/scripts/migrate_openstack_vars.py

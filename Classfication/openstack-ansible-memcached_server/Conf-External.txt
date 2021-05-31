@@ -1,0 +1,11 @@
+./defaults/main.yml
+./doc/source/conf.py
+./examples/playbook.yml
+./handlers/main.yml
+./meta/main.yml
+./meta/openstack-ansible.yml
+./tasks/main.yml
+./tasks/memcached_config.yml
+./tasks/memcached_install.yml
+./vars/debian.yml
+./vars/redhat.yml
