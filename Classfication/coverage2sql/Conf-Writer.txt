@@ -1,0 +1,2 @@
+./coverage2sql/db/api.py
+./coverage2sql/migrations/cli.py

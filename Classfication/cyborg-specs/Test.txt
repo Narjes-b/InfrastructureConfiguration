@@ -1,0 +1,2 @@
+./.stestr.conf
+./tox.ini

@@ -1,0 +1,7 @@
+./designatedashboard/tests/.secret_key_store
+./designatedashboard/tests/__init__.py
+./designatedashboard/tests/base.py
+./designatedashboard/tests/settings.py
+./test
+./test-shim.js
+./tox.ini

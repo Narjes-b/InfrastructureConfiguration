@@ -1,0 +1,7 @@
+./spec/cookbooks/openstackclient_test/metadata.rb
+./spec/cookbooks/openstackclient_test/recipes/domain.rb
+./spec/cookbooks/openstackclient_test/recipes/endpoint.rb
+./spec/cookbooks/openstackclient_test/recipes/project.rb
+./spec/cookbooks/openstackclient_test/recipes/role.rb
+./spec/cookbooks/openstackclient_test/recipes/service.rb
+./spec/cookbooks/openstackclient_test/recipes/user.rb

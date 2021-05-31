@@ -1,0 +1,11 @@
+./coverage2sql/__init__.py
+./coverage2sql/db/__init__.py
+./coverage2sql/db/models.py
+./coverage2sql/migrations/__init__.py
+./coverage2sql/migrations/env.py
+./coverage2sql/migrations/script.py.mako
+./coverage2sql/migrations/versions/52dfb338f74e_add_coverages_table.py
+./coverage2sql/migrations/versions/79dead6f7c26_add_files_table.py
+./coverage2sql/migrations/versions/8857b04071a2_add_metadata_column.py
+./coverage2sql/read_coverage.py
+./setup.py

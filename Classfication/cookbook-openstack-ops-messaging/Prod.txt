@@ -1,0 +1,5 @@
+./attributes/default.rb
+./metadata.rb
+./spec/rabbitmq-server-redhat_spec.rb
+./spec/rabbitmq-server_spec.rb
+./spec/spec_helper.rb

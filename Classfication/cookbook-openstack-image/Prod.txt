@@ -1,0 +1,15 @@
+./attributes/default.rb
+./attributes/glance_api_conf.rb
+./attributes/glance_cache_conf.rb
+./attributes/glance_scrubber_conf.rb
+./files/default/glance_plugin.py
+./metadata.rb
+./providers/image.rb
+./resources/image.rb
+./spec/api-redhat_spec.rb
+./spec/api_spec.rb
+./spec/identity_registration_spec.rb
+./spec/image_upload_spec.rb
+./spec/spec_helper.rb
+./spec/swift_store-redhat_spec.rb
+./spec/swift_store_spec.rb

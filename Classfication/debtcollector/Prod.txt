@@ -1,0 +1,9 @@
+./debtcollector/__init__.py
+./debtcollector/_utils.py
+./debtcollector/fixtures/__init__.py
+./debtcollector/fixtures/disable.py
+./debtcollector/moves.py
+./debtcollector/removals.py
+./debtcollector/renames.py
+./debtcollector/updating.py
+./setup.py

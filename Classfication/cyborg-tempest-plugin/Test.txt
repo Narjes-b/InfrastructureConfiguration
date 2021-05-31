@@ -1,0 +1,15 @@
+./.stestr.conf
+./cyborg_tempest_plugin/tests/__init__.py
+./cyborg_tempest_plugin/tests/api/__init__.py
+./cyborg_tempest_plugin/tests/api/base.py
+./cyborg_tempest_plugin/tests/api/test_accelerator_request.py
+./cyborg_tempest_plugin/tests/api/test_accelerator_request_negative.py
+./cyborg_tempest_plugin/tests/api/test_deployable_negative.py
+./cyborg_tempest_plugin/tests/api/test_deployables.py
+./cyborg_tempest_plugin/tests/api/test_device.py
+./cyborg_tempest_plugin/tests/api/test_device_profile.py
+./cyborg_tempest_plugin/tests/api/test_device_profile_negative.py
+./cyborg_tempest_plugin/tests/scenario/__init__.py
+./cyborg_tempest_plugin/tests/scenario/manager.py
+./cyborg_tempest_plugin/tests/scenario/test_accelerator_basic_ops.py
+./tox.ini
