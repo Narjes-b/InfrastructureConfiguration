@@ -1,0 +1,7 @@
+./doc/source/images/storlet_engine_drawing.pptx
+./playbooks/storlets-functional/post-py3.yaml
+./playbooks/storlets-functional/post.yaml
+./playbooks/storlets-functional/pre-py3.yaml
+./playbooks/storlets-functional/pre.yaml
+./playbooks/storlets-functional/run-py3.yaml
+./playbooks/storlets-functional/run.yaml

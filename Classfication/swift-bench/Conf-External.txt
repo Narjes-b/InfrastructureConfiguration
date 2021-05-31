@@ -1,0 +1,2 @@
+./etc/swift-bench.conf-sample
+./setup.cfg

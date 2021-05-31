@@ -1,0 +1,4 @@
+./.pre-commit-config.yaml
+./doc/source/conf.py
+./setup.cfg
+./taskflow/persistence/backends/sqlalchemy/alembic/alembic.ini
