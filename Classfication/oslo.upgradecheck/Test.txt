@@ -1,0 +1,5 @@
+./.stestr.conf
+./oslo_upgradecheck/tests/__init__.py
+./oslo_upgradecheck/tests/test_common_checks.py
+./oslo_upgradecheck/tests/test_upgradecheck.py
+./tox.ini

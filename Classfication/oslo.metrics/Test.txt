@@ -1,0 +1,4 @@
+./.stestr.conf
+./oslo_metrics/tests/__init__.py
+./oslo_metrics/tests/test_message_process.py
+./tox.ini

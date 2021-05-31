@@ -1,0 +1,16 @@
+./doc/source/user/examples/_i18n.py
+./doc/source/user/examples/python_logging.py
+./oslo_log/__init__.py
+./oslo_log/_i18n.py
+./oslo_log/cmds/__init__.py
+./oslo_log/cmds/convert_json.py
+./oslo_log/fixture/__init__.py
+./oslo_log/fixture/logging_error.py
+./oslo_log/fixture/setlevel.py
+./oslo_log/formatters.py
+./oslo_log/handlers.py
+./oslo_log/helpers.py
+./oslo_log/rate_limit.py
+./oslo_log/version.py
+./oslo_log/watchers.py
+./setup.py

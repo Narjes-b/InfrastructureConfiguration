@@ -1,0 +1,7 @@
+./.stestr.conf
+./oslo_rootwrap/tests/__init__.py
+./oslo_rootwrap/tests/run_daemon.py
+./oslo_rootwrap/tests/test_functional.py
+./oslo_rootwrap/tests/test_functional_eventlet.py
+./oslo_rootwrap/tests/test_rootwrap.py
+./tox.ini

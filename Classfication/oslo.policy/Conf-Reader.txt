@@ -1,0 +1,5 @@
+./oslo_policy/_cache_handler.py
+./oslo_policy/generator.py
+./oslo_policy/policy.py
+./oslo_policy/sphinxext.py
+./oslo_policy/sphinxpolicygen.py

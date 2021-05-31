@@ -1,0 +1,4 @@
+./oslobot/config.py
+./oslobot/plugins/oslobot/oslobot.py
+./setup.py
+./tools/list_oslo_projects.py
