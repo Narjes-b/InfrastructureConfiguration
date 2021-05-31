@@ -1,0 +1,13 @@
+./setup.py
+./watcher_tempest_plugin/__init__.py
+./watcher_tempest_plugin/infra_optim_clients.py
+./watcher_tempest_plugin/services/__init__.py
+./watcher_tempest_plugin/services/base.py
+./watcher_tempest_plugin/services/infra_optim/__init__.py
+./watcher_tempest_plugin/services/infra_optim/v1/__init__.py
+./watcher_tempest_plugin/services/infra_optim/v1/json/__init__.py
+./watcher_tempest_plugin/services/infra_optim/v1/json/client.py
+./watcher_tempest_plugin/services/metric/__init__.py
+./watcher_tempest_plugin/services/metric/v1/__init__.py
+./watcher_tempest_plugin/services/metric/v1/json/__init__.py
+./watcher_tempest_plugin/services/metric/v1/json/client.py
