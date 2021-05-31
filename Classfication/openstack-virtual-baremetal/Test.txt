@@ -1,0 +1,10 @@
+./.stestr.conf
+./bin/load-test
+./bin/test-job
+./bin/test-job-v2
+./openstack_virtual_baremetal/tests/__init__.py
+./openstack_virtual_baremetal/tests/test_auth.py
+./openstack_virtual_baremetal/tests/test_build_nodes_json.py
+./openstack_virtual_baremetal/tests/test_deploy.py
+./openstack_virtual_baremetal/tests/test_openstackbmc.py
+./tox.ini

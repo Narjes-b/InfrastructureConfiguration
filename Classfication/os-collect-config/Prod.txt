@@ -1,0 +1,7 @@
+./os_collect_config/__init__.py
+./os_collect_config/common.py
+./os_collect_config/config_drive.py
+./os_collect_config/exc.py
+./os_collect_config/merger.py
+./os_collect_config/version.py
+./setup.py

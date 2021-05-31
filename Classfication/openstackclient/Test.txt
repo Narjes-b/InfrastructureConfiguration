@@ -1,0 +1,5 @@
+./.stestr.conf
+./tests/__init__.py
+./tests/check_osc_commands.py
+./tests/test_openstackclient.py
+./tox.ini

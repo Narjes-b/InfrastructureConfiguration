@@ -1,0 +1,10 @@
+./mini-mirror/templates/bin/_helm_test.sh.tpl
+./mini-mirror/templates/pod-helm-test.yaml
+./ranger/templates/bin/_ranger-test.py.tpl
+./ranger/templates/pod-test.yaml
+./ranger-agent/templates/bin/_health-probe.py.tpl
+./ranger-agent/templates/bin/_ranger-agent-test.py.tpl
+./ranger-agent/templates/pod-test.yaml
+./shaker/templates/bin/_run-tests.sh.tpl
+./shaker/templates/pod-shaker-test.yaml
+./tox.ini
