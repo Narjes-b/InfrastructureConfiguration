@@ -1,0 +1,15 @@
+./.stestr.conf
+./blazar_tempest_plugin/tests/__init__.py
+./blazar_tempest_plugin/tests/api/__init__.py
+./blazar_tempest_plugin/tests/api/fixtures.py
+./blazar_tempest_plugin/tests/api/gabbits/allocations.yaml
+./blazar_tempest_plugin/tests/api/gabbits/hosts.yaml
+./blazar_tempest_plugin/tests/api/gabbits/leases.yaml
+./blazar_tempest_plugin/tests/api/test_blazar_api.py
+./blazar_tempest_plugin/tests/scenario/__init__.py
+./blazar_tempest_plugin/tests/scenario/manager_freeze.py
+./blazar_tempest_plugin/tests/scenario/resource_reservation_scenario.py
+./blazar_tempest_plugin/tests/scenario/test_host_reservation.py
+./blazar_tempest_plugin/tests/scenario/test_instance_reservation.py
+./blazar_tempest_plugin/tests/scenario/test_reservation_concurrency.py
+./tox.ini

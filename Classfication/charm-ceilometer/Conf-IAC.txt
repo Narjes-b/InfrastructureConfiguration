@@ -1,0 +1,8 @@
+./templates/icehouse/pipeline.yaml
+./templates/kilo/pipeline.yaml
+./templates/mitaka/event_pipeline.yaml
+./templates/mitaka/pipeline.yaml
+./templates/ocata/pipeline.yaml
+./templates/pike/pipeline.yaml
+./templates/polling.yaml
+./templates/queens/event_pipeline.yaml

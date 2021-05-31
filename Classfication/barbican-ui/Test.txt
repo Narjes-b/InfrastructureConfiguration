@@ -1,0 +1,8 @@
+./barbican_ui/test/__init__.py
+./barbican_ui/test/api_tests/__init__.py
+./barbican_ui/test/api_tests/test_client.py
+./barbican_ui/test/api_tests/test_rest_api.py
+./barbican_ui/test/integration_tests/__init__.py
+./barbican_ui/test/settings.py
+./test-shim.js
+./tox.ini

@@ -1,0 +1,10 @@
+./blazar/api/v2/app.py
+./blazar/api/wsgi_app.py
+./blazar/config.py
+./blazar/db/base.py
+./blazar/enforcement/enforcement.py
+./blazar/manager/service.py
+./blazar/notification/notifier.py
+./blazar/plugins/oshosts/host_plugin.py
+./blazar/utils/openstack/keystone.py
+./blazar/utils/openstack/nova.py

@@ -1,0 +1,8 @@
+./.stestr.conf
+./ceilometer_powervm/tests/__init__.py
+./ceilometer_powervm/tests/compute/__init__.py
+./ceilometer_powervm/tests/compute/virt/__init__.py
+./ceilometer_powervm/tests/compute/virt/powervm/__init__.py
+./ceilometer_powervm/tests/compute/virt/powervm/pvm_fixtures.py
+./ceilometer_powervm/tests/compute/virt/powervm/test_inspector.py
+./tox.ini

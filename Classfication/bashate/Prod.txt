@@ -1,0 +1,5 @@
+./bashate/__init__.py
+./bashate/__main__.py
+./bashate/bashate.py
+./bashate/messages.py
+./setup.py
