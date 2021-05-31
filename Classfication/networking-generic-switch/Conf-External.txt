@@ -1,0 +1,4 @@
+./doc/source/conf.py
+./setup.cfg
+./zuul.d/networking-generic-switch-jobs.yaml
+./zuul.d/project.yaml

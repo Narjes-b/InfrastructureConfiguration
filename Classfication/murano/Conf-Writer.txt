@@ -1,0 +1,7 @@
+./murano/api/middleware/context.py
+./murano/cmd/cfapi_db_manage.py
+./murano/cmd/db_manage.py
+./murano/cmd/manage.py
+./murano/common/cf_config.py
+./murano/common/config.py
+./murano/common/wsgi.py
