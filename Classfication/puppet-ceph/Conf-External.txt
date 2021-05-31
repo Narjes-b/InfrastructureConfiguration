@@ -1,0 +1,10 @@
+./examples/common.yaml
+./examples/hiera.yaml
+./examples/nodes/client.yaml
+./examples/nodes/first.yaml
+./examples/nodes/second.yaml
+./setup.cfg
+./spec/fixtures/hieradata/common.yaml
+./spec/fixtures/hieradata/hiera.yaml
+./spec/fixtures/hieradata/nodes/client.yaml
+./spec/fixtures/hieradata/nodes/first.yaml
