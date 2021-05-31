@@ -1,0 +1,8 @@
+./patrole_tempest_plugin/__init__.py
+./patrole_tempest_plugin/hacking/__init__.py
+./patrole_tempest_plugin/policy_authority.py
+./patrole_tempest_plugin/rbac_authority.py
+./patrole_tempest_plugin/rbac_exceptions.py
+./patrole_tempest_plugin/requirements_authority.py
+./patrole_tempest_plugin/version.py
+./setup.py

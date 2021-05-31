@@ -1,0 +1,3 @@
+./doc/source/_exts/vmt.py
+./setup.py
+./tools/getbugs.py

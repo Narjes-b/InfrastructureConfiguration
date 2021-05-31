@@ -1,0 +1,1 @@
+./playbooks/osprofiler-post.yaml
