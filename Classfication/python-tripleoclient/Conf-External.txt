@@ -1,0 +1,7 @@
+./.pre-commit-config.yaml
+./config-generator/minion.conf
+./config-generator/standalone.conf
+./config-generator/undercloud.conf
+./doc/source/conf.py
+./setup.cfg
+./zuul.d/layout.yaml
