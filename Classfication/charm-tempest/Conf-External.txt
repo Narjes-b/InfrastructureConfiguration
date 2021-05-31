@@ -1,0 +1,6 @@
+./src/actions.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/pip.conf
+./src/templates/tempest.conf

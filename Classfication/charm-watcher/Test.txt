@@ -1,0 +1,12 @@
+./.stestr.conf
+./src/tests/bundles/bionic-train.yaml
+./src/tests/bundles/bionic-ussuri.yaml
+./src/tests/bundles/focal-ussuri.yaml
+./src/tests/bundles/focal-victoria.yaml
+./src/tests/bundles/groovy-victoria.yaml
+./src/tests/tests.yaml
+./src/tox.ini
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_lib_charm_openstack_watcher.py
+./unit_tests/test_watcher_handlers.py

@@ -1,0 +1,7 @@
+./charm-helpers.yaml
+./config.yaml
+./hooks/charmhelpers/contrib/openstack/templates/ceph.conf
+./hooks/charmhelpers/contrib/openstack/templates/openstack_https_frontend.conf
+./hooks/charmhelpers/contrib/openstack/templates/wsgi-openstack-api.conf
+./hooks/charmhelpers/contrib/openstack/templates/wsgi-openstack-metadata.conf
+./metadata.yaml

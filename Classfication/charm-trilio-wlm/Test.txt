@@ -1,0 +1,16 @@
+./.stestr.conf
+./src/tests/bundles/bionic-queens-40.yaml
+./src/tests/bundles/bionic-queens-41.yaml
+./src/tests/bundles/bionic-stein-40.yaml
+./src/tests/bundles/bionic-stein-41.yaml
+./src/tests/bundles/bionic-train-40.yaml
+./src/tests/bundles/bionic-train-41-s3.yaml
+./src/tests/bundles/bionic-train-41.yaml
+./src/tests/bundles/bionic-ussuri-41.yaml
+./src/tests/bundles/focal-ussuri-41.yaml
+./src/tests/tests.yaml
+./src/tox.ini
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_lib_charm_openstack_trilio_wlm.py
+./unit_tests/test_trilio_wlm_handlers.py

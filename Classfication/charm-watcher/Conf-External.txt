@@ -1,0 +1,5 @@
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/train/watcher-api.conf
+./src/templates/train/watcher.conf

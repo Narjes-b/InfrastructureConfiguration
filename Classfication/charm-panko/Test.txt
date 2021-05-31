@@ -1,0 +1,8 @@
+./.stestr.conf
+./src/tests/basic_deployment.py
+./src/tests/gate-basic-xenial-ocata
+./src/tests/tests.yaml
+./src/tox.ini
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_panko_handlers.py

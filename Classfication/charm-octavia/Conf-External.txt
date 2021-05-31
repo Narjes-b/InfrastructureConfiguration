@@ -1,0 +1,9 @@
+./osci.yaml
+./src/actions.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/rocky/octavia-api.conf
+./src/templates/rocky/octavia.conf
+./src/templates/ussuri/octavia.conf
+./src/templates/victoria/octavia.conf

@@ -1,0 +1,7 @@
+./.stestr.conf
+./test/__init__.py
+./test/ca_client_test_data.py
+./test/multi_cert_rel_test_data_client.yaml
+./test/multi_cert_rel_test_data_server.yaml
+./test/test_ca_client.py
+./tox.ini

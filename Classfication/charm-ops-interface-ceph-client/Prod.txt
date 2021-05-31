@@ -1,0 +1,3 @@
+./interface_ceph_client/__init__.py
+./interface_ceph_client/ceph_client.py
+./setup.py
