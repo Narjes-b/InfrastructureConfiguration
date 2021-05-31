@@ -1,0 +1,2 @@
+./templates/default/keystone-paste.ini.erb
+./templates/default/wsgi-keystone.conf.erb

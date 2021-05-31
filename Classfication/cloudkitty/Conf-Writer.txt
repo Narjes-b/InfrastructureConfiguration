@@ -1,0 +1,16 @@
+./cloudkitty/api/app.py
+./cloudkitty/cli/dbsync.py
+./cloudkitty/cli/writer.py
+./cloudkitty/collector/gnocchi.py
+./cloudkitty/collector/monasca.py
+./cloudkitty/collector/prometheus.py
+./cloudkitty/config.py
+./cloudkitty/fetcher/gnocchi.py
+./cloudkitty/fetcher/keystone.py
+./cloudkitty/fetcher/monasca.py
+./cloudkitty/fetcher/prometheus.py
+./cloudkitty/fetcher/source.py
+./cloudkitty/orchestrator.py
+./cloudkitty/service.py
+./cloudkitty/storage/v1/hybrid/backends/gnocchi.py
+./cloudkitty/storage/v2/influx.py

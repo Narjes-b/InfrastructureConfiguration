@@ -1,0 +1,14 @@
+./attributes/default.rb
+./libraries/matchers.rb
+./metadata.rb
+./providers/application.rb
+./resources/application.rb
+./spec/apt_spec.rb
+./spec/dashboard_spec.rb
+./spec/db_spec.rb
+./spec/identity_registration_spec.rb
+./spec/mq_spec.rb
+./spec/server_spec.rb
+./spec/spec_helper.rb
+./templates/default/local_settings.py.erb
+./templates/default/openrc.erb

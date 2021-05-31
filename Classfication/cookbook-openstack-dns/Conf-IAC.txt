@@ -1,0 +1,11 @@
+./recipes/api.rb
+./recipes/central.rb
+./recipes/common.rb
+./recipes/dashboard.rb
+./recipes/identity_registration.rb
+./recipes/mdns.rb
+./recipes/neutron_int.rb
+./recipes/producer.rb
+./recipes/sink.rb
+./recipes/worker.rb
+./templates/default/pools.yaml.erb

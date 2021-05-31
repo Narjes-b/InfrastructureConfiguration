@@ -1,0 +1,6 @@
+./recipes/client.rb
+./recipes/completions.rb
+./recipes/default.rb
+./recipes/etcd.rb
+./recipes/logging.rb
+./recipes/sysctl.rb
