@@ -1,0 +1,2 @@
+./playbooks/python-manilaclient-functional/post.yaml
+./playbooks/python-manilaclient-functional/run.yaml

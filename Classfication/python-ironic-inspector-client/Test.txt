@@ -1,0 +1,7 @@
+./ironic_inspector_client/test/__init__.py
+./ironic_inspector_client/test/functional.py
+./ironic_inspector_client/test/test_common_http.py
+./ironic_inspector_client/test/test_init.py
+./ironic_inspector_client/test/test_shell.py
+./ironic_inspector_client/test/test_v1.py
+./tox.ini

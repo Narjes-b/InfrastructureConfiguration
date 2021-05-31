@@ -1,0 +1,10 @@
+./.stestr.conf
+./masakariclient/tests/__init__.py
+./masakariclient/tests/base.py
+./masakariclient/tests/unit/__init__.py
+./masakariclient/tests/unit/osc/__init__.py
+./masakariclient/tests/unit/osc/v1/__init__.py
+./masakariclient/tests/unit/osc/v1/test_host.py
+./masakariclient/tests/unit/osc/v1/test_notification.py
+./masakariclient/tests/unit/osc/v1/test_segment.py
+./tox.ini
