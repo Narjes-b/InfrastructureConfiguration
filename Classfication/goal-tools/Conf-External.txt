@@ -1,0 +1,2 @@
+./goal_tools/organizations.yaml
+./setup.cfg

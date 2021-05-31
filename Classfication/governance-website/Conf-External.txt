@@ -1,0 +1,3 @@
+./doc/source/_themes/governance/theme.conf
+./doc/source/conf.py
+./setup.cfg

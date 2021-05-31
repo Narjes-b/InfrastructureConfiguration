@@ -1,0 +1,13 @@
+./heat/api/aws/ec2token.py
+./heat/cmd/api.py
+./heat/cmd/api_cfn.py
+./heat/cmd/engine.py
+./heat/cmd/manage.py
+./heat/common/config.py
+./heat/common/crypt.py
+./heat/common/wsgi.py
+./heat/engine/clients/os/keystone/heat_keystoneclient.py
+./heat/engine/hot/functions.py
+./heat/engine/resources/aws/lb/loadbalancer.py
+./heat/httpd/heat_api.py
+./heat/httpd/heat_api_cfn.py

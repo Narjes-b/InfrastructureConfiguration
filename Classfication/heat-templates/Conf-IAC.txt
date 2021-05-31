@@ -1,0 +1,11 @@
+./hot/mistral/templates/autoscaling_using_mistral.yaml
+./hot/mistral/templates/server_with_ip.yaml
+./hot/mistral/templates/stack_restarter.yaml
+./hot/software-config/boot-config/templates/install_config_agent_centos7_rdo.yaml
+./hot/software-config/boot-config/templates/install_config_agent_fedora_pip.yaml
+./hot/software-config/boot-config/templates/install_config_agent_fedora_yum.yaml
+./hot/software-config/boot-config/templates/install_config_agent_ubuntu_pip.yaml
+./hot/software-config/boot-config/templates/install_container_agent.yaml
+./hot/software-config/example-templates/config-scripts/example-puppet-manifest.pp
+./hot/software-config/heat-container-agent/Dockerfile
+./playbooks/devstack/run.yaml

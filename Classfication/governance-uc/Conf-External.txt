@@ -1,0 +1,7 @@
+./doc/source/_themes/governance/theme.conf
+./doc/source/conf.py
+./doc/source/reference/teams.yaml
+./doc/source/reference/working-groups.yaml
+./reference/teams.yaml
+./reference/working-groups.yaml
+./setup.cfg

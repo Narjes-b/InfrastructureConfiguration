@@ -1,0 +1,12 @@
+./.stestr.conf
+./hacking/tests/__init__.py
+./hacking/tests/checks/__init__.py
+./hacking/tests/checks/test_comments.py
+./hacking/tests/checks/test_except_checks.py
+./hacking/tests/checks/test_mock.py
+./hacking/tests/checks/test_other.py
+./hacking/tests/test_config.py
+./hacking/tests/test_doctest.py
+./hacking/tests/test_import_exceptions.py
+./integration-test/test.sh
+./tox.ini

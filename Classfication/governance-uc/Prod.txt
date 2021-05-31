@@ -1,0 +1,3 @@
+./doc/source/_exts/members.py
+./doc/source/_exts/teamtable.py
+./setup.py

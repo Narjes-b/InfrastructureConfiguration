@@ -1,0 +1,5 @@
+./setup.py
+./tools/check_yaml_file.py
+./tools/zanata/zanata_stats.py
+./tools/zanata/zanata_userinfo.py
+./tools/zanata/zanata_users.py

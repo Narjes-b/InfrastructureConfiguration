@@ -1,0 +1,4 @@
+./.stestr.conf
+./openstack_governance/tests/__init__.py
+./openstack_governance/tests/test_governance.py
+./tox.ini

@@ -1,0 +1,13 @@
+./.zuul.yaml
+./devstack.local.conf.base
+./devstack.local.conf.target
+./doc/source/conf.py
+./roles/configure-grenade-branches/defaults/main.yaml
+./roles/configure-grenade-branches/tasks/main.yaml
+./roles/prepare-grenade-logs/defaults/main.yaml
+./roles/prepare-grenade-logs/tasks/main.yaml
+./roles/run-grenade/defaults/main.yaml
+./roles/run-grenade/tasks/main.yaml
+./roles/write-grenade-conf/defaults/main.yaml
+./roles/write-grenade-conf/tasks/main.yaml
+./setup.cfg
