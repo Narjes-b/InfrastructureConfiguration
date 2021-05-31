@@ -1,0 +1,9 @@
+./ci-scripts/validate_jinja2.py
+./roles/overcloud-ssl/library/tls_tht.py
+./roles/validate-tempest/files/bugcheck/__init__.py
+./roles/validate-tempest/files/bugcheck/bugcheck.py
+./roles/validate-tempest/files/check-skip-list/__init__.py
+./roles/validate-tempest/files/check-skip-list/check_skip.py
+./roles/validate-tempest/files/tempestmail/__init__.py
+./roles/validate-tempest/files/tempestmail/tempestmail.py
+./setup.py

@@ -1,0 +1,3 @@
+./deploy-guide/source/conf.py
+./doc/source/conf.py
+./setup.cfg

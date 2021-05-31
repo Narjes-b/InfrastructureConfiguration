@@ -1,0 +1,8 @@
+./.stestr.conf
+./tox.ini
+./tripleo_common_tempest_plugin/tests/__init__.py
+./tripleo_common_tempest_plugin/tests/api/__init__.py
+./tripleo_common_tempest_plugin/tests/base.py
+./tripleo_common_tempest_plugin/tests/scenario/__init__.py
+./tripleo_common_tempest_plugin/tests/scenario/workflows/__init__.py
+./tripleo_common_tempest_plugin/tests/scenario/workflows/test_access.py

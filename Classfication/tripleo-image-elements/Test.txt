@@ -1,0 +1,7 @@
+./.testr.conf
+./elements/os-svc-install/tests/__init__.py
+./elements/os-svc-install/tests/test_os_svc_daemon.py
+./tests/__init__.py
+./tests/base.py
+./tests/test_no_dup_filenames.py
+./tox.ini

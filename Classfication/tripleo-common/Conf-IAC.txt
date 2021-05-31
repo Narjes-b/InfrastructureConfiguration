@@ -1,0 +1,2 @@
+./heat_docker_agent/Dockerfile
+./tripleo_common/templates/deployments.yaml
