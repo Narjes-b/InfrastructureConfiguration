@@ -1,0 +1,4 @@
+./.pydevproject
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/keystone_ldap.py
+./src/reactive/keystone_ldap_handlers.py

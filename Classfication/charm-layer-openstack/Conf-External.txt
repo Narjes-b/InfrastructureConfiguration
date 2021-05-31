@@ -1,0 +1,5 @@
+./actions.yaml
+./config.yaml
+./layer.yaml
+./metadata.yaml
+./templates/ceph.conf

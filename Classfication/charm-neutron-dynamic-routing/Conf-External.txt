@@ -1,0 +1,7 @@
+./osci.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/neutron.conf
+./src/templates/ocata/bgp_dragent.ini
+./src/templates/pike/neutron.conf
+./src/templates/stein/bgp_dragent.ini

@@ -1,0 +1,3 @@
+./tests/00-setup
+./tests/10-deploy
+./tox.ini

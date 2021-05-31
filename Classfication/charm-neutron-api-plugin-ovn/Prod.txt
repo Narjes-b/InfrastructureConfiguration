@@ -1,0 +1,7 @@
+./src/files/scripts/neutron_offline_network_type_update.py
+./src/lib/__init__.py
+./src/lib/charm/__init__.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/neutron_api_plugin_ovn.py
+./src/reactive/__init__.py
+./src/reactive/neutron_api_plugin_ovn_handlers.py

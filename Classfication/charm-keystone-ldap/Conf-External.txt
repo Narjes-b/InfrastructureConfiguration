@@ -1,0 +1,5 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/keystone.conf
