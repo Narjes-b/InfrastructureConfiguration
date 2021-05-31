@@ -1,0 +1,11 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/mitaka/designate.conf
+./src/templates/mitaka/neutron_sink.cfg
+./src/templates/mitaka/nova_sink.cfg
+./src/templates/newton/neutron_sink.cfg
+./src/templates/newton/nova_sink.cfg
+./src/templates/queens/designate.conf
+./src/templates/rocky/designate.conf

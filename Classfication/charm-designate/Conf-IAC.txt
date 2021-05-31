@@ -1,0 +1,2 @@
+./src/templates/mitaka/pools.yaml
+./src/templates/rocky/pools.yaml
