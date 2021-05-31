@@ -1,0 +1,6 @@
+./playbooks/devstack-plugin-container-dsvm/post.yaml
+./playbooks/devstack-plugin-container-dsvm/pre.yaml
+./playbooks/devstack-plugin-container-dsvm/run.yaml
+./playbooks/devstack-plugin-container-k8s/post.yaml
+./playbooks/devstack-plugin-container-k8s/pre.yaml
+./playbooks/devstack-plugin-container-k8s/run.yaml

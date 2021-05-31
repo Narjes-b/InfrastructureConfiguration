@@ -1,0 +1,13 @@
+./freezer/common/client_manager.py
+./freezer/engine/glance/glance.py
+./freezer/engine/manager.py
+./freezer/engine/nova/nova.py
+./freezer/engine/osbrick/osbrick.py
+./freezer/job.py
+./freezer/main.py
+./freezer/openstack/admin.py
+./freezer/openstack/backup.py
+./freezer/openstack/osclients.py
+./freezer/openstack/restore.py
+./freezer/scheduler/freezer_scheduler.py
+./freezer/scheduler/scheduler_job.py

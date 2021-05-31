@@ -1,0 +1,4 @@
+./freezer_api/cmd/manage.py
+./freezer_api/common/config.py
+./freezer_api/db/base.py
+./freezer_api/db/elasticsearch/driver.py

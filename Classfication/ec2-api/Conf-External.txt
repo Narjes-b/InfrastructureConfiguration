@@ -1,0 +1,8 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./babel.cfg
+./doc/source/conf.py
+./ec2api/db/sqlalchemy/migrate_repo/migrate.cfg
+./etc/ec2api/api-paste.ini
+./etc/ec2api/ec2api-config-generator.conf
+./setup.cfg

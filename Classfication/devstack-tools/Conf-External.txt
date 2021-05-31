@@ -1,0 +1,3 @@
+./devstack/dsconf.py
+./doc/source/conf.py
+./setup.cfg
