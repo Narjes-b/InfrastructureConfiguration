@@ -1,0 +1,12 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/horizon1.yml
+./tests/host_vars/infra1.yml
+./tests/host_vars/keystone1.yml
+./tests/host_vars/localhost.yml
+./tests/inventory
+./tests/os_horizon-overrides.yml
+./tests/test.yml
+./tox.ini
