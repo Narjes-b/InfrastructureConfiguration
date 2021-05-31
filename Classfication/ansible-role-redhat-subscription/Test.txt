@@ -1,0 +1,5 @@
+./tests/ansible.cfg
+./tests/vagrant.yml
+./tests/Vagrantfile
+./tests/vars/portal.yml
+./tox.ini

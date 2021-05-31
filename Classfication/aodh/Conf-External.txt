@@ -1,0 +1,8 @@
+./.zuul.yaml
+./aodh/api/api-paste.ini
+./aodh/cmd/aodh-config-generator.conf
+./aodh/cmd/aodh-policy-generator.conf
+./aodh/storage/sqlalchemy/alembic/alembic.ini
+./doc/source/conf.py
+./rally-jobs/ceilometer.yaml
+./setup.cfg

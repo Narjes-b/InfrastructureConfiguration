@@ -1,0 +1,13 @@
+./ansible-role-requirements.yaml
+./defaults/main.yml
+./doc/source/conf.py
+./examples/playbook.yml
+./handlers/main.yml
+./meta/main.yml
+./setup.cfg
+./tasks/main.yml
+./vars/debian.yml
+./vars/main.yml
+./vars/redhat-7.yml
+./vars/redhat-8.yml
+./vars/suse-42.yml
