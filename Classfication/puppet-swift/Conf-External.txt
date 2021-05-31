@@ -1,0 +1,8 @@
+./.sync.yml
+./.zuul.yaml
+./setup.cfg
+./templates/account-server.conf.erb
+./templates/container-server.conf.erb
+./templates/healthcheck.conf.erb
+./templates/object-server.conf.erb
+./templates/recon.conf.erb

@@ -1,0 +1,14 @@
+./.sync.yml
+./setup.cfg
+./spec/fixtures/hiera.yaml
+./spec/fixtures/hieradata/default.yaml
+./spec/fixtures/hieradata/step1.yaml
+./spec/fixtures/hieradata/step2.yaml
+./spec/fixtures/hieradata/step3.yaml
+./spec/fixtures/hieradata/step4.yaml
+./spec/fixtures/hieradata/step5.yaml
+./spec/fixtures/hieradata/step6.yaml
+./templates/logrotate/containers_logrotate.conf.erb
+./templates/metrics/collectd-sensubility.conf.epp
+./templates/rsyslog_sidecar/rsyslog.conf.erb
+./zuul.d/layout.yaml

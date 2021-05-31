@@ -1,0 +1,5 @@
+./examples/init.pp
+./manifests/config.pp
+./manifests/init.pp
+./manifests/magnum.pp
+./manifests/params.pp

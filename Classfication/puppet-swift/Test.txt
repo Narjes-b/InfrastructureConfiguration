@@ -1,0 +1,5 @@
+./files/swift_tester.rb
+./manifests/test_file.pp
+./spec/classes/swift_test_file_spec.rb
+./templates/swift_keystone_test.erb
+./tox.ini
