@@ -1,0 +1,9 @@
+./babel.cfg
+./devstack/local.conf.aio-ovs-ssp
+./devstack/local.conf.aio-sea-localdisk
+./devstack/local.conf.compute
+./devstack/local.conf.control
+./doc/source/conf.py
+./doc/source/support-matrix.ini
+./openstack-common.conf
+./setup.cfg

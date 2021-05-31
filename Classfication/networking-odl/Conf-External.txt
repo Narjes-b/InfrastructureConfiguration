@@ -1,0 +1,11 @@
+./.zuul.d/jobs.yaml
+./.zuul.d/project.yaml
+./babel.cfg
+./devstack/local.conf.example
+./doc/source/conf.py
+./etc/neutron/plugins/ml2/ml2_conf_odl.ini
+./rally-jobs/odl.yaml
+./roles/show-odl-info/defaults/main.yaml
+./roles/show-odl-info/tasks/main.yaml
+./roles/show-odl-info/tasks/ovs_flows.yaml
+./setup.cfg

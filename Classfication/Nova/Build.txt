@@ -1,0 +1,6 @@
+./nova/compute/build_results.py
+./nova/objects/build_request.py
+./tools/build_latex_pdf.sh
+./nova/compute/build_results.py
+./nova/objects/build_request.py
+./tools/build_latex_pdf.sh

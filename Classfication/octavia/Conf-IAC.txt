@@ -1,0 +1,4 @@
+./devstack/samples/multinode/Vagrantfile
+./devstack/samples/singlenode/Vagrantfile
+./playbooks/image-build/post.yaml
+./playbooks/image-build/run.yaml
