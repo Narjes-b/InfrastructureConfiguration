@@ -1,0 +1,7 @@
+./setup.cfg
+./templates/api-config.yml.erb
+./templates/monasca-agent.init.erb
+./templates/notification.conf.erb
+./templates/persister-config.yml.erb
+./templates/supervisor.conf.erb
+./templates/thresh-config.yml.erb

@@ -1,0 +1,2 @@
+./examples/redhat_repo.yaml
+./setup.cfg

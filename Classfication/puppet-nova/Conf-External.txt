@@ -1,0 +1,3 @@
+./.zuul.yaml
+./setup.cfg
+./templates/krb5.conf.erb

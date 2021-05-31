@@ -1,0 +1,1 @@
+./puppet-{{cookiecutter.project_name}}/setup.cfg

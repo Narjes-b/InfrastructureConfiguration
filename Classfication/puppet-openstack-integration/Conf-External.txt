@@ -1,0 +1,12 @@
+./contrib/ssl-ipv4.conf
+./contrib/ssl-ipv6.conf
+./files/rsyslog-swift.conf
+./hiera/common.yaml
+./zuul.d/base.yaml
+./zuul.d/integration.yaml
+./zuul.d/layout.yaml
+./zuul.d/libraries.yaml
+./zuul.d/linters.yaml
+./zuul.d/litmus.yaml
+./zuul.d/tripleo.yaml
+./zuul.d/unit.yaml

@@ -1,0 +1,14 @@
+./puppet-{{cookiecutter.project_name}}/lib/puppet/provider/{{cookiecutter.project_name}}_config/ini_setting.rb
+./puppet-{{cookiecutter.project_name}}/lib/puppet/type/{{cookiecutter.project_name}}_config.rb
+./puppet-{{cookiecutter.project_name}}/setup.py
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_db_mysql_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_db_postgresql_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_db_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_db_sync_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_keystone_auth_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_keystone_authtoken_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_logging_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/classes/{{cookiecutter.project_name}}_policy_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/shared_examples.rb
+./puppet-{{cookiecutter.project_name}}/spec/unit/provider/{{cookiecutter.project_name}}_config/ini_setting_spec.rb
+./puppet-{{cookiecutter.project_name}}/spec/unit/type/{{cookiecutter.project_name}}_config_spec.rb
