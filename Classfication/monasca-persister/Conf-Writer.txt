@@ -1,0 +1,10 @@
+./monasca_persister/conf/cassandra.py
+./monasca_persister/conf/elasticsearch.py
+./monasca_persister/conf/influxdb.py
+./monasca_persister/conf/kafka_alarm_history.py
+./monasca_persister/conf/kafka_common.py
+./monasca_persister/conf/kafka_events.py
+./monasca_persister/conf/kafka_metrics.py
+./monasca_persister/conf/repositories.py
+./monasca_persister/conf/zookeeper.py
+./monasca_persister/config.py

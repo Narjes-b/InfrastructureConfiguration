@@ -1,0 +1,5 @@
+./docker/Dockerfile
+./docker/example/Dockerfile
+./playbooks/docker_build_base.yml
+./playbooks/docker_build_service.yml
+./playbooks/publish.yml

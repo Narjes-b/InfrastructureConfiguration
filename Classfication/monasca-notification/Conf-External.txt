@@ -1,0 +1,5 @@
+./.zuul.yaml
+./config-generator/notification.conf
+./etc/monasca/notification-logging.conf
+./monasca_notification/plugins/jiraformat.yml
+./setup.cfg

@@ -1,0 +1,16 @@
+./molteniron/tests/hardware_info.good
+./molteniron/tests/localrc.good
+./molteniron/tests/testAddBMNode.py
+./molteniron/tests/testAllocateBM.py
+./molteniron/tests/testCull.py
+./molteniron/tests/testDeallocateBM.py
+./molteniron/tests/testDeallocateOwner.py
+./molteniron/tests/testDoClean.py
+./molteniron/tests/testGetField.py
+./molteniron/tests/testGetIps.py
+./molteniron/tests/testRemoveBMNode.py
+./tools/test-setup.sh
+./tox.ini
+./utils/test_hook_configure_mi.sh
+./utils/test_hook_mi_ipmiblob.py
+./utils/test_hook_mi_ipmiblob.sh

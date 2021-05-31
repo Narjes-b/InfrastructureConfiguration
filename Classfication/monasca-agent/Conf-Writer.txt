@@ -1,0 +1,3 @@
+./monasca_agent/collector/virt/inspector.py
+./monasca_agent/collector/virt/vmware/inspector.py
+./monasca_agent/collector/virt/xenapi/inspector.py
