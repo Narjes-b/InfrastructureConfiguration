@@ -1,0 +1,14 @@
+./.zuul.yaml
+./doc/source/conf.py
+./etc/scenario/gate/credentials.yaml.mako
+./etc/scenario/gate/credentials_s3.yaml.mako
+./etc/scenario/gate/edp.yaml.mako
+./etc/scenario/gate/edp_s3.yaml.mako
+./etc/scenario/gate/fake.yaml.mako
+./etc/scenario/gate/spark-1.6.0.yaml.mako
+./roles/run-sahara-scenario/defaults/main.yaml
+./roles/run-sahara-scenario/tasks/main.yaml
+./roles/setup-sahara-scenario-env/defaults/main.yaml
+./roles/setup-sahara-scenario-env/tasks/main.yaml
+./roles/setup-sahara-scenario-env/tasks/setup_s3.yaml
+./setup.cfg

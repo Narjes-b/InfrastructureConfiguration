@@ -1,0 +1,8 @@
+./sahara_plugin_vanilla/plugins/vanilla/hadoop2/config.py
+./sahara_plugin_vanilla/plugins/vanilla/hadoop2/config_helper.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_7_1/config_helper.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_7_1/versionhandler.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_7_5/config_helper.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_7_5/versionhandler.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_8_2/config_helper.py
+./sahara_plugin_vanilla/plugins/vanilla/v2_8_2/versionhandler.py

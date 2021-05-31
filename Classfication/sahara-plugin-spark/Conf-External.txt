@@ -1,0 +1,5 @@
+./.zuul.yaml
+./babel.cfg
+./doc/source/conf.py
+./sahara_plugin_spark/plugins/spark/resources/images/image.yaml
+./setup.cfg
