@@ -1,0 +1,2 @@
+./playbooks/checkbuild/post.yaml
+./playbooks/checkbuild/pre.yaml

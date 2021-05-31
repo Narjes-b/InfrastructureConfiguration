@@ -1,0 +1,5 @@
+./doc/source/conf.py
+./setup.cfg
+./tripleo-get-hash/config.yaml
+./tripleo-get-hash/setup.cfg
+./zuul.d/layout.yaml

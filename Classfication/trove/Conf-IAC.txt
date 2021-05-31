@@ -1,0 +1,4 @@
+./backup/Dockerfile
+./playbooks/image-build/post.yaml
+./playbooks/image-build/run.yaml
+./playbooks/trove-devstack-base.yaml

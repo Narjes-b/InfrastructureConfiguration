@@ -1,0 +1,4 @@
+./babel-django.cfg
+./babel-djangojs.cfg
+./setup.cfg
+./trove_dashboard/static/dashboard/project/ngbackups/table/table.config.js

@@ -1,0 +1,14 @@
+./{{cookiecutter.repo_name}}/manage.py
+./{{cookiecutter.repo_name}}/setup.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/api/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/api/client.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/api/rest_api.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/content/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/content/{{cookiecutter.panel}}s/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/content/{{cookiecutter.panel}}s/panel.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/content/{{cookiecutter.panel}}s/urls.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/enabled/_90_{{cookiecutter.dashboard}}_{{cookiecutter.panel_group}}_panelgroup.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/enabled/_91_{{cookiecutter.dashboard}}_{{cookiecutter.panel_group}}_{{cookiecutter.panel}}s_panel.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/enabled/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/version.py

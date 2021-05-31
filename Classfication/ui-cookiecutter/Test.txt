@@ -1,0 +1,9 @@
+./tox.ini
+./{{cookiecutter.repo_name}}/test-shim.js
+./{{cookiecutter.repo_name}}/tox.ini
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/api_tests/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/api_tests/test_client.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/api_tests/test_rest_api.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/integration_tests/__init__.py
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/test/settings.py

@@ -1,0 +1,6 @@
+./Dockerfile
+./dockerfiles/localvalidations/Dockerfile
+./playbooks/post.yaml
+./playbooks/validations-libs-functional.yaml
+./Vagrantfile.centos
+./Vagrantfile.ubuntu
