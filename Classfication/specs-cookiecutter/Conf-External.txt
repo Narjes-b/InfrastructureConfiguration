@@ -1,0 +1,2 @@
+./{{cookiecutter.repo_name}}/doc/source/conf.py
+./{{cookiecutter.repo_name}}/setup.cfg

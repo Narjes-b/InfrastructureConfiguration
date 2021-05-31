@@ -1,0 +1,4 @@
+./publish.py
+./setup.py
+./transform.py
+./validate.py

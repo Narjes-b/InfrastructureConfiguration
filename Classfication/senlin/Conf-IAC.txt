@@ -1,0 +1,2 @@
+./playbooks/legacy/rally-dsvm-senlin-senlin/post.yaml
+./playbooks/legacy/rally-dsvm-senlin-senlin/run.yaml

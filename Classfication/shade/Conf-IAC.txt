@@ -1,0 +1,2 @@
+./playbooks/devstack/legacy-git.yaml
+./playbooks/devstack/post.yaml

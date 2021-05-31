@@ -1,0 +1,7 @@
+./.stestr.conf
+./solumdashboard/tests/__init__.py
+./solumdashboard/tests/common/test_workflow_parsers.py
+./solumdashboard/tests/settings.py
+./solumdashboard/tests/unit/__init__.py
+./solumdashboard/tests/unit/test_solum.py
+./tox.ini

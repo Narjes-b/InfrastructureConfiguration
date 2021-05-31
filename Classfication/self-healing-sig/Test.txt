@@ -1,0 +1,4 @@
+./.stestr/format
+./.stestr/next-stream
+./.testr.conf
+./tox.ini
