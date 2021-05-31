@@ -1,0 +1,2 @@
+./pymod2pkg/__init__.py
+./setup.py
