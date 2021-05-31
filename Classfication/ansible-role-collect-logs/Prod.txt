@@ -1,0 +1,12 @@
+./infrared_plugin/roles/collect_logs/files/heat-deploy-times.py
+./infrared_plugin/roles/collect_logs/library/ara_graphite.py
+./infrared_plugin/roles/collect_logs/library/flatten_nested_dict.py
+./infrared_plugin/roles/collect_logs/library/sova.py
+./plugins/modules/ara_graphite.py
+./plugins/modules/flatten_nested_dict.py
+./plugins/modules/sova.py
+./roles/collect_logs/files/heat-deploy-times.py
+./roles/collect_logs/library/ara_graphite.py
+./roles/collect_logs/library/flatten_nested_dict.py
+./roles/collect_logs/library/sova.py
+./setup.py

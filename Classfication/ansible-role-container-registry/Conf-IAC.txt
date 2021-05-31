@@ -1,0 +1,4 @@
+./molecule/default/playbook.yml
+./zuul.d/playbooks/pre.yml
+./zuul.d/playbooks/run-local.yml
+./zuul.d/playbooks/run.yml

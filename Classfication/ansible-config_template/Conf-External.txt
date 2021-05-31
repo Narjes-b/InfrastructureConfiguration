@@ -1,0 +1,4 @@
+./doc/source/conf.py
+./examples/ansible-role-requirements.yml
+./meta/main.yml
+./setup.cfg

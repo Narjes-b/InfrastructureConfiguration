@@ -1,0 +1,8 @@
+./infrared_plugin/roles/collect_logs/library/ara_influxdb.py
+./plugins/module_utils/test_utils.py
+./plugins/modules/ara_influxdb.py
+./roles/collect_logs/library/ara_influxdb.py
+./test-playbooks/zuul-ansible-role-collect-logs.yaml
+./tests/unit/test_flatten_nested_dict.py
+./tests/unit/test_sova.py
+./tox.ini

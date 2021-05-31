@@ -1,0 +1,4 @@
+./defaults/main.yaml
+./handlers/main.yaml
+./setup.cfg
+./tasks/main.yaml

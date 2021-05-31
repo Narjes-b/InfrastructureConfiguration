@@ -1,0 +1,11 @@
+./infrared_plugin/main.yml
+./infrared_plugin/roles/collect_logs/molecule/default/prepare.yml
+./infrared_plugin/roles/collect_logs/molecule/default/verify.yml
+./infrared_plugin/roles/collect_logs/molecule/sova/converge.yml
+./infrared_plugin/roles/collect_logs/molecule/sova/prepare.yml
+./infrared_plugin/roles/collect_logs/molecule/sova/verify.yml
+./roles/collect_logs/molecule/default/prepare.yml
+./roles/collect_logs/molecule/default/verify.yml
+./roles/collect_logs/molecule/sova/converge.yml
+./roles/collect_logs/molecule/sova/prepare.yml
+./roles/collect_logs/molecule/sova/verify.yml

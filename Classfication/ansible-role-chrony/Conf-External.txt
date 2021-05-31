@@ -1,0 +1,10 @@
+./ansible.cfg
+./defaults/main.yml
+./handlers/main.yml
+./meta/main.yml
+./setup.cfg
+./tasks/config.yml
+./tasks/install.yml
+./tasks/main.yml
+./tasks/upgrade.yml
+./vars/RedHat.yml
