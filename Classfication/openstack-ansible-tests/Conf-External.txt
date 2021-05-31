@@ -1,0 +1,10 @@
+./common-tasks/haproxy-endpoint-manage.yml
+./create-grant-db.yml
+./doc/source/conf.py
+./get-ansible-role-requirements.yml
+./setup.cfg
+./sync/tasks/db_setup.yml
+./sync/tasks/mq_setup.yml
+./sync/tasks/service_setup.yml
+./zuul.d/jobs.yaml
+./zuul.d/project-templates.yaml

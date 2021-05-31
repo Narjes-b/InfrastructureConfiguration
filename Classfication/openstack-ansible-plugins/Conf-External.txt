@@ -1,0 +1,5 @@
+./doc/source/conf.py
+./examples/example.ini
+./examples/playbook.yml
+./meta/main.yml
+./meta/openstack-ansible.yml

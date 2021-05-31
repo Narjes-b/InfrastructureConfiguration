@@ -1,0 +1,9 @@
+./playbooks/delivery.yaml
+./playbooks/integration.yaml
+./playbooks/minimal.yaml
+./playbooks/post.yaml
+./playbooks/pre-delivery.yaml
+./playbooks/pre-integration.yaml
+./playbooks/rake.yaml
+./playbooks/roles/install-chef/defaults/main.yaml
+./playbooks/roles/install-chef/tasks/main.yaml

@@ -1,0 +1,17 @@
+./defaults/main.yml
+./doc/source/conf.py
+./examples/playbook.yml
+./handlers/main.yml
+./meta/main.yml
+./meta/openstack-ansible.yml
+./setup.cfg
+./tasks/db_setup.yml
+./tasks/main.yml
+./tasks/mq_setup.yml
+./tasks/service_setup.yml
+./tasks/zun_compute.yml
+./tasks/zun_post_install.yml
+./tasks/zun_pre_install.yml
+./vars/debian.yml
+./vars/main.yml
+./vars/redhat.yml

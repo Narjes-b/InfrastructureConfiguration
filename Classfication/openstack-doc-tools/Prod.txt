@@ -1,0 +1,9 @@
+./os_doc_tools/__init__.py
+./os_doc_tools/version.py
+./setup.py
+./sitemap/__init__.py
+./sitemap/generator/__init__.py
+./sitemap/generator/pipelines.py
+./sitemap/generator/settings.py
+./sitemap/generator/spiders/__init__.py
+./sitemap/generator/spiders/sitemap_file.py
