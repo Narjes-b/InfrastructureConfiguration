@@ -1,0 +1,2 @@
+./magnum_tempest_plugin/common/config.py
+./magnum_tempest_plugin/config.py

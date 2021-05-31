@@ -1,0 +1,13 @@
+./ansible/post-deploy.yml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/cpu.yaml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/disk.yaml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/load.yaml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/memory.yaml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/network.yaml
+./ansible/roles/monasca/templates/monasca-agent-collector/plugins/ntp.yaml
+./ansible/site.yml
+./contrib/dev/vagrant/bootstrap.sh
+./contrib/dev/vagrant/newest_dhcp_lease.py
+./contrib/dev/vagrant/Vagrantfile
+./contrib/dev/vagrant/Vagrantfile.custom.example
+./tools/setup-compute-libvirt.yml
