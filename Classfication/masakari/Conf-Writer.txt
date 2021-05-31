@@ -1,0 +1,15 @@
+./masakari/cmd/api.py
+./masakari/cmd/manage.py
+./masakari/conf/api.py
+./masakari/conf/base.py
+./masakari/conf/database.py
+./masakari/conf/engine.py
+./masakari/conf/engine_driver.py
+./masakari/conf/exceptions.py
+./masakari/conf/nova.py
+./masakari/conf/osapi_v1.py
+./masakari/conf/paths.py
+./masakari/conf/service.py
+./masakari/conf/ssl.py
+./masakari/conf/wsgi.py
+./masakari/config.py

@@ -1,0 +1,3 @@
+./doc/source/conf.py
+./etc/masakarimonitors/masakarimonitors-config-generator.conf
+./setup.cfg

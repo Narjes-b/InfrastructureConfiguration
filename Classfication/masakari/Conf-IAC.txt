@@ -1,0 +1,3 @@
+./playbooks/devstack/post.yaml
+./playbooks/devstack/pre.yaml
+./playbooks/devstack/run.yaml

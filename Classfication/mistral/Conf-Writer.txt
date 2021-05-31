@@ -1,0 +1,4 @@
+./mistral/config.py
+./mistral/db/sqlalchemy/migration/cli.py
+./mistral/rpc/kombu/kombu_server.py
+./tools/sync_db.py

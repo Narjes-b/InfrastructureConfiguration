@@ -1,0 +1,8 @@
+./masakari/api/openstack/ha/versions.py
+./masakari/common/config.py
+./masakari/db/sqlalchemy/migration.py
+./masakari/engine/drivers/taskflow/host_failure.py
+./masakari/engine/drivers/taskflow/instance_failure.py
+./masakari/engine/drivers/taskflow/process_failure.py
+./masakari/policy.py
+./masakari/version.py

@@ -1,0 +1,2 @@
+./playbooks/manila-tempest-plugin-standalone/post.yaml
+./playbooks/manila-tempest-plugin-standalone/run.yaml

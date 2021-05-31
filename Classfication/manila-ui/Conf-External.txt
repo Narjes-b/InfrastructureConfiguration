@@ -1,0 +1,8 @@
+./.zuul.yaml
+./babel-django.cfg
+./babel-djangojs.cfg
+./babel.cfg
+./doc/source/conf.py
+./manila_ui/conf/default_policies/manila.yaml
+./manila_ui/conf/manila_policy.yaml
+./setup.cfg
