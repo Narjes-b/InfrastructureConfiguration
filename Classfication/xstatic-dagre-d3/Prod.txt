@@ -1,0 +1,4 @@
+./setup.py
+./xstatic/__init__.py
+./xstatic/pkg/__init__.py
+./xstatic/pkg/dagre_d3/__init__.py

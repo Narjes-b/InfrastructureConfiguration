@@ -1,0 +1,5 @@
+./babel-django.cfg
+./babel-djangojs.cfg
+./doc/source/conf.py
+./setup.cfg
+./zun_ui/karma.conf.js

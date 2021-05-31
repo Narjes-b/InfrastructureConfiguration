@@ -1,0 +1,5 @@
+./babel-django.cfg
+./babel-djangojs.cfg
+./doc/source/conf.py
+./setup.cfg
+./zaqar_ui/karma.conf.js

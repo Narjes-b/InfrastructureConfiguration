@@ -1,0 +1,12 @@
+./samples/zaqar/sendmail.py
+./zaqar/bench/config.py
+./zaqar/bootstrap.py
+./zaqar/cmd/gc.py
+./zaqar/cmd/server.py
+./zaqar/cmd/status.py
+./zaqar/common/auth.py
+./zaqar/common/utils.py
+./zaqar/storage/base.py
+./zaqar/storage/utils.py
+./zaqar/transport/acl.py
+./zaqar/transport/wsgi/app.py

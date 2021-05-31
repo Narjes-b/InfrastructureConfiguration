@@ -1,0 +1,13 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/parameters.yaml
+./api-ref/source/status.yaml
+./babel.cfg
+./doc/source/conf.py
+./dox.yml
+./etc/oslo-config-generator/zaqar.conf
+./etc/uwsgi.conf
+./etc/zaqar-policy-generator.conf
+./rally-jobs/zaqar-zaqar.yaml
+./setup.cfg
+./zaqar/storage/sqlalchemy/migration/alembic.ini
