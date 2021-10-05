@@ -1,0 +1,10 @@
+./.stestr.conf
+./microversion_parse/tests/__init__.py
+./microversion_parse/tests/gabbits/middleware.yaml
+./microversion_parse/tests/gabbits/simple.yaml
+./microversion_parse/tests/test_extract_version.py
+./microversion_parse/tests/test_get_version.py
+./microversion_parse/tests/test_headers_from_wsgi_environ.py
+./microversion_parse/tests/test_middleware.py
+./microversion_parse/tests/test_webob.py
+./tox.ini

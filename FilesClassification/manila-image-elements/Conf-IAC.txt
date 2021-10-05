@@ -1,0 +1,5 @@
+./data/docker/Dockerfile
+./playbooks/manila-buildimage-docker/run.yaml
+./playbooks/manila-buildimages/run-generic-scenario.yaml
+./playbooks/manila-buildimages/run.yaml
+./playbooks/manila-publish-artifacts/post.yaml

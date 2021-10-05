@@ -1,0 +1,13 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/parameters.yaml
+./api-ref/source/status.yaml
+./babel.cfg
+./doc/examples/etc/init/magnum-api.conf
+./doc/examples/etc/init/magnum-conductor.conf
+./doc/source/conf.py
+./etc/magnum/api-paste.ini
+./etc/magnum/magnum-config-generator.conf
+./etc/magnum/magnum-policy-generator.conf
+./magnum/db/sqlalchemy/alembic.ini
+./setup.cfg

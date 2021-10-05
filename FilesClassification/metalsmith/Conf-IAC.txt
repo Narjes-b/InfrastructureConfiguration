@@ -1,0 +1,9 @@
+./playbooks/integration/centos-image.yaml
+./playbooks/integration/centos8-image.yaml
+./playbooks/integration/centos8-integration.yaml
+./playbooks/integration/cirros-image.yaml
+./playbooks/integration/exercise.yaml
+./playbooks/integration/initial-setup.yaml
+./playbooks/integration/post.yaml
+./playbooks/integration/run.yaml
+./playbooks/integration/ssh-key.yaml
