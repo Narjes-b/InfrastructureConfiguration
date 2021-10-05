@@ -1,0 +1,6 @@
+./.zuul.yaml
+./{{cookiecutter.repo_name}}/babel-django.cfg
+./{{cookiecutter.repo_name}}/babel-djangojs.cfg
+./{{cookiecutter.repo_name}}/doc/source/conf.py
+./{{cookiecutter.repo_name}}/setup.cfg
+./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/karma.conf.js

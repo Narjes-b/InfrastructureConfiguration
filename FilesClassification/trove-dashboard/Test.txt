@@ -1,0 +1,15 @@
+./run_tests.sh
+./tox.ini
+./trove_dashboard/content/database_backups/tests.py
+./trove_dashboard/content/database_configurations/tests.py
+./trove_dashboard/content/databases/logs/tests.py
+./trove_dashboard/content/databases/tests.py
+./trove_dashboard/test/__init__.py
+./trove_dashboard/test/helpers.py
+./trove_dashboard/test/settings.py
+./trove_dashboard/test/test_data/__init__.py
+./trove_dashboard/test/test_data/exceptions.py
+./trove_dashboard/test/test_data/keystone_data.py
+./trove_dashboard/test/test_data/trove_data.py
+./trove_dashboard/test/test_data/utils.py
+./trove_dashboard/test/urls.py

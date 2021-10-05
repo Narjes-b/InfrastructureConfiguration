@@ -1,0 +1,15 @@
+./Dockerfile
+./molecule/install-deps/converge.yml
+./playbooks/build-images-and-quickstart.yml
+./playbooks/build-images.yml
+./playbooks/libvirt-nodepool.yml
+./playbooks/libvirt-setup.yml
+./playbooks/libvirt-teardown.yml
+./playbooks/noop.yml
+./playbooks/provision.yml
+./playbooks/quickstart.yml
+./playbooks/repo-setup-virthost.yml
+./playbooks/teardown-environment.yml
+./playbooks/teardown-nodes.yml
+./playbooks/teardown-provision.yml
+./playbooks/teardown.yml

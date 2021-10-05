@@ -1,0 +1,15 @@
+./backup/drivers/base.py
+./backup/drivers/innobackupex.py
+./backup/drivers/mariabackup.py
+./backup/drivers/mysql_base.py
+./backup/drivers/xtrabackup.py
+./backup/storage/swift.py
+./trove/cmd/fakemode.py
+./trove/cmd/status.py
+./trove/common/policy.py
+./trove/common/rpc/conductor_guest_serializer.py
+./trove/common/rpc/conductor_host_serializer.py
+./trove/common/template.py
+./trove/guestagent/datastore/manager.py
+./trove/quota/quota.py
+./trove/rpc.py

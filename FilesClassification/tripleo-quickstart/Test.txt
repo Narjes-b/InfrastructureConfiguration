@@ -1,0 +1,17 @@
+./config/release/tripleo-ci/CentOS-7/promotion-testing-hash-queens.yml
+./config/release/tripleo-ci/CentOS-7/promotion-testing-hash-stein.yml
+./config/release/tripleo-ci/CentOS-7/promotion-testing-hash-train.yml
+./config/release/tripleo-ci/CentOS-8/promotion-testing-hash-master.yml
+./config/release/tripleo-ci/CentOS-8/promotion-testing-hash-train.yml
+./config/release/tripleo-ci/CentOS-8/promotion-testing-hash-ussuri.yml
+./config/release/tripleo-ci/CentOS-8/promotion-testing-hash-victoria.yml
+./config/release/tripleo-ci/CentOS-8/promotion-testing-hash-wallaby.yml
+./config/release/tripleo-ci/RedHat-8/promotion-testing-hash-master.yml
+./config/release/tripleo-ci/RedHat-8/promotion-testing-hash-train.yml
+./roles/tripleo-inventory/tests/inventory
+./roles/tripleo-inventory/tests/playbooks/quickstart-usb.yml
+./roles/tripleo-inventory/tests/test.yml
+./test_plugins/equalto.py
+./tests/test_release_files.py
+./tests/validate-release-config.yml
+./tox.ini

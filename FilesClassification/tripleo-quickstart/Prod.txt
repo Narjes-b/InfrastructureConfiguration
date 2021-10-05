@@ -1,0 +1,5 @@
+./fs-matrix.py
+./library/generate_macs.py
+./roles/tripleo-inventory/files/get_extra_node.py
+./roles/tripleo-inventory/files/remove_extra_node.py
+./setup.py
