@@ -1,6 +1,0 @@
-./horizon/templates/bin/_manage.py.tpl
-./keystone/templates/bin/_cred-clean.py.tpl
-./keystone/templates/bin/_domain-manage.py.tpl
-./keystone/templates/bin/_endpoint-update.py.tpl
-./keystone/templates/bin/_fernet-manage.py.tpl
-./setup.py

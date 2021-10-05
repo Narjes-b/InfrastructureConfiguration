@@ -1,9 +1,0 @@
-./oslo_versionedobjects/__init__.py
-./oslo_versionedobjects/_i18n.py
-./oslo_versionedobjects/_options.py
-./oslo_versionedobjects/_utils.py
-./oslo_versionedobjects/base.py
-./oslo_versionedobjects/examples/__init__.py
-./oslo_versionedobjects/examples/iot_bulb.py
-./oslo_versionedobjects/fields.py
-./setup.py

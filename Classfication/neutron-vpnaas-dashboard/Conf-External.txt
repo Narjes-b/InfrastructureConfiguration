@@ -1,6 +1,0 @@
-./babel-django.cfg
-./babel-djangojs.cfg
-./deliverables/pike/neutron-vpnaas-dashboard.yaml
-./deliverables/queens/neutron-vpnaas-dashboard.yaml
-./doc/source/conf.py
-./setup.cfg

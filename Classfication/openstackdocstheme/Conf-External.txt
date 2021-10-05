@@ -1,9 +1,0 @@
-./.pre-commit-config.yaml
-./.zuul.yaml
-./api-ref/source/conf.py
-./api-ref/source/parameters.yaml
-./api-ref/source/status.yaml
-./doc/source/conf.py
-./openstackdocstheme/theme/openstackdocs/theme.conf
-./openstackdocstheme/theme/starlingxdocs/theme.conf
-./setup.cfg

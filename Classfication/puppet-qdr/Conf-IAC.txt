@@ -1,6 +1,0 @@
-./examples/site.pp
-./manifests/config.pp
-./manifests/init.pp
-./manifests/install.pp
-./manifests/params.pp
-./manifests/service.pp

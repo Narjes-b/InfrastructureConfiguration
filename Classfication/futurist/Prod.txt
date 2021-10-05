@@ -1,9 +1,0 @@
-./futurist/__init__.py
-./futurist/_futures.py
-./futurist/_green.py
-./futurist/_thread.py
-./futurist/_utils.py
-./futurist/periodics.py
-./futurist/rejection.py
-./futurist/waiters.py
-./setup.py

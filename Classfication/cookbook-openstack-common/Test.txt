@@ -1,2 +1,0 @@
-./spec/cookbooks/test-openstack-common-database/metadata.rb
-./spec/cookbooks/test-openstack-common-database/recipes/default.rb

@@ -1,4 +1,0 @@
-./checksite/local.conf
-./doc/source/conf.py
-./setup.cfg
-./tools/zanata/translation_team.yaml

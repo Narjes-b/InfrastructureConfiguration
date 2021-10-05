@@ -1,2 +1,0 @@
-./examples/v2/services_registration/multiple_services_registration.yaml
-./Vagrantfile

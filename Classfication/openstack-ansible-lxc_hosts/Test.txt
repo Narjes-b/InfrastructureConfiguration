@@ -1,6 +1,0 @@
-./manual-test.rc
-./run_tests.sh
-./tests/ansible-role-requirements.yml
-./tests/inventory
-./tests/test.yml
-./tox.ini

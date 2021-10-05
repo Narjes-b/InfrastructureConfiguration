@@ -1,7 +1,0 @@
-./recipes/api-cfn.rb
-./recipes/api.rb
-./recipes/common.rb
-./recipes/dashboard.rb
-./recipes/engine.rb
-./recipes/identity_registration.rb
-./templates/default/default.yaml.erb

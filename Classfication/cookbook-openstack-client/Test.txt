@@ -1,2 +1,0 @@
-./test/integration/default/serverspec/default_spec.rb
-./test/integration/default/serverspec/spec_helper.rb

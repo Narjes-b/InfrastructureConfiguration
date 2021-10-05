@@ -1,7 +1,0 @@
-./ansible-test-env.rc
-./scripts/run-local-test
-./tests/conftest.py
-./tests/hosts.ini
-./tests/test_molecule.py
-./tox.ini
-./zuul.d.prep/playbooks/prepare-test-host.yml

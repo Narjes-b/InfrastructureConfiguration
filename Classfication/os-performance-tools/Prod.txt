@@ -1,8 +1,0 @@
-./os_performance_tools/__init__.py
-./os_performance_tools/collect.py
-./os_performance_tools/collectors/__init__.py
-./os_performance_tools/collectors/_delta.py
-./os_performance_tools/collectors/mysql.py
-./os_performance_tools/collectors/queues.py
-./os_performance_tools/error.py
-./setup.py

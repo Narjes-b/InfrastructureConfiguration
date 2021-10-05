@@ -1,5 +1,0 @@
-./docker/build_image.sh
-./docker/collector/build_image.sh
-./docker/forwarder/build_image.sh
-./docker/statsd/build_image.sh
-./monasca_agent/collector/checks_d/jenkins.py

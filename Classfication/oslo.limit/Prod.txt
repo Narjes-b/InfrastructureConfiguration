@@ -1,4 +1,0 @@
-./oslo_limit/__init__.py
-./oslo_limit/_i18n.py
-./oslo_limit/exception.py
-./setup.py

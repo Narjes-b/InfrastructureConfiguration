@@ -1,5 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./config-generator/keystonemiddleware.conf
-./doc/source/conf.py
-./setup.cfg

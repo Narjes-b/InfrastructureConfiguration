@@ -1,1 +1,0 @@
-./keystonemiddleware/_common/config.py

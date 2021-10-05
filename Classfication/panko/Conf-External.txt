@@ -1,7 +1,0 @@
-./.zuul.yaml
-./doc/source/conf.py
-./etc/panko/api_paste.ini
-./etc/panko/panko-config-generator.conf
-./etc/panko/panko-policy-generator.conf
-./panko/storage/sqlalchemy/alembic/alembic.ini
-./setup.cfg

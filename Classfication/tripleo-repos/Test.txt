@@ -1,8 +1,0 @@
-./.stestr.conf
-./tox.ini
-./tripleo-get-hash/test/__init__.py
-./tripleo-get-hash/test/fakes.py
-./tripleo-get-hash/test/test_tripleo_get_hash.py
-./tripleo-get-hash/test/test_tripleo_get_hash_info.py
-./tripleo_repos/tests/__init__.py
-./tripleo_repos/tests/test_main.py

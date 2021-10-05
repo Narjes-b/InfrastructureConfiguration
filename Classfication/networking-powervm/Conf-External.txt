@@ -1,4 +1,0 @@
-./babel.cfg
-./doc/source/conf.py
-./openstack-common.conf
-./setup.cfg

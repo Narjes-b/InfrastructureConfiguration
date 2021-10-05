@@ -1,7 +1,0 @@
-./oswin_tempest_plugin/__init__.py
-./oswin_tempest_plugin/clients/__init__.py
-./oswin_tempest_plugin/clients/wsman.py
-./oswin_tempest_plugin/exceptions.py
-./oswin_tempest_plugin/services/__init__.py
-./oswin_tempest_plugin/services/gnocchi_client.py
-./setup.py

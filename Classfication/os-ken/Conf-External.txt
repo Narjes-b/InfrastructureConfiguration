@@ -1,8 +1,0 @@
-./.travis.yml
-./doc/source/conf.py
-./doc/source/docutils.conf
-./etc/os_ken/os_ken.conf
-./os_ken/services/protocols/bgp/api/rtconf.py
-./os_ken/services/protocols/bgp/bgp_sample_conf.py
-./os_ken/services/protocols/bgp/operator/views/conf.py
-./setup.cfg

@@ -1,3 +1,0 @@
-./.sync.yml
-./.zuul.yaml
-./setup.cfg

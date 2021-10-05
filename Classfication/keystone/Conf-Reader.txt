@@ -1,5 +1,0 @@
-./keystone/common/sql/core.py
-./keystone/common/validation/validators.py
-./keystone/federation/utils.py
-./keystone/identity/core.py
-./keystone/identity/shadow_backends/sql.py

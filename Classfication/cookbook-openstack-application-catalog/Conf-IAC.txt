@@ -1,4 +1,0 @@
-./recipes/dashboard.rb
-./recipes/default.rb
-./recipes/openrc.rb
-./recipes/server.rb

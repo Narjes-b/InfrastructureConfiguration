@@ -1,2 +1,0 @@
-./sahara_tempest_plugin/config.py
-./sahara_tempest_plugin/plugin.py

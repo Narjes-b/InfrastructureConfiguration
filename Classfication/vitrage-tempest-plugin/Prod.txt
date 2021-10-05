@@ -1,3 +1,0 @@
-./setup.py
-./vitrage_tempest_plugin/__init__.py
-./vitrage_tempest_plugin/services/__init__.py

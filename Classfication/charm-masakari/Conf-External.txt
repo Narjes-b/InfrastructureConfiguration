@@ -1,7 +1,0 @@
-./osci.yaml
-./src/config.yaml
-./src/layer.yaml
-./src/metadata.yaml
-./src/templates/masakari-api.conf
-./src/templates/masakari.conf
-./src/templates/stein/masakari.conf

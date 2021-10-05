@@ -1,5 +1,0 @@
-./ceilometer/keystone_client.py
-./ceilometer/notification.py
-./ceilometer/polling/manager.py
-./ceilometer/publisher/messaging.py
-./ceilometer/volume/discovery.py

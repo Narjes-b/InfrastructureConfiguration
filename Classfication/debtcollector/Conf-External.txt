@@ -1,4 +1,0 @@
-./.pre-commit-config.yaml
-./babel.cfg
-./doc/source/conf.py
-./setup.cfg

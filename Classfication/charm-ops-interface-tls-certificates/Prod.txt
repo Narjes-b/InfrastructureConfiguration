@@ -1,3 +1,0 @@
-./interface_tls_certificates/__init__.py
-./interface_tls_certificates/ca_client.py
-./setup.py

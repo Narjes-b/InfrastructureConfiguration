@@ -1,8 +1,0 @@
-./api-ref/source/conf.py
-./api-ref/source/parameters.yaml
-./doc/source/conf.py
-./etc/oslo-config-generator/networking-sfc.conf
-./etc/oslo-policy-generator/policy.conf
-./setup.cfg
-./zuul.d/jobs.yaml
-./zuul.d/projects.yaml

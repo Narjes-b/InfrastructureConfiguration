@@ -1,2 +1,0 @@
-./bifrost/inventory.py
-./playbooks/inventory/bifrost_inventory.py

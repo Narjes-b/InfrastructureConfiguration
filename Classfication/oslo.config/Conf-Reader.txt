@@ -1,5 +1,0 @@
-./oslo_config/_list_opts.py
-./oslo_config/generator.py
-./oslo_config/sources/_uri.py
-./oslo_config/sphinxext.py
-./oslo_config/validator.py

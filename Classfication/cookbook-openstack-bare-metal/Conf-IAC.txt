@@ -1,5 +1,0 @@
-./recipes/api.rb
-./recipes/conductor.rb
-./recipes/default.rb
-./recipes/identity_registration.rb
-./recipes/ironic-common.rb

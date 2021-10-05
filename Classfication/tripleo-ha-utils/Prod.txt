@@ -1,3 +1,0 @@
-./rally/plugins/instanceha.py
-./roles/stonith-config/templates/config-stonith-from-instackenv.py.readme
-./setup.py

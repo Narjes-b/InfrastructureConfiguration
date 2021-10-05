@@ -1,7 +1,0 @@
-./.stestr.conf
-./oslo_reports/tests/__init__.py
-./oslo_reports/tests/test_base_report.py
-./oslo_reports/tests/test_guru_meditation_report.py
-./oslo_reports/tests/test_openstack_generators.py
-./oslo_reports/tests/test_views.py
-./tox.ini

@@ -1,9 +1,0 @@
-./devstack/barbican-vagrant/install_devstack.sh
-./devstack/barbican-vagrant/Vagrantfile
-./playbooks/legacy/barbican-devstack-base/post.yaml
-./playbooks/legacy/barbican-devstack-base/run.yaml
-./playbooks/legacy/barbican-devstack-functional-base/dogtag-post.yaml
-./playbooks/legacy/barbican-devstack-functional-base/post.yaml
-./playbooks/legacy/barbican-devstack-functional-base/run.yaml
-./playbooks/legacy/grenade-devstack-barbican/post.yaml
-./playbooks/legacy/grenade-devstack-barbican/run.yaml

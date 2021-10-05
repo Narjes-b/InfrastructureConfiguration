@@ -1,7 +1,0 @@
-./.stestr.conf
-./futurist/tests/__init__.py
-./futurist/tests/base.py
-./futurist/tests/test_executors.py
-./futurist/tests/test_periodics.py
-./futurist/tests/test_waiters.py
-./tox.ini

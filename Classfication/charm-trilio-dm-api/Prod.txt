@@ -1,2 +1,0 @@
-./src/lib/charm/openstack/dmapi.py
-./src/reactive/dmapi_handlers.py

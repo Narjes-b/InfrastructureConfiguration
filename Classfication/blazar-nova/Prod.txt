@@ -1,5 +1,0 @@
-./blazarnova/__init__.py
-./blazarnova/i18n.py
-./blazarnova/scheduler/__init__.py
-./blazarnova/scheduler/filters/__init__.py
-./setup.py

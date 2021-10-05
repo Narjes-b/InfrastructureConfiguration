@@ -1,3 +1,0 @@
-./molecule/default/converge.yml
-./Vagrantfile
-./zuul.d/playbooks/pre-tempestconf.yml

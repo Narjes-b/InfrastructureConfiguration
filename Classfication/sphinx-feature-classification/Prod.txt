@@ -1,3 +1,0 @@
-./setup.py
-./sphinx_feature_classification/__init__.py
-./sphinx_feature_classification/support_matrix.py

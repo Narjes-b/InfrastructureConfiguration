@@ -1,6 +1,0 @@
-./.stestr.conf
-./release_test/__init__.py
-./release_test/tests/__init__.py
-./release_test/tests/base.py
-./release_test/tests/test_release_test.py
-./tox.ini

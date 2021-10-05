@@ -1,3 +1,0 @@
-./playbooks/devstack-tempest-ipv6.yaml
-./playbooks/devstack-tempest.yaml
-./playbooks/post-tempest.yaml

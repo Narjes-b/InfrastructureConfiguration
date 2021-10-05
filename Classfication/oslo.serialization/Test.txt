@@ -1,6 +1,0 @@
-./.stestr.conf
-./oslo_serialization/tests/__init__.py
-./oslo_serialization/tests/test_base64.py
-./oslo_serialization/tests/test_jsonutils.py
-./oslo_serialization/tests/test_msgpackutils.py
-./tox.ini

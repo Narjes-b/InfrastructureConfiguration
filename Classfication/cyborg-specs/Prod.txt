@@ -1,3 +1,0 @@
-./doc/source/specs/__init__.py
-./setup.py
-./specs/__init__.py

@@ -1,8 +1,0 @@
-./masakarimonitors/conf/api.py
-./masakarimonitors/conf/base.py
-./masakarimonitors/conf/host.py
-./masakarimonitors/conf/instance.py
-./masakarimonitors/conf/introspectiveinstancemonitor.py
-./masakarimonitors/conf/process.py
-./masakarimonitors/conf/service.py
-./masakarimonitors/config.py

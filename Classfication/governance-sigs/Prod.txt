@@ -1,2 +1,0 @@
-./doc/source/_exts/sigtable.py
-./setup.py

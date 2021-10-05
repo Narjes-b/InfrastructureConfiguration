@@ -1,7 +1,0 @@
-./.stestr.conf
-./tox.ini
-./whereto/tests/__init__.py
-./whereto/tests/base.py
-./whereto/tests/test_app.py
-./whereto/tests/test_parser.py
-./whereto/tests/test_rules.py

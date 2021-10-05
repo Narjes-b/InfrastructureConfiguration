@@ -1,4 +1,0 @@
-./playbooks/cinder-gate-run.yaml
-./playbooks/required-projects-bindeps.yaml
-./playbooks/setup-ceph.yaml
-./playbooks/setup-lvm.yaml

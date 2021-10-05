@@ -1,5 +1,0 @@
-./devstack/upgrade/templates/random_string.yaml
-./etc/heat/templates/AWS_CloudWatch_Alarm.yaml
-./etc/heat/templates/AWS_RDS_DBInstance.yaml
-./playbooks/devstack/functional/post.yaml
-./playbooks/devstack/functional/run.yaml

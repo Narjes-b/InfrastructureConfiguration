@@ -1,8 +1,0 @@
-./.stestr.conf
-./openstack_election/tests/__init__.py
-./openstack_election/tests/base.py
-./openstack_election/tests/cmds/__init__.py
-./openstack_election/tests/cmds/test_ci_checks.py
-./openstack_election/tests/fixtures.py
-./openstack_election/tests/test_utils.py
-./tox.ini

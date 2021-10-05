@@ -1,5 +1,0 @@
-./.stestr.conf
-./test/__init__.py
-./test/test_pipelines.py
-./test/test_sitemap_file.py
-./tox.ini

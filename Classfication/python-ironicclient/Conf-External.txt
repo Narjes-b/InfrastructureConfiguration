@@ -1,4 +1,0 @@
-./doc/source/conf.py
-./setup.cfg
-./zuul.d/ironicclient-jobs.yaml
-./zuul.d/project.yaml

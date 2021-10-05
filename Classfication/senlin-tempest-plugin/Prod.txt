@@ -1,9 +1,0 @@
-./senlin_tempest_plugin/__init__.py
-./senlin_tempest_plugin/common/__init__.py
-./senlin_tempest_plugin/common/clustering_client.py
-./senlin_tempest_plugin/common/compute_client.py
-./senlin_tempest_plugin/common/constants.py
-./senlin_tempest_plugin/common/messaging_client.py
-./senlin_tempest_plugin/common/network_client.py
-./senlin_tempest_plugin/common/utils.py
-./setup.py

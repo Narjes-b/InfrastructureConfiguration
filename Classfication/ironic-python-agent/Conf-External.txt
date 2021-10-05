@@ -1,9 +1,0 @@
-./doc/source/conf.py
-./examples/business-logic/setup.cfg
-./examples/custom-disk-erase/setup.cfg
-./examples/vendor-device/setup.cfg
-./setup.cfg
-./tools/bandit.yml
-./tools/config/ipa-config-generator.conf
-./zuul.d/ironic-python-agent-jobs.yaml
-./zuul.d/project.yaml

@@ -1,4 +1,0 @@
-./tests/deploy-ipsec-tripleo.yml
-./tests/inventory
-./tests/test.yml
-./tox.ini

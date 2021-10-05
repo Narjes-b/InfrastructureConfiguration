@@ -1,3 +1,0 @@
-./playbooks/build-kafka.yaml
-./playbooks/nodejs-pre.yaml
-./playbooks/requirements-check.yaml

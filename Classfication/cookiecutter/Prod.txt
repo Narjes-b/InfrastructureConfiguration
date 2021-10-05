@@ -1,2 +1,0 @@
-./{{cookiecutter.repo_name}}/setup.py
-./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/__init__.py

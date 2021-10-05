@@ -1,6 +1,0 @@
-./.stestr.conf
-./os_traits/tests/__init__.py
-./os_traits/tests/base.py
-./os_traits/tests/test_cuda.py
-./os_traits/tests/test_os_traits.py
-./tox.ini

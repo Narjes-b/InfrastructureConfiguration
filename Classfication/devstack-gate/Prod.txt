@@ -1,2 +1,0 @@
-./playbooks/library/__init__.py
-./playbooks/plugins/callback/devstack.py

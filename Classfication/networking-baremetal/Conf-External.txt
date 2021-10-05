@@ -1,5 +1,0 @@
-./babel.cfg
-./doc/source/conf.py
-./setup.cfg
-./tools/config/networking-baremetal-config-generator.conf
-./zuul.d/networking-baremetal-jobs.yaml

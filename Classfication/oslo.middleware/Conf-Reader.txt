@@ -1,6 +1,0 @@
-./oslo_middleware/base.py
-./oslo_middleware/cors.py
-./oslo_middleware/healthcheck/opts.py
-./oslo_middleware/http_proxy_to_wsgi.py
-./oslo_middleware/sizelimit.py
-./oslo_middleware/ssl.py

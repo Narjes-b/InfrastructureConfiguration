@@ -1,4 +1,0 @@
-./.stestr.conf
-./ptgbot/tests/__init__.py
-./ptgbot/tests/test_message_process.py
-./tox.ini

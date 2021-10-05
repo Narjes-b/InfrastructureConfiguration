@@ -1,4 +1,0 @@
-./doc/source/conf.py
-./doc/source/specs/queens/restructure-repo-management-and-pip-install.yml
-./setup.cfg
-./specs/queens/restructure-repo-management-and-pip-install.yml

@@ -1,2 +1,0 @@
-./filter_plugins/osa-filter.py
-./setup.py

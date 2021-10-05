@@ -1,8 +1,0 @@
-./.stestr.conf
-./oslo_concurrency/fixture/lockutils.py
-./oslo_concurrency/tests/__init__.py
-./oslo_concurrency/tests/unit/__init__.py
-./oslo_concurrency/tests/unit/test_lockutils.py
-./oslo_concurrency/tests/unit/test_lockutils_eventlet.py
-./oslo_concurrency/tests/unit/test_processutils.py
-./tox.ini

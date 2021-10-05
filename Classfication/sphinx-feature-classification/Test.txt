@@ -1,7 +1,0 @@
-./.stestr.conf
-./sphinx_feature_classification/tests/__init__.py
-./sphinx_feature_classification/tests/base.py
-./sphinx_feature_classification/tests/fakes/__init__.py
-./sphinx_feature_classification/tests/fakes/support-matrix.ini
-./sphinx_feature_classification/tests/test_sphinx_feature_classification.py
-./tox.ini

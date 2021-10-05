@@ -1,2 +1,0 @@
-./os_resource_classes/__init__.py
-./setup.py

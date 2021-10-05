@@ -1,9 +1,0 @@
-./.stestr.conf
-./sahara_plugin_storm/tests/__init__.py
-./sahara_plugin_storm/tests/unit/__init__.py
-./sahara_plugin_storm/tests/unit/base.py
-./sahara_plugin_storm/tests/unit/plugins/__init__.py
-./sahara_plugin_storm/tests/unit/plugins/storm/__init__.py
-./sahara_plugin_storm/tests/unit/plugins/storm/test_config_helper.py
-./sahara_plugin_storm/tests/unit/plugins/storm/test_plugin.py
-./tox.ini

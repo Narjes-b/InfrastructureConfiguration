@@ -1,6 +1,0 @@
-./.stestr.conf
-./ceilometermiddleware/tests/__init__.py
-./ceilometermiddleware/tests/base.py
-./ceilometermiddleware/tests/data/list_projects.yaml
-./ceilometermiddleware/tests/test_swift.py
-./tox.ini

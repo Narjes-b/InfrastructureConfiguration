@@ -1,6 +1,0 @@
-./.zuul.d/cross-jobs.yaml
-./.zuul.d/jobs.yaml
-./.zuul.d/project-template.yaml
-./.zuul.d/project.yaml
-./doc/source/conf.py
-./setup.cfg

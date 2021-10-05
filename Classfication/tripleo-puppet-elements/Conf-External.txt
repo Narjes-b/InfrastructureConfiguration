@@ -1,4 +1,0 @@
-./doc/source/conf.py
-./elements/overcloud-controller/package-installs.yaml
-./elements/puppet-modules/package-installs.yaml
-./setup.cfg

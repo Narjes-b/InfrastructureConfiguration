@@ -1,5 +1,0 @@
-./recipes/create_network.rb
-./recipes/dns.rb
-./recipes/orchestration.rb
-./recipes/run_tempest.rb
-./recipes/setup.rb

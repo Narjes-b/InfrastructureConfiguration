@@ -1,5 +1,0 @@
-./.stestr.conf
-./os_resource_classes/tests/__init__.py
-./os_resource_classes/tests/base.py
-./os_resource_classes/tests/test_os_resource_classes.py
-./tox.ini

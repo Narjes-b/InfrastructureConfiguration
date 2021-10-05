@@ -1,3 +1,0 @@
-./doc/source/conf.py
-./setup.cfg
-./zuul.d/python-ironic-inspector-client-jobs.yaml

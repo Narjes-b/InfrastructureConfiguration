@@ -1,5 +1,0 @@
-./.zuul.yaml
-./etc/cni/net.d/10-bridge.conf
-./etc/cni/net.d/99-loopback.conf
-./roles/fetch_docker_log/tasks/main.yaml
-./roles/fetch_kubelet_log/tasks/main.yaml

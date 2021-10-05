@@ -1,4 +1,0 @@
-./.zuul.yaml
-./doc/source/_theme_rtd/theme.conf
-./doc/source/conf.py
-./setup.cfg

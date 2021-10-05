@@ -1,4 +1,0 @@
-./.zuul.yaml
-./accounts_file.yaml
-./babel.cfg
-./setup.cfg

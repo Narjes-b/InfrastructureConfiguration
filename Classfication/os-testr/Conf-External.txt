@@ -1,3 +1,0 @@
-./babel.cfg
-./doc/source/conf.py
-./setup.cfg

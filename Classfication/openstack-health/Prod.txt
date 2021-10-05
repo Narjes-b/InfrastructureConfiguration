@@ -1,6 +1,0 @@
-./openstack_health/__init__.py
-./openstack_health/api.py
-./openstack_health/base_aggregator.py
-./openstack_health/distributed_dbm.py
-./openstack_health/run_aggregator.py
-./setup.py

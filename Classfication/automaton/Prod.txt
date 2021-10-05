@@ -1,8 +1,0 @@
-./automaton/__init__.py
-./automaton/_utils.py
-./automaton/converters/__init__.py
-./automaton/converters/pydot.py
-./automaton/exceptions.py
-./automaton/machines.py
-./automaton/runners.py
-./setup.py

@@ -1,2 +1,0 @@
-./docker/rootfs/etc/swift_build/build_devices
-./docker/rootfs/etc/swift_build/build_remakerings

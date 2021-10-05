@@ -1,6 +1,0 @@
-./src/lib/__init__.py
-./src/lib/charm/__init__.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/watcher.py
-./src/reactive/__init__.py
-./src/reactive/watcher_handlers.py

@@ -1,8 +1,0 @@
-./monasca_notification/common/repositories/orm/orm_repo.py
-./monasca_notification/common/utils.py
-./monasca_notification/conf/types.py
-./monasca_notification/notification_engine.py
-./monasca_notification/periodic_engine.py
-./monasca_notification/processors/alarm_processor.py
-./monasca_notification/retry_engine.py
-./monasca_notification/types/notifiers.py

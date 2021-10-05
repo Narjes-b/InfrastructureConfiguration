@@ -1,5 +1,0 @@
-./.zuul.yaml
-./doc/source/conf.py
-./etc/cloudkitty/csv_config.yml
-./etc/cloudkitty/legacy_csv_config.yml
-./setup.cfg

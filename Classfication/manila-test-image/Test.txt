@@ -1,3 +1,0 @@
-./playbooks/manila-test-image-build/run.yaml
-./test-image.sh
-./tox.ini

@@ -1,4 +1,0 @@
-./oslo_upgradecheck/__init__.py
-./oslo_upgradecheck/_i18n.py
-./oslo_upgradecheck/common_checks.py
-./setup.py

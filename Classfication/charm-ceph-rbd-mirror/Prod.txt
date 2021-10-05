@@ -1,7 +1,0 @@
-./src/actions/actions.py
-./src/lib/__init__.py
-./src/lib/charm/__init__.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/ceph_rbd_mirror.py
-./src/reactive/__init__.py
-./src/reactive/ceph_rbd_mirror_handlers.py

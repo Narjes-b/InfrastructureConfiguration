@@ -1,4 +1,0 @@
-./panko/api/app.py
-./panko/api/rbac.py
-./panko/conf/defaults.py
-./panko/service.py

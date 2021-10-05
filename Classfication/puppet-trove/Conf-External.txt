@@ -1,2 +1,0 @@
-./setup.cfg
-./templates/trove-guestagent.conf.erb

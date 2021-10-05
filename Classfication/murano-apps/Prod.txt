@@ -1,3 +1,0 @@
-./PivotalOperationsManager/package/Resources/merge_settings.py
-./ZabbixAgent/package/Resources/scripts/addProbe.py
-./ZabbixAgent/package/Resources/scripts/zabbixApi.py

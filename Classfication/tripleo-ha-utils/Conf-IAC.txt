@@ -1,4 +1,0 @@
-./playbooks/baremetal-undercloud-validate-ha.yml
-./playbooks/overcloud-instance-ha.yml
-./playbooks/overcloud-stonith-config.yml
-./playbooks/overcloud-validate-ha.yml

@@ -1,3 +1,0 @@
-./playbooks/configure_functional_job.yaml
-./playbooks/post_functional_job.yaml
-./playbooks/run_functional_job.yaml

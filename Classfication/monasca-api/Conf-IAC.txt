@@ -1,3 +1,0 @@
-./devstack/Vagrantfile
-./docker/Dockerfile
-./playbooks/docker-publish.yml

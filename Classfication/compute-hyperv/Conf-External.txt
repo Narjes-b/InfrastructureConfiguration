@@ -1,7 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./compute_hyperv/nova/conf.py
-./doc/source/conf.py
-./etc/compute-hyperv-config-generator.conf
-./openstack-common.conf
-./setup.cfg

@@ -1,5 +1,0 @@
-./.testr.conf
-./adjutantclient/tests/__init__.py
-./adjutantclient/tests/v1/__init__.py
-./adjutantclient/tests/v1/test_client.py
-./tox.ini

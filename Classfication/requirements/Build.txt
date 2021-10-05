@@ -1,2 +1,0 @@
-./openstack_requirements/cmds/build_lower_constraints.py
-./tools/build_wheels.sh

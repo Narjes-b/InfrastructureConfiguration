@@ -1,2 +1,0 @@
-./lib/charms/ceph_base.py
-./reactive/ceph_base.py

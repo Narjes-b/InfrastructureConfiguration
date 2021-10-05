@@ -1,5 +1,0 @@
-./setup.py
-./whereto/__init__.py
-./whereto/app.py
-./whereto/parser.py
-./whereto/rules.py

@@ -1,2 +1,0 @@
-./requestsexceptions/__init__.py
-./setup.py

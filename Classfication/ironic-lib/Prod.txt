@@ -1,8 +1,0 @@
-./ironic_lib/__init__.py
-./ironic_lib/auth_basic.py
-./ironic_lib/capabilities.py
-./ironic_lib/common/__init__.py
-./ironic_lib/common/i18n.py
-./ironic_lib/json_rpc/__init__.py
-./ironic_lib/metrics.py
-./setup.py

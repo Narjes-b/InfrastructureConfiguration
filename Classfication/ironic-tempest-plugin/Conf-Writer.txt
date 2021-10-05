@@ -1,1 +1,0 @@
-./ironic_tempest_plugin/plugin.py

@@ -1,2 +1,0 @@
-./playbooks/pbr-installation-openstack/pre.yaml
-./playbooks/pbr-installation-openstack/run.yaml

@@ -1,4 +1,0 @@
-./recipes/api.rb
-./recipes/identity_registration.rb
-./recipes/image_upload.rb
-./recipes/swift_store.rb

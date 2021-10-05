@@ -1,1 +1,0 @@
-./roles/gate-quickstart/library/jenkins_deps.py

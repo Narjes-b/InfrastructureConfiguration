@@ -1,4 +1,0 @@
-./.pre-commit-hooks.yaml
-./.zuul.yaml
-./doc/source/conf.py
-./setup.cfg

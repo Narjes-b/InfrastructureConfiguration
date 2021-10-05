@@ -1,2 +1,0 @@
-./templates/identity.yaml
-./templates/mirrors.yaml

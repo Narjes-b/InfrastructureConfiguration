@@ -1,5 +1,0 @@
-./{{cookiecutter.repo_name}}/.stestr.conf
-./{{cookiecutter.repo_name}}/tox.ini
-./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/__init__.py
-./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/base.py
-./{{cookiecutter.repo_name}}/{{cookiecutter.module_name}}/tests/test_{{cookiecutter.module_name}}.py

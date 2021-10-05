@@ -1,6 +1,0 @@
-./ops_openstack/__init__.py
-./ops_openstack/adapters.py
-./ops_openstack/core.py
-./ops_openstack/plugins/__init__.py
-./ops_openstack/plugins/classes.py
-./setup.py

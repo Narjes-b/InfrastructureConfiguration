@@ -1,3 +1,0 @@
-./playbooks/cloudkittyclient-devstack-functional/post.yaml
-./playbooks/cloudkittyclient-devstack-functional/pre.yaml
-./playbooks/cloudkittyclient-devstack-functional/run.yaml

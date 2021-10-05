@@ -1,2 +1,0 @@
-./heatclient/osc/v1/build_info.py
-./heatclient/v1/build_info.py

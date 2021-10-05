@@ -1,7 +1,0 @@
-./oslo_privsep/__init__.py
-./oslo_privsep/_i18n.py
-./oslo_privsep/capabilities.py
-./oslo_privsep/comm.py
-./oslo_privsep/functional/__init__.py
-./oslo_privsep/version.py
-./setup.py

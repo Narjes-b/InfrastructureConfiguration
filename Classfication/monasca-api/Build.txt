@@ -1,5 +1,0 @@
-./common/build_common.sh
-./docker/build_image.sh
-./java/pom.xml
-./pom.xml
-./run_maven.sh

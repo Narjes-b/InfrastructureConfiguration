@@ -1,5 +1,0 @@
-./.testr.conf
-./security-analysis/tests/__init__.py
-./security-analysis/tests/base.py
-./security-analysis/tests/test_security-analysis.py
-./tox.ini

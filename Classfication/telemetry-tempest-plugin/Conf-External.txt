@@ -1,8 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./doc/source/conf.py
-./setup.cfg
-./telemetry_tempest_plugin/scenario/gnocchi_gabbits/live.yaml
-./telemetry_tempest_plugin/scenario/gnocchi_gabbits/search-resource.yaml
-./telemetry_tempest_plugin/scenario/telemetry_integration_gabbits/aodh-gnocchi-threshold-alarm.yaml
-./telemetry_tempest_plugin/scenario/telemetry_integration_gabbits/autoscaling.yaml

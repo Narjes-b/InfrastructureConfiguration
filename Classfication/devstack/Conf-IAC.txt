@@ -1,7 +1,0 @@
-./playbooks/devstack.yaml
-./playbooks/post.yaml
-./playbooks/pre.yaml
-./playbooks/tox/post.yaml
-./playbooks/tox/pre.yaml
-./playbooks/tox/run-both.yaml
-./playbooks/tox/run.yaml

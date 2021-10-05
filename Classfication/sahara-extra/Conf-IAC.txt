@@ -1,2 +1,0 @@
-./playbooks/build-artifacts/post.yaml
-./playbooks/build-artifacts/run.yaml

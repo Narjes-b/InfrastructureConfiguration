@@ -1,2 +1,0 @@
-./ironic_python_agent/cmd/agent.py
-./ironic_python_agent/cmd/inspect.py

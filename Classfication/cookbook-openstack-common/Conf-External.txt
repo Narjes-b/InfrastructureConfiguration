@@ -1,6 +1,0 @@
-./.rubocop.yml
-./.rubocop_todo.yml
-./templates/default/60-openstack.conf.erb
-./templates/default/logging.conf.erb
-./templates/default/openstack-service.conf.erb
-./templates/default/wsgi.conf.erb

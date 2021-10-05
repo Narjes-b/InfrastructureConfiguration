@@ -1,6 +1,0 @@
-./.sync.yml
-./.zuul.yaml
-./setup.cfg
-./templates/mellon.conf.erb
-./templates/openidc.conf.erb
-./templates/shibboleth.conf.erb

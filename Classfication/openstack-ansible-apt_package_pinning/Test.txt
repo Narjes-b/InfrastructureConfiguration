@@ -1,6 +1,0 @@
-./manual-test.rc
-./run_tests.sh
-./tests/apt_package_pinning-overrides.yml
-./tests/inventory
-./tests/test.yml
-./tox.ini

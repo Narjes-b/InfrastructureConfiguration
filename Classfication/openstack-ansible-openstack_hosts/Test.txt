@@ -1,9 +1,0 @@
-./manual-test.rc
-./run_tests.sh
-./tests/ansible-role-requirements.yml
-./tests/group_vars/all.yml
-./tests/inventory
-./tests/openstack_hosts-overrides.yml
-./tests/test-create-ca.yml
-./tests/test.yml
-./tox.ini

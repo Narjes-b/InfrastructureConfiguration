@@ -1,8 +1,0 @@
-./.zuul.yaml
-./babel-django.cfg
-./babel-djangojs.cfg
-./doc/source/conf.py
-./heat_dashboard/conf/default_policies/heat.yaml
-./heat_dashboard/conf/heat_policy.yaml
-./karma.conf.js
-./setup.cfg

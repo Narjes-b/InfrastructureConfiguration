@@ -1,3 +1,0 @@
-./filters/example-input.conf
-./filters/example-output.conf
-./filters/openstack-filters.conf

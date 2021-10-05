@@ -1,3 +1,0 @@
-./keystonemiddleware/auth_token/_auth.py
-./keystonemiddleware/auth_token/_opts.py
-./keystonemiddleware/ec2_token.py

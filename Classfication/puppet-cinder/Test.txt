@@ -1,3 +1,0 @@
-./manifests/setup_test_volume.pp
-./spec/classes/cinder_setup_test_volume_spec.rb
-./tox.ini

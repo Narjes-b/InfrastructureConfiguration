@@ -1,6 +1,0 @@
-./.zuul.yaml
-./babel-django.cfg
-./babel-djangojs.cfg
-./devstack/local.conf.example
-./doc/source/conf.py
-./setup.cfg

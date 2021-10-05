@@ -1,6 +1,0 @@
-./recipes/_credential_tokens.rb
-./recipes/_fernet_tokens.rb
-./recipes/cloud_config.rb
-./recipes/openrc.rb
-./recipes/registration.rb
-./recipes/server-apache.rb

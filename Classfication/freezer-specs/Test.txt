@@ -1,5 +1,0 @@
-./.stestr.conf
-./tests/__init__.py
-./tests/test_directories.py
-./tests/test_titles.py
-./tox.ini

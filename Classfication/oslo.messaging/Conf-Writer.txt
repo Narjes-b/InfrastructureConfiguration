@@ -1,9 +1,0 @@
-./oslo_messaging/_drivers/amqp.py
-./oslo_messaging/_drivers/amqp1_driver/opts.py
-./oslo_messaging/_drivers/base.py
-./oslo_messaging/_drivers/impl_rabbit.py
-./oslo_messaging/_drivers/kafka_driver/kafka_options.py
-./oslo_messaging/notify/_impl_routing.py
-./oslo_messaging/notify/notifier.py
-./oslo_messaging/rpc/dispatcher.py
-./oslo_messaging/server.py

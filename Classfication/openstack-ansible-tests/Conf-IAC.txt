@@ -1,7 +1,0 @@
-./destroy_containers.yml
-./listening-port-report.yml
-./setting-nodepool-variables.yml
-./Vagrantfile
-./zuul.d/playbooks/post.yml
-./zuul.d/playbooks/pre-gate-cleanup.yml
-./zuul.d/playbooks/run.yml

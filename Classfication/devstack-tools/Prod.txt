@@ -1,3 +1,0 @@
-./devstack/__init__.py
-./devstack/cmd.py
-./setup.py

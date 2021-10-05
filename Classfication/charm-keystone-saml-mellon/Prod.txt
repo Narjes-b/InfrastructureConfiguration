@@ -1,4 +1,0 @@
-./src/actions/actions.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/keystone_saml_mellon.py
-./src/reactive/keystone_saml_mellon_handlers.py

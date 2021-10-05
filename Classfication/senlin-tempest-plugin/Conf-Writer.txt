@@ -1,1 +1,0 @@
-./senlin_tempest_plugin/plugin.py

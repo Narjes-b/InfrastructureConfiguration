@@ -1,8 +1,0 @@
-./src/actions/actions.py
-./src/lib/__init__.py
-./src/lib/charm/__init__.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/api_crud.py
-./src/lib/charm/openstack/octavia.py
-./src/reactive/__init__.py
-./src/reactive/octavia_handlers.py

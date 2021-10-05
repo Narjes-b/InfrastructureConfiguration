@@ -1,7 +1,0 @@
-./bin/deploy.py
-./bin/environment-generator.py
-./openstack_virtual_baremetal/__init__.py
-./openstack_virtual_baremetal/auth.py
-./openstack_virtual_baremetal/deploy.py
-./openstack_virtual_baremetal/openstackbmc.py
-./setup.py
