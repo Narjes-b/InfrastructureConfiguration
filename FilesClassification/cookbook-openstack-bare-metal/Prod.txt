@@ -1,0 +1,4 @@
+./attributes/conductor_conf.rb
+./attributes/default.rb
+./attributes/ironic_conf.rb
+./metadata.rb

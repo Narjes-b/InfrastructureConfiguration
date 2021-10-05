@@ -1,0 +1,8 @@
+./attributes/default.rb
+./attributes/glance_api_conf.rb
+./attributes/glance_cache_conf.rb
+./attributes/glance_scrubber_conf.rb
+./files/default/glance_plugin.py
+./metadata.rb
+./providers/image.rb
+./resources/image.rb

@@ -1,0 +1,4 @@
+./cloudkitty_tempest_plugin/__init__.py
+./cloudkitty_tempest_plugin/services/__init__.py
+./cloudkitty_tempest_plugin/services/client.py
+./setup.py

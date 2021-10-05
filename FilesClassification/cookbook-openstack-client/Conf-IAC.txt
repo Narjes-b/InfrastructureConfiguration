@@ -1,0 +1,4 @@
+./recipes/_example_nova.rb
+./recipes/_example_swift.rb
+./recipes/default.rb
+./Vagrantfile

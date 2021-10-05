@@ -1,0 +1,5 @@
+./attributes/default.rb
+./attributes/designate_conf.rb
+./metadata.rb
+./templates/default/named.designate.erb
+./templates/default/rndc.key.erb

@@ -1,0 +1,6 @@
+./attributes/default.rb
+./metadata.rb
+./templates/default/dash-site.erb
+./templates/default/default_stylesheets.html.erb
+./templates/default/local_settings.py.erb
+./templates/default/rs_stylesheets.html.erb

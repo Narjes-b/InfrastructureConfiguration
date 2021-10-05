@@ -1,0 +1,5 @@
+./attributes/default.rb
+./attributes/keystone_conf.rb
+./metadata.rb
+./templates/default/cloud_config.erb
+./templates/default/openrc.erb

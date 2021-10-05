@@ -1,0 +1,3 @@
+./templates/default/ironic.conf.erb
+./templates/default/rootwrap.conf.erb
+./templates/default/wsgi-template.conf.erb

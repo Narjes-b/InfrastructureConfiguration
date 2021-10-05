@@ -1,0 +1,2 @@
+./compute_hyperv/nova/coordination.py
+./compute_hyperv/nova/migrationops.py

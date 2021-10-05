@@ -1,0 +1,11 @@
+./.stestr.conf
+./cloudkittydashboard/dashboards/admin/hashmap/tests.py
+./cloudkittydashboard/dashboards/admin/modules/tests.py
+./cloudkittydashboard/dashboards/admin/pyscripts/tests.py
+./cloudkittydashboard/dashboards/project/rating/tests.py
+./cloudkittydashboard/tests/__init__.py
+./cloudkittydashboard/tests/base.py
+./cloudkittydashboard/tests/test_cloudkittydashboard.py
+./cloudkittydashboard/tests/test_predictive_pricing.py
+./cloudkittydashboard/tests/test_utils.py
+./tox.ini

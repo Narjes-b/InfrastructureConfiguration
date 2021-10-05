@@ -1,0 +1,7 @@
+./recipes/api.rb
+./recipes/backup.rb
+./recipes/cinder-common.rb
+./recipes/identity_registration.rb
+./recipes/scheduler.rb
+./recipes/volume.rb
+./recipes/volume_driver_lvm.rb

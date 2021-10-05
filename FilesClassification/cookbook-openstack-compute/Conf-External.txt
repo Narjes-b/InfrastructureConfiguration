@@ -1,0 +1,6 @@
+./files/default/nova-compute.conf
+./templates/default/api-paste.ini.erb
+./templates/default/collectd-plugin-mysql.conf.erb
+./templates/default/libvirtd.conf.erb
+./templates/default/rootwrap.conf.erb
+./templates/default/wsgi-template.conf.erb

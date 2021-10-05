@@ -1,0 +1,9 @@
+./attributes/default.rb
+./attributes/libvirtd_conf.rb
+./attributes/nova_conf.rb
+./attributes/placement.rb
+./attributes/placement_conf.rb
+./files/default/nova_plugin.py
+./metadata.rb
+./templates/default/libvirt-bin.erb
+./templates/default/libvirtd.erb
