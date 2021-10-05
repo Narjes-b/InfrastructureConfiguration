@@ -1,0 +1,7 @@
+./lib/puppet/provider/panko_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/panko_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/panko_config/ini_setting.rb
+./lib/puppet/type/panko_api_paste_ini.rb
+./lib/puppet/type/panko_api_uwsgi_config.rb
+./lib/puppet/type/panko_config.rb
+./setup.py

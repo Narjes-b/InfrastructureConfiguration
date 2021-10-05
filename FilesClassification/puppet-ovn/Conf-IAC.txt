@@ -1,0 +1,6 @@
+./manifests/controller/bridge.pp
+./manifests/controller/port.pp
+./manifests/controller.pp
+./manifests/init.pp
+./manifests/northd.pp
+./manifests/params.pp

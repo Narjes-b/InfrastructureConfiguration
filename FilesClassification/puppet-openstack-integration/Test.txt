@@ -1,0 +1,10 @@
+./playbooks/run-integration-tests.yaml
+./playbooks/run-libraries-lint-tests.yaml
+./playbooks/run-libraries-litmus-tests.yaml
+./playbooks/run-libraries-syntax-tests.yaml
+./playbooks/run-libraries-unit-tests.yaml
+./playbooks/run-lint-tests.yaml
+./playbooks/run-litmus-tests.yaml
+./playbooks/run-syntax-tests.yaml
+./playbooks/run-unit-tests.yaml
+./run_tests.sh

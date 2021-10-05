@@ -1,0 +1,15 @@
+./tox.ini
+./spec/classes/senlin_client_spec.rb
+./spec/classes/senlin_db_mysql_spec.rb
+./spec/classes/senlin_db_postgresql_spec.rb
+./spec/classes/senlin_db_spec.rb
+./spec/classes/senlin_db_sync_spec.rb
+./spec/classes/senlin_keystone_auth_spec.rb
+./spec/classes/senlin_keystone_authtoken_spec.rb
+./spec/classes/senlin_logging_spec.rb
+./spec/classes/senlin_policy_spec.rb
+./spec/shared_examples.rb
+./spec/spec_helper.rb
+./spec/spec_helper_acceptance.rb
+./spec/unit/provider/senlin_config/ini_setting_spec.rb
+./spec/unit/type/senlin_config_spec.rb

@@ -1,0 +1,9 @@
+./tox.ini
+./spec/classes/qdr_init_spec.rb
+./spec/shared_examples.rb
+./spec/spec_helper.rb
+./spec/spec_helper_acceptance.rb
+./spec/unit/type/qdr_address_spec.rb
+./spec/unit/type/qdr_connector_spec.rb
+./spec/unit/type/qdr_listener_spec.rb
+./spec/unit/type/qdr_user_spec.rb
