@@ -1,0 +1,13 @@
+./.testr.conf
+./pankoclient/tests/__init__.py
+./pankoclient/tests/functional/__init__.py
+./pankoclient/tests/functional/base.py
+./pankoclient/tests/unit/__init__.py
+./pankoclient/tests/unit/base.py
+./pankoclient/tests/unit/common/__init__.py
+./pankoclient/tests/unit/common/test_base.py
+./pankoclient/tests/unit/fakes.py
+./pankoclient/tests/unit/test_osc_plugin.py
+./pankoclient/tests/unit/v2/__init__.py
+./pankoclient/tests/unit/v2/test_events.py
+./tox.ini

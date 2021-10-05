@@ -1,0 +1,5 @@
+./tripleoclient/config/base.py
+./tripleoclient/v1/minion_config.py
+./tripleoclient/v1/undercloud.py
+./tripleoclient/v1/undercloud_minion.py
+./tripleoclient/v1/undercloud_preflight.py
