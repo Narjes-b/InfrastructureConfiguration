@@ -1,0 +1,6 @@
+./src/lib/__init__.py
+./src/lib/charm/__init__.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/manila.py
+./src/reactive/__init__.py
+./src/reactive/manila_handlers.py

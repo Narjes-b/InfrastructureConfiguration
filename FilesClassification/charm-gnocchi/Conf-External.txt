@@ -1,0 +1,12 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/api-paste.ini
+./src/templates/ceph.conf
+./src/templates/gnocchi-api.conf
+./src/templates/gnocchi.conf
+./src/templates/newton/gnocchi-api.conf
+./src/templates/ocata/api-paste.ini
+./src/templates/queens/api-paste.ini
+./src/templates/queens/gnocchi.conf

@@ -1,0 +1,11 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/mitaka/api-paste.ini
+./src/templates/mitaka/logging.conf
+./src/templates/mitaka/manila-api.conf
+./src/templates/mitaka/manila.conf
+./src/templates/pike/manila.conf
+./src/templates/queens/manila.conf
+./src/templates/rocky/manila.conf

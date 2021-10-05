@@ -1,0 +1,5 @@
+./src/lib/charm/__init__.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/designate.py
+./src/reactive/designate_handlers.py
+./src/reactive/designate_utils.py
