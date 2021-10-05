@@ -1,0 +1,5 @@
+./rally/cli/cliutils.py
+./rally/common/logging.py
+./rally/common/opts.py
+./rally/task/context.py
+./rally/task/scenario.py
