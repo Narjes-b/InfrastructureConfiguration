@@ -1,0 +1,4 @@
+./doc/source/admin/emulator.conf
+./doc/source/conf.py
+./setup.cfg
+./zuul.d/sushy-tools-jobs.yaml

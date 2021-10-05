@@ -1,0 +1,11 @@
+./tacker_horizon/openstack_dashboard/dashboards/nfv/nscatalog/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/nsmanager/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/vim/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/vnfcatalog/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/vnffgcatalog/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/vnffgmanager/tests.py
+./tacker_horizon/openstack_dashboard/dashboards/nfv/vnfmanager/tests.py
+./tacker_horizon/test/__init__.py
+./tacker_horizon/test/settings.py
+./tacker_horizon/test/urls.py
+./tox.ini

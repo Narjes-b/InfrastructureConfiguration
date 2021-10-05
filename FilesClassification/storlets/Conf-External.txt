@@ -1,0 +1,6 @@
+./.zuul.yaml
+./doc/source/conf.py
+./etc/object-server.conf-sample
+./etc/proxy-server.conf-sample
+./etc/storlet-docker-gateway.conf-sample
+./setup.cfg
