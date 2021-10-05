@@ -1,0 +1,3 @@
+./__init__.py
+./src/lib/charm/openstack/masakari_monitors.py
+./src/reactive/masakari_monitors_handlers.py

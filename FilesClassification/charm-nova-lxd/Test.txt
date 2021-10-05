@@ -1,0 +1,17 @@
+./.stestr.conf
+./hooks/charmhelpers/contrib/openstack/amulet/utils.py
+./tests/basic_deployment.py
+./tests/dev-basic-cosmic-rocky
+./tests/dev-basic-disco-stein
+./tests/gate-basic-bionic-queens
+./tests/gate-basic-bionic-rocky
+./tests/gate-basic-bionic-stein
+./tests/gate-basic-xenial-mitaka
+./tests/gate-basic-xenial-ocata
+./tests/gate-basic-xenial-pike
+./tests/gate-basic-xenial-queens
+./tests/tests.yaml
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_lxd_utils.py
+./unit_tests/testing.py

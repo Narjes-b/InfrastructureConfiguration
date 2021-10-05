@@ -1,0 +1,7 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/mitaka/nova.conf
+./src/templates/pike/nova.conf
+./src/templates/train/nova.conf

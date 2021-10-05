@@ -1,0 +1,8 @@
+./src/tests/basic_deployment.py
+./src/tests/gate-basic-xenial-newton
+./src/tests/tests.yaml
+./src/tox.ini
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_lib_charm_openstack_openvswitch_odl.py
+./unit_tests/test_openvswitch_odl_handlers.py
