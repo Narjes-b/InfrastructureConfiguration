@@ -1,0 +1,12 @@
+./.stestr.conf
+./sahara_plugin_mapr/plugins/mapr/services/swift/resources/hadoop-swift-latest.jar
+./sahara_plugin_mapr/tests/__init__.py
+./sahara_plugin_mapr/tests/unit/__init__.py
+./sahara_plugin_mapr/tests/unit/base.py
+./sahara_plugin_mapr/tests/unit/plugins/__init__.py
+./sahara_plugin_mapr/tests/unit/plugins/mapr/__init__.py
+./sahara_plugin_mapr/tests/unit/plugins/mapr/test_base_handler.py
+./sahara_plugin_mapr/tests/unit/plugins/mapr/test_cluster_context.py
+./sahara_plugin_mapr/tests/unit/plugins/mapr/test_config_files.py
+./sahara_plugin_mapr/tests/unit/plugins/mapr/test_distro.py
+./tox.ini
