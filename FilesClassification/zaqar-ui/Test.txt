@@ -1,0 +1,9 @@
+./test-shim.js
+./tox.ini
+./zaqar_ui/test/__init__.py
+./zaqar_ui/test/api_tests/__init__.py
+./zaqar_ui/test/api_tests/test_rest_api.py
+./zaqar_ui/test/helpers.py
+./zaqar_ui/test/integration_tests/__init__.py
+./zaqar_ui/test/settings.py
+./zaqar_ui/test/test_data.py

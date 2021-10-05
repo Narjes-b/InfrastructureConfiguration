@@ -1,0 +1,8 @@
+./contrib/quick-start/Dockerfile
+./contrib/vagrant/config/localrc
+./contrib/vagrant/install_devstack.sh
+./contrib/vagrant/provision.sh
+./contrib/vagrant/Vagrantfile
+./playbooks/fullstack/post.yaml
+./playbooks/fullstack/run.yaml
+./playbooks/zun-tempest-base/post.yaml

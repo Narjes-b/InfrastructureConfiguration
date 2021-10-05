@@ -1,0 +1,4 @@
+./setup.py
+./xstatic/__init__.py
+./xstatic/pkg/__init__.py
+./xstatic/pkg/json2yaml/__init__.py

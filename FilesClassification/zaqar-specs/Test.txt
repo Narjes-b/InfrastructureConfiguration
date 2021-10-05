@@ -1,0 +1,4 @@
+./.stestr.conf
+./tests/__init__.py
+./tests/test_title.py
+./tox.ini
