@@ -1,0 +1,16 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/http_codes.yaml
+./api-ref/source/parameters.yaml
+./config-generator/config.conf
+./config-generator/policy.conf
+./devstack/files/elasticsearch/elasticsearch.yml
+./devstack/files/kibana/kibana.yml
+./devstack/files/monasca-events-persister/events-persister-logging.conf
+./devstack/files/zookeeper/zoo.cfg
+./doc/source/conf.py
+./etc/monasca/events-api-logging.conf
+./etc/monasca/events-api-paste.ini
+./etc/monasca/events-api-uwsgi.ini
+./policy-sample.yaml
+./setup.cfg

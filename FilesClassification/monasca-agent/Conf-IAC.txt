@@ -1,0 +1,4 @@
+./docker/collector/Dockerfile
+./docker/forwarder/Dockerfile
+./docker/statsd/Dockerfile
+./playbooks/docker-publish.yml

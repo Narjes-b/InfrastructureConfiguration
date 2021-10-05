@@ -1,0 +1,3 @@
+./docker/kafka_wait_for_topics.py
+./docker/memory.py
+./docker/mysql_check.py

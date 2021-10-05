@@ -1,0 +1,6 @@
+./common/build_common.sh
+./common/pom.xml
+./docker/build_image.sh
+./pom.xml
+./run_maven.sh
+./thresh/pom.xml
