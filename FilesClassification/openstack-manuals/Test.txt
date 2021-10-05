@@ -1,0 +1,3 @@
+./tools/test.sh
+./tox.ini
+./www/project-data/latest.yaml

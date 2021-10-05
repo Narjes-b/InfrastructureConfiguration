@@ -1,0 +1,7 @@
+./.pre-commit-config.yaml
+./.zuul.yaml
+./babel.cfg
+./doc/source/conf.py
+./doc/source/contributor/clouds.yaml
+./openstack/config/vendors/limestonenetworks.yaml
+./setup.cfg

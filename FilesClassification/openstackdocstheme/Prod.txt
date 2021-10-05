@@ -1,0 +1,7 @@
+./bin/docstheme-lang-display-name.py
+./openstackdocstheme/__init__.py
+./openstackdocstheme/ext.py
+./openstackdocstheme/page_context.py
+./openstackdocstheme/paths.py
+./openstackdocstheme/version.py
+./setup.py

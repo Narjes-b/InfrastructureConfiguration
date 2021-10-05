@@ -1,0 +1,5 @@
+./roles/legacy-copy-jenkins-scripts/files/install-distro-packages.sh
+./roles/legacy-copy-jenkins-scripts/files/jenkinsci-upload.sh
+./roles/legacy-copy-jenkins-scripts/files/php-laravel-build.sh
+./roles/legacy-copy-jenkins-scripts/files/version-properties.sh
+./roles/legacy-copy-jenkins-scripts/files/zuul-sudo-grep.sh

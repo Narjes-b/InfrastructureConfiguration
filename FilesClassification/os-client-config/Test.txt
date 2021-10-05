@@ -1,0 +1,9 @@
+./.stestr.conf
+./os_client_config/tests/__init__.py
+./os_client_config/tests/base.py
+./os_client_config/tests/test_cloud_config.py
+./os_client_config/tests/test_config.py
+./os_client_config/tests/test_environ.py
+./os_client_config/tests/test_import_vendors.py
+./os_client_config/tests/test_init.py
+./tox.ini

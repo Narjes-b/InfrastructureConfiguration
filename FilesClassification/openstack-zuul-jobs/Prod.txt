@@ -1,0 +1,5 @@
+./playbooks/xstatic/xstatic_check_version.py
+./roles/prepare-zanata-client/files/create-zanata-xml.py
+./roles/prepare-zanata-client/files/get-modulename.py
+./roles/prepare-zanata-client/files/query-zanata-project-version.py
+./setup.py

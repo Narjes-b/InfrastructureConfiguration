@@ -1,0 +1,2 @@
+./playbooks/openstackclient-check-plugins/run.yaml
+./playbooks/pre.yaml

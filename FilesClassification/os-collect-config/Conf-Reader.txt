@@ -1,0 +1,9 @@
+./os_collect_config/cache.py
+./os_collect_config/cfn.py
+./os_collect_config/ec2.py
+./os_collect_config/heat.py
+./os_collect_config/heat_local.py
+./os_collect_config/keystone.py
+./os_collect_config/local.py
+./os_collect_config/request.py
+./os_collect_config/zaqar.py
