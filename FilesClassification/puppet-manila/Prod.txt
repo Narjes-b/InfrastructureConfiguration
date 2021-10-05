@@ -1,0 +1,7 @@
+./lib/puppet/provider/manila_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/manila_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/manila_config/ini_setting.rb
+./lib/puppet/type/manila_api_paste_ini.rb
+./lib/puppet/type/manila_api_uwsgi_config.rb
+./lib/puppet/type/manila_config.rb
+./setup.py

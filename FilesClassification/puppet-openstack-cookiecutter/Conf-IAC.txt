@@ -1,0 +1,13 @@
+./puppet-{{cookiecutter.project_name}}/examples/init.pp
+./puppet-{{cookiecutter.project_name}}/manifests/config.pp
+./puppet-{{cookiecutter.project_name}}/manifests/db/mysql.pp
+./puppet-{{cookiecutter.project_name}}/manifests/db/postgresql.pp
+./puppet-{{cookiecutter.project_name}}/manifests/db/sync.pp
+./puppet-{{cookiecutter.project_name}}/manifests/db.pp
+./puppet-{{cookiecutter.project_name}}/manifests/deps.pp
+./puppet-{{cookiecutter.project_name}}/manifests/init.pp
+./puppet-{{cookiecutter.project_name}}/manifests/keystone/auth.pp
+./puppet-{{cookiecutter.project_name}}/manifests/keystone/authtoken.pp
+./puppet-{{cookiecutter.project_name}}/manifests/logging.pp
+./puppet-{{cookiecutter.project_name}}/manifests/params.pp
+./puppet-{{cookiecutter.project_name}}/manifests/policy.pp

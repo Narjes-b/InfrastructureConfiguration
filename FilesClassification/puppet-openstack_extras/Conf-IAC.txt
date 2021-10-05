@@ -1,0 +1,7 @@
+./manifests/auth_file.pp
+./manifests/pacemaker/service.pp
+./manifests/repo/debian/debian.pp
+./manifests/repo/debian/params.pp
+./manifests/repo/debian/ubuntu.pp
+./manifests/repo/redhat/params.pp
+./manifests/repo/redhat/redhat.pp

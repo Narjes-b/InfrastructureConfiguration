@@ -1,0 +1,14 @@
+./lib/puppet/functions/get_ext_net_name.rb
+./lib/puppet/provider/murano.rb
+./lib/puppet/provider/murano_application/murano.rb
+./lib/puppet/provider/murano_cfapi_config/ini_setting.rb
+./lib/puppet/provider/murano_cfapi_paste_ini_config/ini_setting.rb
+./lib/puppet/provider/murano_config/ini_setting.rb
+./lib/puppet/provider/murano_paste_ini_config/ini_setting.rb
+./lib/puppet/type/murano_application.rb
+./lib/puppet/type/murano_cfapi_config.rb
+./lib/puppet/type/murano_cfapi_paste_ini_config.rb
+./lib/puppet/type/murano_config.rb
+./lib/puppet/type/murano_paste_ini_config.rb
+./setup.py
+./templates/local_settings.py.erb
