@@ -1,0 +1,16 @@
+./.stestr.conf
+./run-tests.sh
+./tooz/tests/__init__.py
+./tooz/tests/drivers/__init__.py
+./tooz/tests/drivers/test_etcd3.py
+./tooz/tests/drivers/test_etcd3gw.py
+./tooz/tests/drivers/test_file.py
+./tooz/tests/test_coordination.py
+./tooz/tests/test_etcd.py
+./tooz/tests/test_hashring.py
+./tooz/tests/test_memcache.py
+./tooz/tests/test_mysql.py
+./tooz/tests/test_partitioner.py
+./tooz/tests/test_postgresql.py
+./tooz/tests/test_utils.py
+./tox.ini
