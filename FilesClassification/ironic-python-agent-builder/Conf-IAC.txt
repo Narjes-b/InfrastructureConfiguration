@@ -1,0 +1,3 @@
+./playbooks/ironic-python-agent-build-image/post.yaml
+./playbooks/ironic-python-agent-build-image/pre.yaml
+./playbooks/ironic-python-agent-build-image/run.yaml

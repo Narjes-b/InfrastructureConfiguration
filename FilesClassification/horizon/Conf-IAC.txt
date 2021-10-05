@@ -1,0 +1,10 @@
+./openstack_dashboard/dashboards/identity/application_credentials/templates/application_credentials/clouds.yaml.template
+./openstack_dashboard/dashboards/project/api_access/templates/api_access/clouds.yaml.template
+./playbooks/cross-jobs/phantomjs-deps.yaml
+./playbooks/horizon-devstack-integration/post.yaml
+./playbooks/horizon-devstack-integration/pre.yaml
+./playbooks/horizon-devstack-integration/run.yaml
+./playbooks/horizon-nodejs/pre.yaml
+./playbooks/horizon-selenium-headless/pre.yaml
+./playbooks/horizon-tox-django/pre.yaml
+./playbooks/horizon-tox-django/run.yaml

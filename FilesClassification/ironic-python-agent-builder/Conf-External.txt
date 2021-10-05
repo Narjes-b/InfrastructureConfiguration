@@ -1,0 +1,13 @@
+./dib/extra-hardware/package-installs.yaml
+./dib/ironic-python-agent-ramdisk/install.d/ironic-python-agent-ramdisk-source-install/ironic-python-agent.init
+./dib/ironic-python-agent-ramdisk/package-installs.yaml
+./doc/source/conf.py
+./roles/ipa-build-dib-image/defaults/main.yaml
+./roles/ipa-build-dib-image/tasks/install.yaml
+./roles/ipa-build-dib-image/tasks/main.yaml
+./roles/ipa-build-tinyipa-image/defaults/main.yaml
+./roles/ipa-build-tinyipa-image/tasks/main.yaml
+./setup.cfg
+./tinyipa/build_files/isolinux.cfg
+./zuul.d/ironic-python-agent-builder-jobs.yaml
+./zuul.d/project.yaml

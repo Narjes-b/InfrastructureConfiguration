@@ -1,0 +1,5 @@
+./.zuul.yaml
+./doc/source/conf.py
+./setup.cfg
+./translator/conf/heat_translator_logging.conf
+./translator/conf/translator.conf

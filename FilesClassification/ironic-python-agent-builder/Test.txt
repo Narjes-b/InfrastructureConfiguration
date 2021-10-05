@@ -1,0 +1,3 @@
+./dib/ironic-python-agent-ramdisk/test-elements/build-succeeds-fedora/element-deps
+./dib/ironic-python-agent-ramdisk/test-elements/build-succeeds-fedora/element-type
+./tox.ini
