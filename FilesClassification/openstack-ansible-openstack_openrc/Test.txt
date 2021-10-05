@@ -1,0 +1,6 @@
+./manual-test.rc
+./run_tests.sh
+./tests/inventory
+./tests/openstack_openrc-overrides.yml
+./tests/test.yml
+./tox.ini

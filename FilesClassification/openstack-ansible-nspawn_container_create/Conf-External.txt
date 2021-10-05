@@ -1,0 +1,14 @@
+./defaults/main.yml
+./doc/source/conf.py
+./examples/playbook.yml
+./meta/main.yml
+./meta/openstack-ansible.yml
+./setup.cfg
+./tasks/main.yml
+./vars/debian-10.yml
+./vars/debian-9.yml
+./vars/main.yml
+./vars/redhat-7.yml
+./vars/suse-42.yml
+./vars/ubuntu-16.04.yml
+./vars/ubuntu-18.04.yml

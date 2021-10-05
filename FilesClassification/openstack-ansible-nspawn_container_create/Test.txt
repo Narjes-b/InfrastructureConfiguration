@@ -1,0 +1,16 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/container1.yml
+./tests/host_vars/container2.yml
+./tests/host_vars/container3.yml
+./tests/host_vars/localhost.yml
+./tests/inventory
+./tests/test-nspawn-containers-create.yml
+./tests/test-nspawn-containers.yml
+./tests/test-nspawn-host-setup.yml
+./tests/test-user-setup.yml
+./tests/test.yml
+./tox.ini

@@ -1,0 +1,2 @@
+./files/lxc-image-fetch-url.py
+./setup.py
