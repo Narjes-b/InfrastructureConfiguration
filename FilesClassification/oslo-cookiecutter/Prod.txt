@@ -1,0 +1,2 @@
+./oslo.{{cookiecutter.module_name}}/oslo_{{cookiecutter.module_name}}/__init__.py
+./oslo.{{cookiecutter.module_name}}/setup.py

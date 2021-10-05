@@ -1,0 +1,8 @@
+./.stestr.conf
+./os_refresh_config/tests/__init__.py
+./os_refresh_config/tests/test_cmd.py
+./os_refresh_config/tests/test_main.py
+./os_refresh_config/tests/test_os_refresh_config.py
+./tests/configure.d/40-error
+./tests/pre-configure.d/01-test
+./tox.ini

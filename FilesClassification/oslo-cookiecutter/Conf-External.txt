@@ -1,0 +1,4 @@
+./.zuul.yaml
+./oslo.{{cookiecutter.module_name}}/babel.cfg
+./oslo.{{cookiecutter.module_name}}/doc/source/conf.py
+./oslo.{{cookiecutter.module_name}}/setup.cfg

@@ -1,0 +1,9 @@
+./oslo_config/__init__.py
+./oslo_config/_i18n.py
+./oslo_config/iniparser.py
+./oslo_config/sources/__init__.py
+./oslo_config/sources/_environment.py
+./oslo_config/sphinxconfiggen.py
+./oslo_config/types.py
+./oslo_config/version.py
+./setup.py
