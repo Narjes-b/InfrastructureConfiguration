@@ -1,0 +1,3 @@
+./doc-tools-check-languages.conf
+./security-guide/source/conf.py
+./security-threat-analysis/source/conf.py

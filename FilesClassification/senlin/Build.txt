@@ -1,0 +1,4 @@
+./api-ref/source/build_info.inc
+./senlin/api/openstack/v1/build_info.py
+./senlin/common/policies/build_info.py
+./senlin/objects/requests/build_info.py
