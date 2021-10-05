@@ -1,0 +1,17 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/infra1.yml
+./tests/host_vars/ironic1.yml
+./tests/host_vars/localhost.yml
+./tests/host_vars/openstack1.yml
+./tests/host_vars/swift-storage1.yml
+./tests/inventory
+./tests/local_install.yml
+./tests/os_ironic-overrides.yml
+./tests/test-configure-ironic.yml
+./tests/test-ironic-cli.yml
+./tests/test-rest-api.yml
+./tests/test.yml
+./tox.ini

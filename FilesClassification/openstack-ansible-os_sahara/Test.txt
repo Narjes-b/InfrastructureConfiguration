@@ -1,0 +1,13 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/infra1.yml
+./tests/host_vars/localhost.yml
+./tests/host_vars/openstack1.yml
+./tests/host_vars/sahara1.yml
+./tests/inventory
+./tests/os_sahara-overrides.yml
+./tests/test-install-sahara.yml
+./tests/test.yml
+./tox.ini

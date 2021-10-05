@@ -1,0 +1,12 @@
+./manual-test.rc
+./run_tests.sh
+./tests/ansible-role-requirements.yml
+./tests/group_vars/all_containers.yml
+./tests/host_vars/infra1.yml
+./tests/host_vars/localhost.yml
+./tests/host_vars/openstack1.yml
+./tests/inventory
+./tests/test-senlin-functional.yml
+./tests/test-vars.yml
+./tests/test.yml
+./tox.ini
