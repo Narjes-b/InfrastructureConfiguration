@@ -1,0 +1,5 @@
+./defaults/main.yaml
+./setup.cfg
+./tasks/main.yaml
+./tasks/register_client.yaml
+./tasks/unregister_client.yaml

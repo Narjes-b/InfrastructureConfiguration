@@ -1,0 +1,6 @@
+./tests/all.yml
+./tests/config.yml
+./tests/install.yml
+./tests/inventory.yml
+./tests/upgrade.yml
+./tox.ini

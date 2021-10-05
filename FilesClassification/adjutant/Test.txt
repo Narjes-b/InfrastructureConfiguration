@@ -1,0 +1,16 @@
+./adjutant/actions/v1/tests/__init__.py
+./adjutant/actions/v1/tests/test_misc_actions.py
+./adjutant/actions/v1/tests/test_project_actions.py
+./adjutant/actions/v1/tests/test_resource_actions.py
+./adjutant/actions/v1/tests/test_user_actions.py
+./adjutant/api/v1/tests/__init__.py
+./adjutant/api/v1/tests/test_api_admin.py
+./adjutant/api/v1/tests/test_api_openstack.py
+./adjutant/api/v1/tests/test_api_taskview.py
+./adjutant/common/tests/__init__.py
+./adjutant/common/tests/fake_clients.py
+./adjutant/common/tests/utils.py
+./adjutant/middleware.py
+./adjutant/notifications/v1/tests/__init__.py
+./adjutant/notifications/v1/tests/test_notifications.py
+./tox.ini

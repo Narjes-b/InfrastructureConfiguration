@@ -1,0 +1,7 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/http-status.yaml
+./api-ref/source/parameters.yaml
+./doc/source/conf.py
+./setup.cfg
+./etc/adjutant.yaml

@@ -1,0 +1,3 @@
+./tests/inventory
+./tests/test.yml
+./tox.ini

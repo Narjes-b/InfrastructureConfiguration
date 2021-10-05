@@ -1,0 +1,6 @@
+./.pre-commit-config.yaml
+./.yamllint
+./molecule/default/molecule.yml
+./setup.cfg
+./zuul.d.prep/base.yaml
+./zuul.d.prep/molecule.yaml

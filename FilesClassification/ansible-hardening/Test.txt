@@ -1,0 +1,6 @@
+./manual-test.rc
+./run_tests.sh
+./test_plugins/el7_tests.py
+./tests/inventory
+./tests/test.yml
+./tox.ini

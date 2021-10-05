@@ -1,0 +1,8 @@
+./defaults/main.yaml
+./handlers/main.yaml
+./setup.cfg
+./tasks/client.yaml
+./tasks/client_enroll.yaml
+./tasks/main.yaml
+./tasks/rfs.yaml
+./tasks/rfs_register_client.yaml

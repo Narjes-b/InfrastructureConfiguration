@@ -1,0 +1,6 @@
+./molecule/default/Dockerfile
+./molecule/default/playbook.yml
+./Vagrantfile
+./zuul.d.prep/playbooks/pre.yml
+./zuul.d.prep/playbooks/run-local.yml
+./zuul.d.prep/playbooks/run.yml

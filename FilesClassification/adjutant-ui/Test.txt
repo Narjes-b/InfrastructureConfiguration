@@ -1,0 +1,10 @@
+./adjutant_ui/test/__init__.py
+./adjutant_ui/test/api_tests/__init__.py
+./adjutant_ui/test/api_tests/test_rest_api.py
+./adjutant_ui/test/helpers.py
+./adjutant_ui/test/integration_tests/__init__.py
+./adjutant_ui/test/settings.py
+./adjutant_ui/test/test_data.py
+./run_tests.sh
+./test-shim.js
+./tox.ini
