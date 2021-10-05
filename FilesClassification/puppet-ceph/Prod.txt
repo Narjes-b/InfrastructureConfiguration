@@ -1,0 +1,3 @@
+./lib/puppet/provider/ceph_config/ini_setting.rb
+./lib/puppet/type/ceph_config.rb
+./setup.py

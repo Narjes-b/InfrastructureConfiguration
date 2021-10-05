@@ -1,0 +1,5 @@
+./placement/cmd/manage.py
+./placement/cmd/status.py
+./placement/db/sqlalchemy/alembic/env.py
+./placement/policy.py
+./placement/wsgi.py

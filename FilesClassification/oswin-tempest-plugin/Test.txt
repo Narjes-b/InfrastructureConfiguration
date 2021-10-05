@@ -1,0 +1,16 @@
+./.stestr.conf
+./oswin_tempest_plugin/tests/__init__.py
+./oswin_tempest_plugin/tests/_mixins/__init__.py
+./oswin_tempest_plugin/tests/_mixins/migrate.py
+./oswin_tempest_plugin/tests/_mixins/optional_feature.py
+./oswin_tempest_plugin/tests/_mixins/resize.py
+./oswin_tempest_plugin/tests/scenario/__init__.py
+./oswin_tempest_plugin/tests/scenario/test_cluster.py
+./oswin_tempest_plugin/tests/scenario/test_disks.py
+./oswin_tempest_plugin/tests/scenario/test_metrics_collection.py
+./oswin_tempest_plugin/tests/scenario/test_qos.py
+./oswin_tempest_plugin/tests/scenario/test_remotefx.py
+./oswin_tempest_plugin/tests/scenario/test_secure_boot.py
+./oswin_tempest_plugin/tests/scenario/test_vnuma.py
+./oswin_tempest_plugin/tests/test_base.py
+./tox.ini

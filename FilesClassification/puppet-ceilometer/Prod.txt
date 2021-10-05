@@ -1,0 +1,3 @@
+./lib/puppet/provider/ceilometer_config/openstackconfig.rb
+./lib/puppet/type/ceilometer_config.rb
+./setup.py

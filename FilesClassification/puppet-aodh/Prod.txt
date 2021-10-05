@@ -1,0 +1,7 @@
+./lib/puppet/provider/aodh_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/aodh_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/aodh_config/ini_setting.rb
+./lib/puppet/type/aodh_api_paste_ini.rb
+./lib/puppet/type/aodh_api_uwsgi_config.rb
+./lib/puppet/type/aodh_config.rb
+./setup.py

@@ -1,0 +1,7 @@
+./lib/puppet/provider/barbican_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/barbican_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/barbican_config/openstackconfig.rb
+./lib/puppet/type/barbican_api_paste_ini.rb
+./lib/puppet/type/barbican_api_uwsgi_config.rb
+./lib/puppet/type/barbican_config.rb
+./setup.py
