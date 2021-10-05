@@ -1,0 +1,8 @@
+./osci.yaml
+./src/actions.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/rocky/barbican-api-paste.ini
+./src/templates/rocky/barbican-api.conf
+./src/templates/rocky/barbican.conf

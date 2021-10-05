@@ -1,0 +1,6 @@
+./.pydevproject
+./src/lib/charm/__init__.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/aodh.py
+./src/reactive/__init__.py
+./src/reactive/aodh_handlers.py

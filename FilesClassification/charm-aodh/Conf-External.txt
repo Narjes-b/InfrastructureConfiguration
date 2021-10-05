@@ -1,0 +1,8 @@
+./osci.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/aodh.conf
+./src/templates/ocata/aodh-api.conf
+./src/templates/override.conf
+./src/templates/pike/aodh.conf
