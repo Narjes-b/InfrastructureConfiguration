@@ -1,0 +1,4 @@
+./setup.py
+./tripleo_common_tempest_plugin/__init__.py
+./tripleo_common_tempest_plugin/config.py
+./tripleo_common_tempest_plugin/services/__init__.py

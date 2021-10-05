@@ -1,0 +1,17 @@
+./labs/osbash/scripts/test/get_auth_token.sh
+./labs/osbash/scripts/test/heat_stack.sh
+./labs/osbash/scripts/test/launch_instance_private_net.sh
+./labs/osbash/scripts/test/test_horizon.sh
+./labs/osbash/tools/repeat-test.sh
+./labs/osbash/tools/test-once.sh
+./labs/scripts/test/get_auth_token.sh
+./labs/scripts/test/heat_stack.sh
+./labs/scripts/test/launch_instance_private_net.sh
+./labs/scripts/test/test_horizon.sh
+./labs/stacktrain/core/helpers.py
+./labs/stacktrain/tests/__init__.py
+./labs/tests/__init__.py
+./labs/tests/base.py
+./labs/tools/repeat-test.sh
+./labs/tools/test-once.sh
+./tox.ini
