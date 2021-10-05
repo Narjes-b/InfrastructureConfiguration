@@ -1,0 +1,5 @@
+./devstack/lib/cni/plugins
+./devstack/lib/crio
+./devstack/lib/docker
+./devstack/lib/k8s
+./devstack/lib/tools/crictl

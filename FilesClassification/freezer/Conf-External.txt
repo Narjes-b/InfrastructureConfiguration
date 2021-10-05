@@ -1,0 +1,5 @@
+./.zuul.yaml
+./devstack/local.conf.example
+./doc/source/conf.py
+./etc/config-generator.conf
+./setup.cfg

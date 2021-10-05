@@ -1,0 +1,2 @@
+./playbooks/dib-nodepool/collect-openstack-logs.yaml
+./playbooks/dib-nodepool/debootstrap.yaml

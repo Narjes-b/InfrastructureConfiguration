@@ -1,0 +1,12 @@
+./freezer_dr/common/utils.py
+./freezer_dr/evacuators/common/manager.py
+./freezer_dr/evacuators/drivers/default/standard.py
+./freezer_dr/fencers/common/manager.py
+./freezer_dr/fencers/drivers/ipmi/driver.py
+./freezer_dr/fencers/drivers/libvirt/driver.py
+./freezer_dr/main.py
+./freezer_dr/monitors/common/manager.py
+./freezer_dr/monitors/drivers/default/driver.py
+./freezer_dr/monitors/drivers/dummy/driver.py
+./freezer_dr/notifiers/common/manager.py
+./freezer_dr/notifiers/drivers/default/default_email.py

@@ -1,0 +1,4 @@
+./config-generator/freezer-dr.conf
+./doc/source/conf.py
+./etc/servers.yml
+./setup.cfg

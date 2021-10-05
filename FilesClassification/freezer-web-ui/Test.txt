@@ -1,0 +1,5 @@
+./disaster_recovery/tests/__init__.py
+./disaster_recovery/tests/settings.py
+./disaster_recovery/tests/test_api.py
+./run_tests.sh
+./tox.ini

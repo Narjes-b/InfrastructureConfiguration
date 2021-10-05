@@ -1,0 +1,5 @@
+./ec2api_tempest_plugin/__init__.py
+./ec2api_tempest_plugin/api/__init__.py
+./ec2api_tempest_plugin/botocoreclient.py
+./ec2api_tempest_plugin/scenario/__init__.py
+./setup.py

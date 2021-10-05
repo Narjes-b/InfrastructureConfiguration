@@ -1,0 +1,16 @@
+./ec2api/api/auth.py
+./ec2api/api/availability_zone.py
+./ec2api/api/common.py
+./ec2api/api/dhcp_options.py
+./ec2api/api/ec2utils.py
+./ec2api/api/image.py
+./ec2api/api/instance.py
+./ec2api/clients.py
+./ec2api/cmd/manage.py
+./ec2api/config.py
+./ec2api/db/api.py
+./ec2api/exception.py
+./ec2api/paths.py
+./ec2api/s3/s3server.py
+./ec2api/service.py
+./ec2api/wsgi.py
