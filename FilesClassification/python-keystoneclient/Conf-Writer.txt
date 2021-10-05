@@ -1,0 +1,4 @@
+./keystoneclient/auth/identity/generic/password.py
+./keystoneclient/auth/identity/v2.py
+./keystoneclient/auth/identity/v3/password.py
+./keystoneclient/contrib/auth/v3/saml2.py

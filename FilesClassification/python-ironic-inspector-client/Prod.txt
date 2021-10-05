@@ -1,0 +1,9 @@
+./ironic_inspector_client/__init__.py
+./ironic_inspector_client/common/__init__.py
+./ironic_inspector_client/common/http.py
+./ironic_inspector_client/common/i18n.py
+./ironic_inspector_client/resource.py
+./ironic_inspector_client/shell.py
+./ironic_inspector_client/v1.py
+./ironic_inspector_client/version.py
+./setup.py

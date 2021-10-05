@@ -1,0 +1,11 @@
+./.stestr.conf
+./monascaclient/tests/__init__.py
+./monascaclient/tests/test_client.py
+./monascaclient/tests/test_shell.py
+./monascaclient/tests/v2_0/__init__.py
+./monascaclient/tests/v2_0/shell/__init__.py
+./monascaclient/tests/v2_0/shell/test_alarm_definitions.py
+./monascaclient/tests/v2_0/shell/test_metrics.py
+./monascaclient/tests/v2_0/shell/test_notification_types.py
+./monascaclient/tests/v2_0/shell/test_notifications.py
+./tox.ini
