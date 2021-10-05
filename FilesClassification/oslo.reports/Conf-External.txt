@@ -1,0 +1,5 @@
+./.pre-commit-config.yaml
+./doc/source/conf.py
+./oslo_reports/generators/conf.py
+./oslo_reports/models/conf.py
+./setup.cfg

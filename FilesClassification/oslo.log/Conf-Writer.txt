@@ -1,0 +1,6 @@
+./doc/source/user/examples/oslo_logging.py
+./doc/source/user/examples/usage.py
+./doc/source/user/examples/usage_context.py
+./doc/source/user/examples/usage_helper.py
+./oslo_log/_options.py
+./oslo_log/versionutils.py

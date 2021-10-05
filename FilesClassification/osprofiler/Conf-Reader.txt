@@ -1,0 +1,4 @@
+./osprofiler/cmd/shell.py
+./osprofiler/drivers/elasticsearch_driver.py
+./osprofiler/drivers/jaeger.py
+./osprofiler/drivers/redis_driver.py

@@ -1,0 +1,7 @@
+./oslo_messaging/_drivers/impl_amqp1.py
+./oslo_messaging/notify/listener.py
+./oslo_messaging/notify/log_handler.py
+./oslo_messaging/notify/logger.py
+./oslo_messaging/notify/middleware.py
+./oslo_messaging/transport.py
+./tools/simulator.py

@@ -1,0 +1,6 @@
+./.pre-commit-config.yaml
+./.zuul.yaml
+./babel.cfg
+./doc/source/conf.py
+./setup.cfg
+./tools/messages_length.yaml
