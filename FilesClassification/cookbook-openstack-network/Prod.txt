@@ -1,0 +1,4 @@
+./attributes/default.rb
+./attributes/neutron_conf.rb
+./metadata.rb
+./templates/default/neutron-server.erb

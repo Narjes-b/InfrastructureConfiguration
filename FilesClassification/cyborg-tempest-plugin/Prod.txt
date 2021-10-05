@@ -1,0 +1,5 @@
+./cyborg_tempest_plugin/__init__.py
+./cyborg_tempest_plugin/services/__init__.py
+./cyborg_tempest_plugin/services/cyborg_data.py
+./cyborg_tempest_plugin/services/cyborg_rest_client.py
+./setup.py

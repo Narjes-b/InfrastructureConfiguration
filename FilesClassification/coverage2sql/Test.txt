@@ -1,0 +1,13 @@
+./.stestr.conf
+./coverage2sql/migrations/versions/cb0e61ce633e_add_test_type_column.py
+./coverage2sql/tests/__init__.py
+./coverage2sql/tests/base.py
+./coverage2sql/tests/coverage2sql_fixtures.py
+./coverage2sql/tests/db/__init__.py
+./coverage2sql/tests/db/test_api.py
+./coverage2sql/tests/db_test_utils.py
+./coverage2sql/tests/migrations/__init__.py
+./coverage2sql/tests/migrations/test_migrations.conf
+./coverage2sql/tests/test_shell.py
+./tools/test-setup.sh
+./tox.ini

@@ -1,0 +1,4 @@
+./files/api-paste.ini
+./files/event_pipeline.yaml
+./files/gnocchi_resources.yaml
+./templates/wsgi-template.conf.erb

@@ -1,0 +1,6 @@
+./attributes/aodh_conf.rb
+./attributes/ceilometer_conf.rb
+./attributes/default.rb
+./attributes/gnocchi_conf.rb
+./metadata.rb
+

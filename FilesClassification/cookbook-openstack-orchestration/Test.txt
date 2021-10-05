@@ -1,0 +1,12 @@
+./spec/api-cfn-redhat_spec.rb
+./spec/api-cfn_spec.rb
+./spec/api-redhat_spec.rb
+./spec/api_spec.rb
+./spec/common-redhat_spec.rb
+./spec/common_spec.rb
+./spec/dashboard-redhat_spec.rb
+./spec/dashboard_spec.rb
+./spec/engine-redhat_spec.rb
+./spec/engine_spec.rb
+./spec/identity_registration_spec.rb
+./spec/spec_helper.rb

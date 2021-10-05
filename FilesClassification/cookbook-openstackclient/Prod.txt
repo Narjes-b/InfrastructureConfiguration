@@ -1,0 +1,9 @@
+./libraries/openstack_base.rb
+./libraries/openstack_domain.rb
+./libraries/openstack_endpoint.rb
+./libraries/openstack_project.rb
+./libraries/openstack_role.rb
+./libraries/openstack_service.rb
+./libraries/openstack_user.rb
+./metadata.rb
+

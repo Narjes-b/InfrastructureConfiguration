@@ -1,0 +1,7 @@
+./recipes/client.rb
+./recipes/mariadb-client.rb
+./recipes/mariadb-cluster-client.rb
+./recipes/mariadb-cluster-server.rb
+./recipes/mariadb-server.rb
+./recipes/openstack-db.rb
+./recipes/server.rb
