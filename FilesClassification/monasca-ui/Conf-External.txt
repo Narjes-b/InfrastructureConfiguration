@@ -1,0 +1,4 @@
+./babel-django.cfg
+./babel-djangojs.cfg
+./mkdocs.yml
+./setup.cfg

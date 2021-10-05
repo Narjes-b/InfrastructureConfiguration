@@ -1,0 +1,14 @@
+./networking_odl/bgpvpn/odl_v2.py
+./networking_odl/cmd/analyze_journal.py
+./networking_odl/cmd/set_ovs_hostconfigs.py
+./networking_odl/common/client.py
+./networking_odl/common/odl_features.py
+./networking_odl/common/utils.py
+./networking_odl/common/websocket_client.py
+./networking_odl/db/migration/alembic_migrations/env.py
+./networking_odl/journal/cleanup.py
+./networking_odl/journal/journal.py
+./networking_odl/journal/worker.py
+./networking_odl/l2gateway/driver_v2.py
+./networking_odl/ml2/port_binding.py
+./networking_odl/ml2/pseudo_agentdb_binding.py

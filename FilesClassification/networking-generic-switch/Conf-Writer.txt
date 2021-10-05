@@ -1,0 +1,2 @@
+./networking_generic_switch/config.py
+./tempest_plugin/plugin.py
