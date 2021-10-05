@@ -1,0 +1,16 @@
+./playbooks/ceph/glance-copy-policy.yaml
+./playbooks/legacy/nova-grenade-multinode/post.yaml
+./playbooks/legacy/nova-grenade-multinode/run.yaml
+./playbooks/legacy/nova-live-migration/post.yaml
+./playbooks/legacy/nova-live-migration/run.yaml
+./playbooks/nova-live-migration/post-run.yaml
+./playbooks/nova-multi-cell/pre.yaml
+./playbooks/nova-next/post.yaml
+./playbooks/ceph/glance-copy-policy.yaml
+./playbooks/legacy/nova-grenade-multinode/post.yaml
+./playbooks/legacy/nova-grenade-multinode/run.yaml
+./playbooks/legacy/nova-live-migration/post.yaml
+./playbooks/legacy/nova-live-migration/run.yaml
+./playbooks/nova-live-migration/post-run.yaml
+./playbooks/nova-multi-cell/pre.yaml
+./playbooks/nova-next/post.yaml

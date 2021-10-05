@@ -1,0 +1,7 @@
+./doc/source/redirect.py
+./setup.py
+./tools/abandon_spec.py
+./tools/count_blueprints.py
+./tools/lib.py
+./tools/move_implemented_specs.py
+./tools/move_spec.py

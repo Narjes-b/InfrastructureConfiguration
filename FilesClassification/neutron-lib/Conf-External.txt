@@ -1,0 +1,5 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/v2/parameters.yaml
+./doc/source/conf.py
+./setup.cfg

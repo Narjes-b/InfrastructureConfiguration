@@ -1,0 +1,5 @@
+./babel.cfg
+./doc/source/conf.py
+./setup.cfg
+./zuul.d/jobs.yaml
+./zuul.d/projects.yaml

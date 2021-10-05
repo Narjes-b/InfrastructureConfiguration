@@ -1,0 +1,11 @@
+./.zuul.yaml
+./doc/source/conf.py
+./etc/oslo-config-generator/neutron_vpnaas.conf
+./etc/oslo-config-generator/vpn_agent.ini
+./etc/oslo-policy-generator/policy.conf
+./neutron_vpnaas/services/vpn/device_drivers/template/openswan/ipsec.conf.template
+./neutron_vpnaas/services/vpn/device_drivers/template/strongswan/ipsec.conf.template
+./neutron_vpnaas/services/vpn/device_drivers/template/strongswan/strongswan.conf.template
+./rally-jobs/rally-configs/rally_config_dvr.yaml
+./rally-jobs/rally-configs/rally_config_non_dvr.yaml
+./setup.cfg

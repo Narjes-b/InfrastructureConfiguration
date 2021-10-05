@@ -1,0 +1,3 @@
+./playbooks/dvr-multinode-scenario-pre-run.yaml
+./playbooks/dynamic-routing-pre-run.yaml
+./playbooks/linuxbridge-scenario-pre-run.yaml

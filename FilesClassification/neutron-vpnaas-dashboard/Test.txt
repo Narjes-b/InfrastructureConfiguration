@@ -1,0 +1,10 @@
+./neutron_vpnaas_dashboard/dashboards/project/vpn/tests.py
+./neutron_vpnaas_dashboard/test/__init__.py
+./neutron_vpnaas_dashboard/test/api_tests/__init__.py
+./neutron_vpnaas_dashboard/test/api_tests/test_vpnaas.py
+./neutron_vpnaas_dashboard/test/helpers.py
+./neutron_vpnaas_dashboard/test/settings.py
+./neutron_vpnaas_dashboard/test/test_data/__init__.py
+./neutron_vpnaas_dashboard/test/test_data/utils.py
+./neutron_vpnaas_dashboard/test/test_data/vpnaas_data.py
+./tox.ini
