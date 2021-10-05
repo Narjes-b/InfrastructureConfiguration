@@ -1,0 +1,4 @@
+./lib/puppet/provider/watcher_config/ini_setting.rb
+./lib/puppet/type/watcher_config.rb
+./setup.py
+

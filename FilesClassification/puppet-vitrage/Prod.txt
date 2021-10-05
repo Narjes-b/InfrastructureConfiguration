@@ -1,0 +1,5 @@
+./lib/puppet/provider/vitrage_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/vitrage_config/ini_setting.rb
+./lib/puppet/type/vitrage_api_paste_ini.rb
+./lib/puppet/type/vitrage_config.rb
+./setup.py
