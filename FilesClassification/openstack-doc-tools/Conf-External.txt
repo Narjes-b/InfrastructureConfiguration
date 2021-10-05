@@ -1,0 +1,5 @@
+./.pre-commit-config.yaml
+./bin/doc-tools-check-languages.conf
+./doc/source/conf.py
+./setup.cfg
+./sitemap/scrapy.cfg

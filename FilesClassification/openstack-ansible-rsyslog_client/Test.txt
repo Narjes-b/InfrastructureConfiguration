@@ -1,0 +1,5 @@
+./manual-test.rc
+./run_tests.sh
+./tests/inventory
+./tests/test.yml
+./tox.ini
