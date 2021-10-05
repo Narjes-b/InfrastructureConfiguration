@@ -1,0 +1,15 @@
+./barbican_tempest_plugin/__init__.py
+./barbican_tempest_plugin/clients.py
+./barbican_tempest_plugin/services/__init__.py
+./barbican_tempest_plugin/services/key_manager/__init__.py
+./barbican_tempest_plugin/services/key_manager/json/__init__.py
+./barbican_tempest_plugin/services/key_manager/json/base.py
+./barbican_tempest_plugin/services/key_manager/json/consumer_client.py
+./barbican_tempest_plugin/services/key_manager/json/container_client.py
+./barbican_tempest_plugin/services/key_manager/json/order_client.py
+./barbican_tempest_plugin/services/key_manager/json/quota_client.py
+./barbican_tempest_plugin/services/key_manager/json/secret_client.py
+./barbican_tempest_plugin/services/key_manager/json/secret_metadata_client.py
+./barbican_tempest_plugin/services/key_manager/json/secret_stores_client.py
+./barbican_tempest_plugin/services/key_manager/json/transport_key_client.py
+./setup.py

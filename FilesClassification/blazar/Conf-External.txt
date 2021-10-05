@@ -1,0 +1,8 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/v1/parameters.yaml
+./blazar/db/migration/alembic.ini
+./doc/source/conf.py
+./etc/blazar/blazar-config-generator.conf
+./etc/blazar/blazar-policy-generator.conf
+./setup.cfg

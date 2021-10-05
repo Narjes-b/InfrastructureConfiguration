@@ -1,0 +1,8 @@
+./bifrost/__init__.py
+./bifrost/cli.py
+./bifrost/version.py
+./playbooks/library/network_metadata.py
+./playbooks/library/os_ironic_facts.py
+./playbooks/library/os_ironic_node_info.py
+./scripts/split_json.py
+./setup.py
