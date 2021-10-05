@@ -1,0 +1,5 @@
+./manifests/dashboard.pp
+./manifests/deps.pp
+./manifests/init.pp
+./manifests/params.pp
+./manifests/wsgi/apache.pp

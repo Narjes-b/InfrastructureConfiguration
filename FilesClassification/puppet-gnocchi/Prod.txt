@@ -1,0 +1,8 @@
+./lib/puppet/provider/gnocchi.rb
+./lib/puppet/provider/gnocchi_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/gnocchi_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/gnocchi_config/ini_setting.rb
+./lib/puppet/type/gnocchi_api_paste_ini.rb
+./lib/puppet/type/gnocchi_api_uwsgi_config.rb
+./lib/puppet/type/gnocchi_config.rb
+./setup.py

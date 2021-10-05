@@ -1,0 +1,12 @@
+./lib/puppet/provider/cinder.rb
+./lib/puppet/provider/cinder_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/cinder_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/cinder_config/ini_setting.rb
+./lib/puppet/provider/cinder_qos/openstack.rb
+./lib/puppet/provider/cinder_type/openstack.rb
+./lib/puppet/type/cinder_api_paste_ini.rb
+./lib/puppet/type/cinder_api_uwsgi_config.rb
+./lib/puppet/type/cinder_config.rb
+./lib/puppet/type/cinder_qos.rb
+./lib/puppet/type/cinder_type.rb
+./setup.py

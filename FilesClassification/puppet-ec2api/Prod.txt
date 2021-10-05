@@ -1,0 +1,5 @@
+./lib/puppet/provider/ec2api_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/ec2api_config/ini_setting.rb
+./lib/puppet/type/ec2api_api_paste_ini.rb
+./lib/puppet/type/ec2api_config.rb
+./setup.py

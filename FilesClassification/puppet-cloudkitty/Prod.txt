@@ -1,0 +1,7 @@
+./lib/puppet/provider/cloudkitty_api_paste_ini/ini_setting.rb
+./lib/puppet/provider/cloudkitty_api_uwsgi_config/ini_setting.rb
+./lib/puppet/provider/cloudkitty_config/ini_setting.rb
+./lib/puppet/type/cloudkitty_api_paste_ini.rb
+./lib/puppet/type/cloudkitty_api_uwsgi_config.rb
+./lib/puppet/type/cloudkitty_config.rb
+./setup.py
