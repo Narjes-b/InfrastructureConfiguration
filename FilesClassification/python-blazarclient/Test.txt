@@ -1,0 +1,12 @@
+./.testr.conf
+./blazarclient/tests/__init__.py
+./blazarclient/tests/test_base.py
+./blazarclient/tests/test_client.py
+./blazarclient/tests/test_command.py
+./blazarclient/tests/test_shell.py
+./blazarclient/tests/v1/__init__.py
+./blazarclient/tests/v1/shell_commands/__init__.py
+./blazarclient/tests/v1/shell_commands/test_floatingips.py
+./blazarclient/tests/v1/shell_commands/test_hosts.py
+./blazarclient/tests/v1/shell_commands/test_leases.py
+./tox.ini

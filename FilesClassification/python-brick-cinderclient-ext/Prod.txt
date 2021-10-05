@@ -1,0 +1,7 @@
+./brick_cinderclient_ext/__init__.py
+./brick_cinderclient_ext/brick_utils.py
+./brick_cinderclient_ext/client.py
+./brick_cinderclient_ext/exceptions.py
+./brick_cinderclient_ext/version.py
+./brick_cinderclient_ext/volume_actions.py
+./setup.py
