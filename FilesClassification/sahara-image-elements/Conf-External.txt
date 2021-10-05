@@ -1,0 +1,12 @@
+./.zuul.yaml
+./elements/ambari/package-installs.yaml
+./elements/hadoop-cdh/package-installs.yaml
+./elements/hadoop-cloudera/package-installs.yaml
+./elements/hive/package-installs.yaml
+./elements/kdc/package-installs.yaml
+./elements/root-passwd/package-installs.yaml
+./elements/s3_hadoop/package-installs.yaml
+./elements/swift_hadoop/package-installs.yaml
+./roles/build-sahara-images-dib/defaults/main.yaml
+./roles/build-sahara-images-dib/tasks/main.yaml
+./setup.cfg

@@ -1,0 +1,6 @@
+./renderspec/__init__.py
+./renderspec/contextfuncs.py
+./renderspec/distloader.py
+./renderspec/utils.py
+./renderspec/versions.py
+./setup.py

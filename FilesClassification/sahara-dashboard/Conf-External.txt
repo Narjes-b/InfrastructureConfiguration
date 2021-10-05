@@ -1,0 +1,9 @@
+./.zuul.yaml
+./babel-django.cfg
+./babel-djangojs.cfg
+./roles/post-devstack-sahara-ui-integration/defaults/main.yaml
+./roles/post-devstack-sahara-ui-integration/tasks/main.yaml
+./roles/setup-sahara-ui-integration/defaults/main.yaml
+./roles/setup-sahara-ui-integration/files/legacy_panels.conf
+./roles/setup-sahara-ui-integration/tasks/main.yaml
+./setup.cfg

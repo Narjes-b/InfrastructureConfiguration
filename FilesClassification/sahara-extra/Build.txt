@@ -1,0 +1,3 @@
+./edp-adapt-for-oozie/pom.xml
+./edp-adapt-for-spark/pom.xml
+./hadoop-swiftfs/pom.xml

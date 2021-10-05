@@ -1,0 +1,9 @@
+./reviewstats/__init__.py
+./reviewstats/cmd/__init__.py
+./reviewstats/cmd/bugstats.py
+./reviewstats/cmd/openapproved.py
+./reviewstats/cmd/openreviews.py
+./reviewstats/cmd/reviewers.py
+./reviewstats/cmd/reviews_for_bugs.py
+./reviewstats/utils.py
+./setup.py
