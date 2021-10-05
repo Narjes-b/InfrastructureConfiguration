@@ -1,0 +1,11 @@
+./.zuul.yaml
+./api-ref/source/conf.py
+./api-ref/source/parameters.yaml
+./devstack/local.conf.compute
+./devstack/local.conf.controller
+./doc/source/conf.py
+./etc/watcher/oslo-config-generator/watcher.conf
+./etc/watcher/oslo-policy-generator/watcher-policy-generator.conf
+./rally-jobs/watcher-watcher.yaml
+./setup.cfg
+./watcher/db/sqlalchemy/alembic.ini

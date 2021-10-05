@@ -1,0 +1,12 @@
+./setup.py
+./virtualbmc/__init__.py
+./virtualbmc/cmd/__init__.py
+./virtualbmc/cmd/vbmc.py
+./virtualbmc/cmd/vbmcd.py
+./virtualbmc/config.py
+./virtualbmc/control.py
+./virtualbmc/exception.py
+./virtualbmc/log.py
+./virtualbmc/manager.py
+./virtualbmc/utils.py
+./virtualbmc/vbmc.py
