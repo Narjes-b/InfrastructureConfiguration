@@ -1,0 +1,5 @@
+./.zuul.yaml
+./babel.cfg
+./doc/source/conf.py
+./etc/kuryr-config-generator.conf
+./setup.cfg

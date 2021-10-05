@@ -1,0 +1,3 @@
+./doc/source/conf.py
+./keystoneauth1/loading/conf.py
+./setup.cfg

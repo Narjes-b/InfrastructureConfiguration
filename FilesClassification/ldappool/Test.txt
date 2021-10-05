@@ -1,0 +1,5 @@
+./.stestr.conf
+./ldappool/tests/__init__.py
+./ldappool/tests/test_ldapconnection.py
+./ldappool/tests/test_ldappool.py
+./tox.ini
