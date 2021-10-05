@@ -1,0 +1,12 @@
+./glance_store/__init__.py
+./glance_store/_drivers/__init__.py
+./glance_store/_drivers/swift/__init__.py
+./glance_store/_drivers/swift/connection_manager.py
+./glance_store/capabilities.py
+./glance_store/common/__init__.py
+./glance_store/common/utils.py
+./glance_store/exceptions.py
+./glance_store/i18n.py
+./setup.py
+./tools/install_venv.py
+./tools/install_venv_common.py

@@ -1,0 +1,3 @@
+./playbooks/grenade.yaml
+./playbooks/post.yaml
+./playbooks/pre.yaml

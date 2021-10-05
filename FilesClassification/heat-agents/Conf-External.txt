@@ -1,0 +1,3 @@
+./doc/source/conf.py
+./heat-config/os-apply-config/etc/os-collect-config.conf
+./setup.cfg

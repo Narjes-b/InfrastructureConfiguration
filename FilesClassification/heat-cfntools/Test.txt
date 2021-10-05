@@ -1,0 +1,5 @@
+./.stestr.conf
+./heat_cfntools/tests/__init__.py
+./heat_cfntools/tests/test_cfn_helper.py
+./heat_cfntools/tests/test_cfn_hup.py
+./tox.ini

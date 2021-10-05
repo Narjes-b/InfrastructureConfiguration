@@ -1,0 +1,3 @@
+./setup.py
+./tools/generate-grenade-plugins-list.py
+./tools/outfilter.py

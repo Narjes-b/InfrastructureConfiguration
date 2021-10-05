@@ -1,0 +1,5 @@
+./babel.cfg
+./doc/source/_theme/theme.conf
+./doc/source/conf.py
+./etc/boto.cfg
+./setup.cfg
