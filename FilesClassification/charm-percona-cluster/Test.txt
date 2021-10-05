@@ -1,0 +1,16 @@
+./.stestr.conf
+./tests/bundles/bionic-ha.yaml
+./tests/bundles/bionic-nagios-ha.yaml
+./tests/bundles/bionic-nagios.yaml
+./tests/bundles/bionic.yaml
+./tests/bundles/overlays/ha.yaml
+./tests/bundles/xenial-ha.yaml
+./tests/bundles/xenial-queens-ha-series-upgrade.yaml
+./tests/bundles/xenial.yaml
+./tests/tests.yaml
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_actions.py
+./unit_tests/test_percona_hooks.py
+./unit_tests/test_percona_utils.py
+./unit_tests/test_utils.py

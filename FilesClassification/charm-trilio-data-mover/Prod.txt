@@ -1,0 +1,3 @@
+./src/actions/actions.py
+./src/lib/charm/openstack/trilio_dm.py
+./src/reactive/data_mover_handlers.py

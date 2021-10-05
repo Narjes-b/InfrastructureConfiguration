@@ -1,0 +1,6 @@
+./src/lib/__init__.py
+./src/lib/charm/__init__.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/placement.py
+./src/reactive/__init__.py
+./src/reactive/placement_handlers.py

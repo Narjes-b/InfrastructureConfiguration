@@ -1,0 +1,5 @@
+./.stestr.conf
+./tox.ini
+./unit_tests/__init__.py
+./unit_tests/test_ops_openstack.py
+./unit_tests/test_plugins_classes.py

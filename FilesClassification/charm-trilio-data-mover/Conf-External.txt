@@ -1,0 +1,8 @@
+./osci.yaml
+./src/actions.yaml
+./src/config.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/ceph.conf
+./src/templates/tvault-contego.conf
+./src/templates/tvault-object-store.conf

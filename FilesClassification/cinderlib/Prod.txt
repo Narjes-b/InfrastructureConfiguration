@@ -1,0 +1,13 @@
+./cinderlib/__init__.py
+./cinderlib/cmd/__init__.py
+./cinderlib/cmd/cinder_cfg_to_python.py
+./cinderlib/cmd/cinder_to_yaml.py
+./cinderlib/exception.py
+./cinderlib/nos_brick.py
+./cinderlib/persistence/__init__.py
+./cinderlib/persistence/base.py
+./cinderlib/persistence/memory.py
+./cinderlib/serialization.py
+./cinderlib/utils.py
+./cinderlib/workarounds.py
+./setup.py

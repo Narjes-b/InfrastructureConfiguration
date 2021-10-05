@@ -1,0 +1,4 @@
+./src/actions/actions.py
+./src/lib/charm/openstack/__init__.py
+./src/lib/charm/openstack/trilio_wlm.py
+./src/reactive/trilio_wlm_handlers.py

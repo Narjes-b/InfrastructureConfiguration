@@ -1,0 +1,5 @@
+./osci.yaml
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/train/placement-api.conf
+./src/templates/train/placement.conf

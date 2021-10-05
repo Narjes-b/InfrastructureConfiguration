@@ -1,0 +1,5 @@
+./src/layer.yaml
+./src/metadata.yaml
+./src/templates/ocata/panko-api.conf
+./src/templates/panko-api.conf
+./src/templates/panko.conf
