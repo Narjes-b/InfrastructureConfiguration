@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 #
 # pd.set_option('display.max_columns', 10)
 
-df = pd.read_csv('/Users/bessghaiernarjess/Documents/PhD_ETS/Contrib3-Configuration/NewClassification/FinalClassification/Coupling/RQ3CommitsCoupling.csv', sep=',',header=None, low_memory=False)
+df = pd.read_csv('filePath', sep=',',header=None, low_memory=False)
 #print(df.head(50))
 #print (pd.options.display.max_columns)
 #items = (df.iloc[0].unique()) extesnions
