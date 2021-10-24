@@ -1,4 +1,0 @@
-./setup.py
-./solum_tempest_plugin/__init__.py
-./solum_tempest_plugin/common/__init__.py
-./solum_tempest_plugin/common/apputils.py

@@ -1,2 +1,0 @@
-./oslo_db/concurrency.py
-./oslo_db/options.py

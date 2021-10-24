@@ -1,4 +1,0 @@
-./manifests/dpdk.pp
-./manifests/init.pp
-./manifests/ovs.pp
-./manifests/params.pp

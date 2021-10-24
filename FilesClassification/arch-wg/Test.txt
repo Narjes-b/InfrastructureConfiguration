@@ -1,4 +1,0 @@
-./.testr.conf
-./tests/__init__.py
-./tests/test_fake.py
-./tox.ini

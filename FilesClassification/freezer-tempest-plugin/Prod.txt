@@ -1,5 +1,0 @@
-./freezer_tempest_plugin/__init__.py
-./freezer_tempest_plugin/clients.py
-./freezer_tempest_plugin/services/__init__.py
-./freezer_tempest_plugin/services/freezer_api_client.py
-./setup.py

@@ -1,1 +1,0 @@
-./ranger-agent/templates/bin/_add-region.py.tpl

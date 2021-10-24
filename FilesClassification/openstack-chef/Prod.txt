@@ -1,2 +1,0 @@
-./.chef/knife.rb
-./setup.py

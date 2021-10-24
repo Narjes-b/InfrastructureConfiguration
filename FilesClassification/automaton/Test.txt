@@ -1,4 +1,0 @@
-./.stestr.conf
-./automaton/tests/__init__.py
-./automaton/tests/test_fsm.py
-./tox.ini

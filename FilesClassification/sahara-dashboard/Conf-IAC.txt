@@ -1,2 +1,0 @@
-./playbooks/sahara-dashboard-integration/pre.yaml
-./playbooks/sahara-dashboard-integration/run.yaml

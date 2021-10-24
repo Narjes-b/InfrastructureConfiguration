@@ -1,8 +1,0 @@
-./doc/source/conf.py
-./doc/source/use-cases/heat-mistral-aodh/autoscaling.yaml
-./doc/source/use-cases/heat-mistral-aodh/env.yaml
-./doc/source/use-cases/heat-mistral-aodh/lb_server.yaml
-./setup.cfg
-./use-cases/heat-mistral-aodh/autoscaling.yaml
-./use-cases/heat-mistral-aodh/env.yaml
-./use-cases/heat-mistral-aodh/lb_server.yaml

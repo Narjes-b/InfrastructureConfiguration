@@ -1,2 +1,0 @@
-./monasca_common/policy/policy_engine.py
-./monasca_common/repositories/mysql/mysql_repository.py

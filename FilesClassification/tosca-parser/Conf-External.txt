@@ -1,5 +1,0 @@
-./doc/source/conf.py
-./setup.cfg
-./toscaparser/elements/TOSCA_definition_1_0.yaml
-./toscaparser/extensions/mec/TOSCA_mec_definition_1_0_0.yaml
-./toscaparser/extensions/nfv/TOSCA_nfv_definition_1_0_0.yaml

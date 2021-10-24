@@ -1,3 +1,0 @@
-./attributes/cinder_conf.rb
-./attributes/default.rb
-./metadata.rb

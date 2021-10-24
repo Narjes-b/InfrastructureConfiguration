@@ -1,2 +1,0 @@
-./elements/hadoop-mapr/resources/versions.py
-./setup.py

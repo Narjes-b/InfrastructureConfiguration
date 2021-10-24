@@ -1,3 +1,0 @@
-./.zuul.yaml
-./java/monasca-common-kafka/src/main/resources/monasca/common/kafka-producer-config.yml
-./setup.cfg

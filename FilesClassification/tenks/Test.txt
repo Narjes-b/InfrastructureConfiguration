@@ -1,6 +1,0 @@
-./.stestr.conf
-./tests/__init__.py
-./tests/test_tenks_update_state.py
-./tests/test_tenks_wait_for_resources.py
-./tests/utils.py
-./tox.ini

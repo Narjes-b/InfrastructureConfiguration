@@ -1,4 +1,0 @@
-./.zuul.yaml
-./mkdocs.yml
-./thresh/src/deb/etc/thresh-config.yml-sample
-./thresh/src/main/config/thresh-sample-config.yml

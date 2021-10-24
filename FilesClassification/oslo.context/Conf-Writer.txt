@@ -1,3 +1,0 @@
-./doc/source/user/examples/usage.py
-./doc/source/user/examples/usage_simple.py
-./doc/source/user/examples/usage_user_identity.py

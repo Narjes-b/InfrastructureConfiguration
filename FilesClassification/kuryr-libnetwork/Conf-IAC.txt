@@ -1,9 +1,0 @@
-./contrib/busybox/Dockerfile
-./contrib/vagrant/add_vagrant_user.sh
-./contrib/vagrant/config/kuryr_rc
-./contrib/vagrant/devstack.sh
-./contrib/vagrant/vagrant.sh
-./contrib/vagrant/Vagrantfile
-./Dockerfile
-./playbooks/post_fullstack_job.yaml
-./playbooks/run_fullstack_job.yaml

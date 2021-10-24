@@ -1,1 +1,0 @@
-./zaqar_tempest_plugin/config.py

@@ -1,6 +1,0 @@
-./oslo_metrics/__init__.py
-./oslo_metrics/message_router.py
-./oslo_metrics/message_type.py
-./oslo_metrics/metrics/__init__.py
-./oslo_metrics/metrics/oslo_messaging.py
-./setup.py

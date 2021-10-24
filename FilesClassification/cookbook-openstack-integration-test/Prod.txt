@@ -1,6 +1,0 @@
-./attributes/default.rb
-./attributes/tempest_conf.rb
-./metadata.rb
-./templates/default/named.designate.erb
-./templates/default/tempest-blacklist.erb
-./templates/default/tempest.sh.erb

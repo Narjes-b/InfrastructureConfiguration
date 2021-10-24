@@ -1,3 +1,0 @@
-./aodh/api/controllers/v2/alarms.py
-./aodh/event.py
-./aodh/keystone_client.py

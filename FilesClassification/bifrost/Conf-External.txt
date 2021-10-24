@@ -1,6 +1,0 @@
-./ansible-collections-requirements.yml
-./doc/source/conf.py
-./playbooks/roles/bifrost-create-vm-nodes/templates/virtualbmc.conf
-./setup.cfg
-./zuul.d/bifrost-jobs.yaml
-./zuul.d/project.yaml

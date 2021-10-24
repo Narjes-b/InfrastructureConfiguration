@@ -1,7 +1,0 @@
-./spec/apt_spec.rb
-./spec/dashboard_spec.rb
-./spec/db_spec.rb
-./spec/identity_registration_spec.rb
-./spec/mq_spec.rb
-./spec/server_spec.rb
-./spec/spec_helper.rb

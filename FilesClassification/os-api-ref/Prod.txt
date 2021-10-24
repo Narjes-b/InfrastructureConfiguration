@@ -1,3 +1,0 @@
-./os_api_ref/__init__.py
-./os_api_ref/http_codes.py
-./setup.py

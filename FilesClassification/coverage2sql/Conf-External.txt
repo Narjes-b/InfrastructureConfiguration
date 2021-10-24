@@ -1,4 +1,0 @@
-./babel.cfg
-./coverage2sql/migrations/alembic.ini
-./doc/source/conf.py
-./setup.cfg

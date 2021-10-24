@@ -1,5 +1,0 @@
-./doc/training-guides/source/slides/conf.py
-./doc/training-guides/source/website/conf.py
-./doc/upstream-training/source/slides/conf.py
-./doc/upstream-training/source/website/conf.py
-./setup.cfg

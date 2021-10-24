@@ -1,1 +1,0 @@
-./os_performance_tools/counters2statsd.py

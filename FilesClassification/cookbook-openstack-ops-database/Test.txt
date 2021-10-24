@@ -1,8 +1,0 @@
-./spec/client_spec.rb
-./spec/mariadb-client-redhat_spec.rb
-./spec/mariadb-client_spec.rb
-./spec/mariadb-cluster-server_spec.rb
-./spec/mariadb-server_spec.rb
-./spec/openstack-db_spec.rb
-./spec/server_spec.rb
-./spec/spec_helper.rb

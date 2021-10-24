@@ -1,4 +1,0 @@
-./setup.py
-./swiftbench/__init__.py
-./swiftbench/bench.py
-./swiftbench/utils.py

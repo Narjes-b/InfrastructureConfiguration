@@ -1,5 +1,0 @@
-./doc/source/_exts/ansible-autodoc.py
-./plugins/action/timestamp_file.py
-./plugins/filter/shell_args.py
-./plugins/modules/tripleo_shell_script.py
-./setup.py

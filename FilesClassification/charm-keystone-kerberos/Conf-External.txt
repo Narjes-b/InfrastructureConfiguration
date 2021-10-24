@@ -1,6 +1,0 @@
-./.travis.yml
-./osci.yaml
-./src/config.yaml
-./src/layer.yaml
-./src/metadata.yaml
-./src/templates/krb5.conf

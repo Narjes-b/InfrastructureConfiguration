@@ -1,8 +1,0 @@
-./oslo_policy/__init__.py
-./oslo_policy/_checks.py
-./oslo_policy/_external.py
-./oslo_policy/_i18n.py
-./oslo_policy/_parser.py
-./oslo_policy/fixture.py
-./oslo_policy/version.py
-./setup.py

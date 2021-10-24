@@ -1,2 +1,0 @@
-./doc/source/redirect.py
-./setup.py

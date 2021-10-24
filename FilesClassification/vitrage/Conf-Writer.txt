@@ -1,3 +1,0 @@
-./vitrage/common/config.py
-./vitrage/keystone_client.py
-./vitrage/opts.py

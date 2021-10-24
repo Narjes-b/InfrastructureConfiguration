@@ -1,4 +1,0 @@
-./connection/ssh.py
-./filter/osa-filters.py
-./strategy/linear.py
-./strategy/tagfilter.py

@@ -1,1 +1,0 @@
-./puppet-openstack_spec_helper.gemspec

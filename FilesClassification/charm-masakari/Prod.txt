@@ -1,3 +1,0 @@
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/masakari.py
-./src/reactive/masakari_handlers.py

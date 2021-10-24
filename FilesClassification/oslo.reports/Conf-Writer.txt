@@ -1,1 +1,0 @@
-./oslo_reports/guru_meditation_report.py

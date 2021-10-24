@@ -1,5 +1,0 @@
-./osci.yaml
-./src/actions.yaml
-./src/config.yaml
-./src/layer.yaml
-./src/metadata.yaml

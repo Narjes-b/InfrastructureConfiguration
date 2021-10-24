@@ -1,7 +1,0 @@
-./lib/puppet/provider/octavia_api_uwsgi_config/ini_setting.rb
-./lib/puppet/provider/octavia_config/ini_setting.rb
-./lib/puppet/provider/octavia_ovn_provider_config/ini_setting.rb
-./lib/puppet/type/octavia_api_uwsgi_config.rb
-./lib/puppet/type/octavia_config.rb
-./lib/puppet/type/octavia_ovn_provider_config.rb
-./setup.py

@@ -1,4 +1,0 @@
-./puppet-{{cookiecutter.project_name}}/lib/puppet/provider/{{cookiecutter.project_name}}_config/ini_setting.rb
-./puppet-{{cookiecutter.project_name}}/lib/puppet/type/{{cookiecutter.project_name}}_config.rb
-./puppet-{{cookiecutter.project_name}}/setup.py
-

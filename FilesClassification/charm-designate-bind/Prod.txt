@@ -1,2 +1,0 @@
-./src/lib/charm/openstack/designate_bind.py
-./src/reactive/designate_bind_handlers.py

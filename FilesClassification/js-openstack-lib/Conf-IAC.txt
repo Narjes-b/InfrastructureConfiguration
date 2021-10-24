@@ -1,5 +1,0 @@
-./playbooks/fetch-javascript-output.yml
-./playbooks/fixup-devstack.yml
-./playbooks/run-npm.yml
-./vagrant.sh
-./Vagrantfile

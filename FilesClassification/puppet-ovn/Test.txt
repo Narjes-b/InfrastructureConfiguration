@@ -1,7 +1,0 @@
-./tox.ini
-./spec/acceptance/basic_ovn_spec.rb
-./spec/classes/ovn_controller_spec.rb
-./spec/classes/ovn_northd_spec.rb
-./spec/shared_examples.rb
-./spec/spec_helper.rb
-./spec/spec_helper_acceptance.rb

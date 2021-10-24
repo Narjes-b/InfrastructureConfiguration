@@ -1,8 +1,0 @@
-./charm-helpers-sync.yaml
-./config.yaml
-./hooks/charmhelpers/contrib/openstack/templates/ceph.conf
-./metadata.yaml
-./templates/grub.cfg
-./templates/kilo/ironic.conf
-./templates/liberty/ironic.conf
-./templates/newton/ironic.conf

@@ -1,8 +1,0 @@
-./ceilometer_powervm/__init__.py
-./ceilometer_powervm/compute/__init__.py
-./ceilometer_powervm/compute/virt/__init__.py
-./ceilometer_powervm/compute/virt/powervm/__init__.py
-./ceilometer_powervm/compute/virt/powervm/i18n.py
-./ceilometer_powervm/compute/virt/powervm/inspector.py
-./ceilometer_powervm/version.py
-./setup.py

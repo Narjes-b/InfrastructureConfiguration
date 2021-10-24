@@ -1,2 +1,0 @@
-./sahara_plugin_spark/plugins/spark/config_helper.py
-./sahara_plugin_spark/plugins/spark/plugin.py

@@ -1,6 +1,0 @@
-./.testr.conf
-./blazarnova/tests/__init__.py
-./blazarnova/tests/scheduler/__init__.py
-./blazarnova/tests/scheduler/filters/__init__.py
-./blazarnova/tests/scheduler/filters/test_blazar_filter.py
-./tox.ini

@@ -1,3 +1,0 @@
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/panko.py
-./src/reactive/panko_handlers.py

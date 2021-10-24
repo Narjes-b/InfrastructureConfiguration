@@ -1,5 +1,0 @@
-./blazar_tempest_plugin/__init__.py
-./blazar_tempest_plugin/services/__init__.py
-./blazar_tempest_plugin/services/reservation/__init__.py
-./blazar_tempest_plugin/services/reservation/reservation_client.py
-./setup.py

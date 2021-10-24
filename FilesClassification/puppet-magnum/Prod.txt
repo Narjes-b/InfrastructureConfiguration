@@ -1,7 +1,0 @@
-./lib/puppet/provider/magnum_api_paste_ini/ini_setting.rb
-./lib/puppet/provider/magnum_api_uwsgi_config/openstackconfig.rb
-./lib/puppet/provider/magnum_config/ini_setting.rb
-./lib/puppet/type/magnum_api_paste_ini.rb
-./lib/puppet/type/magnum_api_uwsgi_config.rb
-./lib/puppet/type/magnum_config.rb
-./setup.py

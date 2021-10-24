@@ -1,6 +1,0 @@
-./spec/dns-rhel_spec.rb
-./spec/dns_spec.rb
-./spec/orchestration_spec.rb
-./spec/setup-redhat_spec.rb
-./spec/setup_spec.rb
-./spec/spec_helper.rb

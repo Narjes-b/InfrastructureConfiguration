@@ -1,3 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./setup.cfg

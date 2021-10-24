@@ -1,5 +1,0 @@
-./contrib/vagrant/local.conf
-./contrib/vagrant/setup_ubuntu_devstack
-./contrib/vagrant/Vagrantfile
-./playbooks/designate-bind9/post.yaml
-./playbooks/designate-pdns4/post.yaml

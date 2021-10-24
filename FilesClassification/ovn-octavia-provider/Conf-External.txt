@@ -1,9 +1,0 @@
-./doc/source/conf.py
-./etc/oslo-config-generator/ovn.conf
-./roles/fetch_journal_log/defaults/main.yaml
-./roles/fetch_journal_log/tasks/main.yaml
-./roles/setup_logdir/defaults/main.yaml
-./roles/setup_logdir/tasks/main.yaml
-./setup.cfg
-./zuul.d/base.yaml
-./zuul.d/project.yaml

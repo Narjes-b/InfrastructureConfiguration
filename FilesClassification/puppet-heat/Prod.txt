@@ -1,9 +1,0 @@
-./lib/puppet/provider/heat_api_cfn_uwsgi_config/ini_setting.rb
-./lib/puppet/provider/heat_api_paste_ini/ini_setting.rb
-./lib/puppet/provider/heat_api_uwsgi_config/ini_setting.rb
-./lib/puppet/provider/heat_config/ini_setting.rb
-./lib/puppet/type/heat_api_cfn_uwsgi_config.rb
-./lib/puppet/type/heat_api_paste_ini.rb
-./lib/puppet/type/heat_api_uwsgi_config.rb
-./lib/puppet/type/heat_config.rb
-./setup.py

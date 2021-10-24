@@ -1,3 +1,0 @@
-./.kitchen.yml
-./.rubocop.yml
-./.rubocop_todo.yml

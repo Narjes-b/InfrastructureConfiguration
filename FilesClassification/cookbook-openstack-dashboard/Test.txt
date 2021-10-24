@@ -1,7 +1,0 @@
-./spec/apache2-server-redhat_spec.rb
-./spec/apache2-server_spec.rb
-./spec/horizon-redhat_spec.rb
-./spec/horizon_spec.rb
-./spec/neutron-lbaas-dashboard-redhat_spec.rb
-./spec/neutron-lbaas-dashboard_spec.rb
-./spec/spec_helper.rb

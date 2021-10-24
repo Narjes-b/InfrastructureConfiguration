@@ -1,4 +1,0 @@
-./.testr.conf
-./tests/__init__.py
-./tests/test_no_dup_filenames.py
-./tox.ini

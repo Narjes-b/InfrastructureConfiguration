@@ -1,4 +1,0 @@
-./setup.py
-./xstatic/__init__.py
-./xstatic/pkg/__init__.py
-./xstatic/pkg/font_awesome/__init__.py

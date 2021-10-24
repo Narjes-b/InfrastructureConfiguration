@@ -1,2 +1,0 @@
-./setup.cfg
-./templates/zaqar.conf.erb

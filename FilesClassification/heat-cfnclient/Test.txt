@@ -1,4 +1,0 @@
-./.testr.conf
-./heat_cfnclient/tests/__init__.py
-./heat_cfnclient/tests/test_cli.py
-./tox.ini

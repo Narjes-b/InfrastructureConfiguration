@@ -1,8 +1,0 @@
-./ansible-role-requirements.yaml
-./defaults/main.yml
-./doc/source/conf.py
-./examples/playbook.yml
-./handlers/main.yml
-./meta/main.yml
-./setup.cfg
-./tasks/main.yml

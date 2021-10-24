@@ -1,5 +1,0 @@
-./networking_sfc/extensions/flowclassifier.py
-./networking_sfc/extensions/servicegraph.py
-./networking_sfc/extensions/sfc.py
-./networking_sfc/services/flowclassifier/common/config.py
-./networking_sfc/services/sfc/common/config.py

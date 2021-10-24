@@ -1,7 +1,0 @@
-./setup.py
-./stackviz/__init__.py
-./stackviz/export.py
-./stackviz/parser/__init__.py
-./stackviz/parser/devstack_parser.py
-./stackviz/parser/log_node.py
-./stackviz/parser/tempest_subunit.py

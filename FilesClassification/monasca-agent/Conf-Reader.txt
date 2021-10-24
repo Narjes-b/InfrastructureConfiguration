@@ -1,3 +1,0 @@
-./monasca_setup/detection/plugins/libvirt.py
-./monasca_setup/detection/plugins/ovs.py
-./monasca_setup/detection/utils.py

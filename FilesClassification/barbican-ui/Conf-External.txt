@@ -1,6 +1,0 @@
-./.zuul.yaml
-./babel-django.cfg
-./babel-djangojs.cfg
-./barbican_ui/karma.conf.js
-./doc/source/conf.py
-./setup.cfg

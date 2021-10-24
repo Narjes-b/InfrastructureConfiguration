@@ -1,6 +1,0 @@
-./src/config.yaml
-./src/layer.yaml
-./src/metadata.yaml
-./src/templates/mitaka/logging.conf
-./src/templates/mitaka/mistral.conf
-./src/templates/mitaka/wf_trace_logging.conf

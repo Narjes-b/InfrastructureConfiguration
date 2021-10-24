@@ -1,3 +1,0 @@
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/gnocchi.py
-./src/reactive/gnocchi_handlers.py

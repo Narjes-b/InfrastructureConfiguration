@@ -1,7 +1,0 @@
-./.stestr.conf
-./octavia_dashboard/tests/__init__.py
-./octavia_dashboard/tests/settings.py
-./octavia_dashboard/tests/unit/__init__.py
-./octavia_dashboard/tests/unit/registration.py
-./octavia_dashboard/tests/urls.py
-./tox.ini

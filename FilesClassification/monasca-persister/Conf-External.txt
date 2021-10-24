@@ -1,7 +1,0 @@
-./.zuul.yaml
-./config-generator/persister.conf
-./etc/monasca/persister-logging.conf
-./java/src/deb/etc/persister-config.yml-sample
-./java/src/main/resources/persister-config.yml
-./monasca_persister/tools/cassandra/recreate-metric-id/persister-recreate.ini
-./setup.cfg

@@ -1,4 +1,0 @@
-./contrib/infra/build-farm/images/jenkins/build-ubuntu12_04-docker.sh
-./contrib/infra/build-farm/images/jenkins/build-ubuntu12_04-qcow2.sh
-./contrib/infra/diskimage-builder/elements/jenkins/install.d/02-install-jenkins
-./examples/language-packs/chef/Gemfile

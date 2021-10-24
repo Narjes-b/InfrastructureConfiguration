@@ -1,4 +1,0 @@
-./src/__init__.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/keystone_kerberos.py
-./src/reactive/keystone_kerberos_handlers.py

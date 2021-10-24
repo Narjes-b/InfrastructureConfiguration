@@ -1,7 +1,0 @@
-./.zuul.yaml
-./babel-django.cfg
-./babel-djangojs.cfg
-./doc/source/_theme/theme.conf
-./doc/source/conf.py
-./karma.conf.js
-./setup.cfg

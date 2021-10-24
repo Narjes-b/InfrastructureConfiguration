@@ -1,4 +1,0 @@
-./lib/puppet/provider/tacker_config/ini_setting.rb
-./lib/puppet/type/tacker_config.rb
-./setup.py
-

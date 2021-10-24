@@ -1,3 +1,0 @@
-./freezer_dr/common/config.py
-./freezer_dr/monitors/common/driver.py
-./freezer_dr/monitors/drivers/monasca/driver.py

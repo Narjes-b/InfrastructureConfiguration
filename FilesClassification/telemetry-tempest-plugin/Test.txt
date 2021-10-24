@@ -1,9 +1,0 @@
-./.stestr.conf
-./telemetry_tempest_plugin/aodh/api/base.py
-./telemetry_tempest_plugin/aodh/api/test_alarming_api.py
-./telemetry_tempest_plugin/aodh/api/test_alarming_api_negative.py
-./telemetry_tempest_plugin/exceptions.py
-./telemetry_tempest_plugin/scenario/test_gnocchi.py
-./telemetry_tempest_plugin/scenario/test_telemetry_integration.py
-./telemetry_tempest_plugin/scenario/utils.py
-./tox.ini

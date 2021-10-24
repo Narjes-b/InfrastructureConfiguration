@@ -1,7 +1,0 @@
-./ptgbot/__init__.py
-./ptgbot/admincommands.py
-./ptgbot/bot.py
-./ptgbot/db.py
-./ptgbot/trackcommands.py
-./ptgbot/usercommands.py
-./setup.py

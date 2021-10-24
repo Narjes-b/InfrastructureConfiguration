@@ -1,3 +1,0 @@
-./openstack/nova/unittests.blacklist
-./openstack/python-glareclient/0001-python3-compatibility-for-failing-unit-tests.patch
-./tox.ini

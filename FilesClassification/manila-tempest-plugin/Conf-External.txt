@@ -1,7 +1,0 @@
-./babel.cfg
-./doc/source/conf.py
-./roles/set-tempest-config/defaults/main.yml
-./roles/set-tempest-config/tasks/main.yml
-./setup.cfg
-./zuul.d/manila-tempest-jobs.yaml
-./zuul.d/project.yaml

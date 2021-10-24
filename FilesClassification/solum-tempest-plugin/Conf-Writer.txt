@@ -1,1 +1,0 @@
-./solum_tempest_plugin/plugin.py

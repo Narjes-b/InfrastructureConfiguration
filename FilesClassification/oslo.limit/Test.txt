@@ -1,4 +1,0 @@
-./.stestr.conf
-./oslo_limit/tests/__init__.py
-./oslo_limit/tests/test_limit.py
-./tox.ini

@@ -1,9 +1,0 @@
-./doc/source/conf.py
-./etc/oslo-config-generator/manilaclient.conf
-./rally-jobs/rally-manila-no-ss.yaml
-./rally-jobs/rally-manila.yaml
-./roles/populate-manilaclient-config/defaults/main.yaml
-./roles/populate-manilaclient-config/tasks/main.yaml
-./setup.cfg
-./zuul.d/project.yaml
-./zuul.d/python-manilaclient-jobs.yaml

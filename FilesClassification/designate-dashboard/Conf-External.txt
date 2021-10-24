@@ -1,4 +1,0 @@
-./babel-django.cfg
-./doc/source/conf.py
-./karma.conf.js
-./setup.cfg

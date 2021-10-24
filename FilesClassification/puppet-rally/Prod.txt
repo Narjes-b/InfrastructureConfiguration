@@ -1,5 +1,0 @@
-./lib/puppet/provider/rally_config/ini_setting.rb
-./lib/puppet/provider/rally_deployment/file.rb
-./lib/puppet/type/rally_config.rb
-./lib/puppet/type/rally_deployment.rb
-./setup.py

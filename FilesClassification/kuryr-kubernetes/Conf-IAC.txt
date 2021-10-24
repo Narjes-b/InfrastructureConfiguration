@@ -1,8 +1,0 @@
-./cni.Dockerfile
-./contrib/vagrant/config/kuryr_rc
-./contrib/vagrant/devstack.sh
-./contrib/vagrant/vagrant.sh
-./contrib/vagrant/Vagrantfile
-./controller.Dockerfile
-./playbooks/copy-k8s-logs.yaml
-./playbooks/get_amphora_tarball.yaml

@@ -1,4 +1,0 @@
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/nova_cell_controller.py
-./src/reactive/__init__.py
-./src/reactive/nova_cell_controller_handlers.py

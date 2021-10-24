@@ -1,5 +1,0 @@
-./lib/puppet/provider/placement_api_uwsgi_config/ini_setting.rb
-./lib/puppet/provider/placement_config/ini_setting.rb
-./lib/puppet/type/placement_api_uwsgi_config.rb
-./lib/puppet/type/placement_config.rb
-./setup.py

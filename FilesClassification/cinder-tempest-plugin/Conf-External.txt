@@ -1,5 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./roles/change-devstack-data-owner/defaults/main.yaml
-./roles/change-devstack-data-owner/tasks/main.yaml
-./setup.cfg

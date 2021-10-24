@@ -1,9 +1,0 @@
-./src/actions/__init__.py
-./src/actions/actions.py
-./src/lib/__init__.py
-./src/lib/charm/__init__.py
-./src/lib/charm/openstack/__init__.py
-./src/lib/charm/openstack/delayed_action_coordinator.py
-./src/lib/charm/openstack/mysql_innodb_cluster.py
-./src/reactive/__init__.py
-./src/reactive/mysql_innodb_cluster_handlers.py

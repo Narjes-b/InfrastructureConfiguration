@@ -1,1 +1,0 @@
-./neutron/templates/bin/_neutron-netns-cleanup-cron.py.tpl

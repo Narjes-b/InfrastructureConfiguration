@@ -1,8 +1,0 @@
-./playbooks/docker-buildimage/post.yaml
-./playbooks/docker-buildimage/run.yaml
-./playbooks/legacy/mistral-ha/run.yaml
-./rally-jobs/extra/scenarios/big_wf/terminate_wf.yaml
-./rally-jobs/extra/scenarios/complex_wf/complex_wf_wb.yaml
-./rally-jobs/extra/scenarios/join/join_100_wb.yaml
-./rally-jobs/extra/scenarios/join/join_500_wb.yaml
-./tools/docker/Dockerfile

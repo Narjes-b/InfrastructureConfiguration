@@ -1,7 +1,0 @@
-./.kitchen.dokken.yml
-./.kitchen.multi.yml
-./.zuul.yaml
-./deploy-guide/source/conf.py
-./doc/source/conf.py
-./kitchen.yml
-./setup.cfg

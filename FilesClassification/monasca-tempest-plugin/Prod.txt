@@ -1,2 +1,0 @@
-./docker/health_check.py
-./setup.py

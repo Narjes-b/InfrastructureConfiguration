@@ -1,2 +1,0 @@
-./tools/list_latest_releases.sh
-./tox.ini

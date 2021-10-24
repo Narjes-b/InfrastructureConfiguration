@@ -1,5 +1,0 @@
-./.zuul.yaml
-./doc/source/conf.py
-./doc/source/service-types.yaml
-./service-types.yaml
-./setup.cfg

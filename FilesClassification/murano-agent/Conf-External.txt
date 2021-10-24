@@ -1,8 +1,0 @@
-./contrib/c-demo-agent/murano-agent.conf.example
-./contrib/windows-agent/ExecutionPlanGenerator/App.config
-./contrib/windows-agent/ExecutionPlanGenerator/packages.config
-./contrib/windows-agent/WindowsAgent/App.config
-./contrib/windows-agent/WindowsAgent/packages.config
-./doc/source/conf.py
-./etc/oslo-config-generator/muranoagent.conf
-./setup.cfg

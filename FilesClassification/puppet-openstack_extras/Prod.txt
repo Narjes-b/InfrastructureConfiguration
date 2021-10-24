@@ -1,6 +1,0 @@
-./lib/puppet/functions/validate_yum_hash.rb
-./lib/puppet/provider/pacemaker_common.rb
-./lib/puppet/provider/service/pacemaker.rb
-./setup.py
-./templates/ocf_handler.erb
-./templates/openrc.erb

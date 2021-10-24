@@ -1,3 +1,0 @@
-./doc/source/conf.py
-./doc-ko_KR/source/conf.py
-./setup.cfg

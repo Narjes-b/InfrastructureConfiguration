@@ -1,9 +1,0 @@
-./.stestr.conf
-./sahara_plugin_spark/tests/__init__.py
-./sahara_plugin_spark/tests/unit/__init__.py
-./sahara_plugin_spark/tests/unit/base.py
-./sahara_plugin_spark/tests/unit/plugins/__init__.py
-./sahara_plugin_spark/tests/unit/plugins/spark/__init__.py
-./sahara_plugin_spark/tests/unit/plugins/spark/test_config_helper.py
-./sahara_plugin_spark/tests/unit/plugins/spark/test_plugin.py
-./tox.ini

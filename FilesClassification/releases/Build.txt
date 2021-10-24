@@ -1,2 +1,0 @@
-./tools/build_reenqueue_commands.sh
-./tools/build_tag_history.sh

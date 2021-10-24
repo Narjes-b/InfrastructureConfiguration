@@ -1,2 +1,0 @@
-./playbooks/legacy/murano-dashboard-sanity-check/post.yaml
-./playbooks/legacy/murano-dashboard-sanity-check/run.yaml

@@ -1,3 +1,0 @@
-./os_vif/plugin.py
-./vif_plug_linux_bridge/linux_bridge.py
-./vif_plug_ovs/ovs.py

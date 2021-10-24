@@ -1,1 +1,0 @@
-./nova_powervm/conf/powervm.py

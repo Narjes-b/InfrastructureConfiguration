@@ -1,9 +1,0 @@
-./.zuul.yaml
-./doc/source/conf.py
-./metalsmith_ansible/roles/metalsmith_deployment/defaults/main.yml
-./metalsmith_ansible/roles/metalsmith_deployment/meta/main.yml
-./metalsmith_ansible/roles/metalsmith_deployment/tasks/main.yml
-./roles/metalsmith_deployment/defaults/main.yml
-./roles/metalsmith_deployment/meta/main.yml
-./roles/metalsmith_deployment/tasks/main.yml
-./setup.cfg

@@ -1,5 +1,0 @@
-./.stestr.conf
-./debtcollector/tests/__init__.py
-./debtcollector/tests/base.py
-./debtcollector/tests/test_deprecation.py
-./tox.ini

@@ -1,7 +1,0 @@
-./.yamllint
-./archived-sigs.yaml
-./completed-sigs.yaml
-./doc/source/_themes/governance/theme.conf
-./doc/source/conf.py
-./setup.cfg
-./sigs.yaml

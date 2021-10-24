@@ -1,3 +1,0 @@
-./lib/puppet/provider/senlin_config/ini_setting.rb
-./lib/puppet/type/senlin_config.rb
-./setup.py

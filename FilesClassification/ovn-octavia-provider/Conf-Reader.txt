@@ -1,3 +1,0 @@
-./ovn_octavia_provider/common/clients.py
-./ovn_octavia_provider/helper.py
-./ovn_octavia_provider/ovsdb/ovsdb_monitor.py

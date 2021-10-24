@@ -1,3 +1,0 @@
-./glance_store/_drivers/cinder.py
-./glance_store/_drivers/vmware_datastore.py
-./glance_store/backend.py

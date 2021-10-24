@@ -1,5 +1,0 @@
-./test-shim.js
-./tox.ini
-./zun_ui/content/container/containers/tests.py
-./zun_ui/test/__init__.py
-./zun_ui/test/settings.py

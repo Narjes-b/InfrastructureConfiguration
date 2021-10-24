@@ -1,7 +1,0 @@
-./lib/puppet/provider/mistral.rb
-./lib/puppet/provider/mistral_config/ini_setting.rb
-./lib/puppet/provider/mistral_workflow/openstack.rb
-./lib/puppet/provider/mistral_workflow_requester.rb
-./lib/puppet/type/mistral_config.rb
-./lib/puppet/type/mistral_workflow.rb
-./setup.py

@@ -1,8 +1,0 @@
-./lib/puppet-openstack_spec_helper/defaults.rb
-./lib/puppet-openstack_spec_helper/facts.rb
-./lib/puppet-openstack_spec_helper/litmus_spec_helper.rb
-./lib/puppet-openstack_spec_helper/rake_tasks.rb
-./lib/puppet-openstack_spec_helper/support/matchers/have_array_of_instances_hash.rb
-./lib/puppet-openstack_spec_helper/support/matchers/include_regexp.rb
-./lib/puppet-openstack_spec_helper/version.rb
-./setup.py

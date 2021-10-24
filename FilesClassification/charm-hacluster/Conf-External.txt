@@ -1,7 +1,0 @@
-./actions.yaml
-./charm-helpers-hooks.yaml
-./config.yaml
-./metadata.yaml
-./setup.cfg
-./templates/corosync.conf
-./templates/systemd-overrides.conf

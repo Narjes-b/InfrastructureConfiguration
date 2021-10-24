@@ -1,9 +1,0 @@
-./ansible/action_plugins/__init__.py
-./ansible/action_plugins/tenks_update_state.py
-./ansible/filter_plugins/tenks.py
-./ansible/library/tenks_update_state.py
-./ansible/roles/virtualbmc-domain/library/virtualbmc_domain.py
-./ansible/roles/wait-for-resources/library/wait_for_resources.py
-./setup.py
-./tenks/__init__.py
-./tenks/version.py

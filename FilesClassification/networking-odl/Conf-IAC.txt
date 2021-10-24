@@ -1,9 +1,0 @@
-./playbooks/devstack/pre.yaml
-./playbooks/devstack-tox/post.yaml
-./playbooks/devstack-tox/pre.yaml
-./playbooks/devstack-tox/run.yaml
-./playbooks/functional/pre.yaml
-./playbooks/multinode-setup.yaml
-./playbooks/tempest/post.yaml
-./playbooks/tempest/pre.yaml
-./playbooks/tempest/run.yaml

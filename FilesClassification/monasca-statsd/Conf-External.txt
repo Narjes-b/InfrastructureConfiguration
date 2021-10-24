@@ -1,4 +1,0 @@
-./.zuul.yaml
-./doc/source/conf.py
-./mkdocs.yml
-./setup.cfg

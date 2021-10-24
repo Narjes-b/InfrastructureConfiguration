@@ -1,9 +1,0 @@
-./lib/puppet/provider/designate_api_paste_ini/ini_setting.rb
-./lib/puppet/provider/designate_api_uwsgi_config/openstackconfig.rb
-./lib/puppet/provider/designate_config/ini_setting.rb
-./lib/puppet/provider/designate_rootwrap_config/ini_setting.rb
-./lib/puppet/type/designate_api_paste_ini.rb
-./lib/puppet/type/designate_api_uwsgi_config.rb
-./lib/puppet/type/designate_config.rb
-./lib/puppet/type/designate_rootwrap_config.rb
-./setup.py

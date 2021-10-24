@@ -1,7 +1,0 @@
-./data/docker/ganesha.conf
-./doc/source/conf.py
-./roles/build-mie-images/defaults/main.yml
-./roles/build-mie-images/tasks/main.yml
-./setup.cfg
-./zuul.d/manila-image-elements-jobs.yaml
-./zuul.d/project.yaml

@@ -1,7 +1,0 @@
-./setup.py
-./telemetry_tempest_plugin/__init__.py
-./telemetry_tempest_plugin/aodh/__init__.py
-./telemetry_tempest_plugin/aodh/api/__init__.py
-./telemetry_tempest_plugin/aodh/service/__init__.py
-./telemetry_tempest_plugin/aodh/service/client.py
-./telemetry_tempest_plugin/scenario/__init__.py

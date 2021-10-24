@@ -1,5 +1,0 @@
-./.zuul.yaml
-./babel.cfg
-./doc/source/conf.py
-./keystoneclient/auth/conf.py
-./setup.cfg

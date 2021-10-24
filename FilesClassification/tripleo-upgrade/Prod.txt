@@ -1,3 +1,0 @@
-./ci-scripts/ansible_rules/ShellPipefail.py
-./filter_plugins/tripleo_upgrade.py
-./setup.py

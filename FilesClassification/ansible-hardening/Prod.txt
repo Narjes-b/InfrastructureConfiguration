@@ -1,3 +1,0 @@
-./doc/metadata/stig_to_rst.py
-./doc/source/_exts/metadata-docs-rhel7.py
-./setup.py

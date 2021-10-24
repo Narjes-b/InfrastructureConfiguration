@@ -1,3 +1,0 @@
-./barbican/cmd/status.py
-./barbican/common/config.py
-./barbican/plugin/util/multiple_backends.py

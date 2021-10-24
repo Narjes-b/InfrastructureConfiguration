@@ -1,3 +1,0 @@
-./action/config_template.py
-./action_plugins/config_template.py
-./setup.py

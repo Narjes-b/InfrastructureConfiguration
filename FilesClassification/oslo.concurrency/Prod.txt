@@ -1,9 +1,0 @@
-./oslo_concurrency/__init__.py
-./oslo_concurrency/_i18n.py
-./oslo_concurrency/fixture/__init__.py
-./oslo_concurrency/opts.py
-./oslo_concurrency/prlimit.py
-./oslo_concurrency/processutils.py
-./oslo_concurrency/version.py
-./oslo_concurrency/watchdog.py
-./setup.py
