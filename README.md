@@ -8,8 +8,9 @@ This paper investigates the files that consitutue the configuration system of Op
 3) We leverage another machine learning model that predicts the configurtion category of a conifguration file. Our [``model``](https://github.com/Narjes-b/InfrastructureConfiguration/blob/main/Models/Model2-ConfigurationCategories.sav) achived a weighted AUC median of 98%
 4) We also investigate the minimum amount of requried labeled documents in order to achieve an acceptable performance.  
 
-To use our model on new data, type this code. 
+To use our models on new data, type this code. 
 
+    import pickle
     # load the model from disk
     loaded_model = pickle.load(open(ModelPath, 'rb'))
     texts = [
