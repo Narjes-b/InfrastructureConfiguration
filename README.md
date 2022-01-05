@@ -4,13 +4,9 @@ This is the Github assets folder for the paper intitled "On the Identification a
 This paper investigates the files that consitutue the configuration system of OpenStack. This latter is one of the most deployed cloud platform for infrastructure management. The intensive use of configuration artifacts in OpenStack makes it a good case study. To identify the different configuration artifacts and categories in OpenStack, we follow this procedure.
 
 1) we conduct a manual intensive analysis of OpenStack documentation and configruation-related changes to identify the different categories of configruation files. This step results in a [``card sort``](https://github.com/Narjes-b/InfrastructureConfiguration/blob/main/Data/Card%20Sort.csv), where we manually classify +1.7k files. 
-2) At a first step, we leverage a machine learning model that identifies configuration and non-configuration files. We collect features from the source code of our files by using the Chi-sqaure statistical test to select the most relevent features to each class. Our model achieved an AUC median of 97%
-3) We leverage another machine learning model that predicts the configurtion category of a conifguration file. Our model achived a weighted AUC median of 98%
+2) At a first step, we leverage a machine learning model that identifies configuration and non-configuration files. We collect features from the source code of our files by using the Chi-sqaure statistical test to select the most relevent features to each class. Our [``model``](https://github.com/Narjes-b/InfrastructureConfiguration/blob/main/Models/Model1-Configuration_Non-configuration.sav) achieved an AUC median of 97%
+3) We leverage another machine learning model that predicts the configurtion category of a conifguration file. Our [``model``](https://github.com/Narjes-b/InfrastructureConfiguration/blob/main/Models/Model2-ConfigurationCategories.sav) achived a weighted AUC median of 98%
 4) We also investigate the minimum amount of requried labeled documents in order to achieve an acceptable performance.  
 
-To use our models, type the following code:<br /> 
-    `#load the model.`<br /> 
-    `#loaded_model = pickle.load(open(ModelPath, 'rb'))`<br /> 
-    `#result = loaded_model.score(X_test, y_test)`<br />
-    `#print(result)`
+
 
