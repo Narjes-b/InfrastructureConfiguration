@@ -8,3 +8,9 @@ This paper investigates the files that consitutue the configuration system of Op
 3) We leverage another machine learning model that predicts the configurtion category of a conifguration file. Our model achived a weighted AUC median of 98%
 4) We also investigate the minimum amount of requried labeled documents in order to achieve an acceptable performance.  
 
+To use our models, type the following code:
+    #load the model
+    #loaded_model = pickle.load(open(ModelPath, 'rb'))
+    #result = loaded_model.score(X_test, y_test)
+    #print(result)
+
