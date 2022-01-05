@@ -9,8 +9,8 @@ This paper investigates the files that consitutue the configuration system of Op
 4) We also investigate the minimum amount of requried labeled documents in order to achieve an acceptable performance.  
 
 To use our models, type the following code:
-    `#load the model.<br /> 
-    #loaded_model = pickle.load(open(ModelPath, 'rb'))<br /> 
-    #result = loaded_model.score(X_test, y_test)<br />
-    #print(result)`
+    `#load the model.`<br /> 
+    `#loaded_model = pickle.load(open(ModelPath, 'rb'))`<br /> 
+    `#result = loaded_model.score(X_test, y_test)`<br />
+    `#print(result)`
 
