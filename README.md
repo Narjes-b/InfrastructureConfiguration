@@ -8,10 +8,10 @@ This paper investigates the files that consitutue the configuration system of Op
 3) We leverage another machine learning model that predicts the configurtion category of a conifguration file. Our [``model``](https://github.com/Narjes-b/InfrastructureConfiguration/blob/main/Models/Model2-ConfigurationCategories.sav) achived a weighted AUC median of 98%
 4) We also investigate the minimum amount of requried labeled documents in order to achieve an acceptable performance.  
 
-To use our model on new data, type this code. <\br>
+To use our model on new data, type this code. 
 
     # load the model from disk
-    loaded_model = pickle.load(open(filename, 'rb'))
+    loaded_model = pickle.load(open(ModelPath, 'rb'))
     texts = [
         "[DEFAULT] internal_service_availability_zone = internal Default availability zone for compute services. This option determines the default availability zone for 'nova-compute' # services, which will be used if the service(s) do not belong to aggregates default_availability_zone = nova #default_schedule_zone = <None> #password_length = 12 instance_usage_audit_period = month use_rootwrap_daemon = false"]
     text_features = vectorizer.transform(texts)
@@ -21,8 +21,12 @@ To use our model on new data, type this code. <\br>
     # for multiple texts
     for text, predicted in zip(texts, predictions):
        print('"{}"'.format(text))
-       print("  - Predicted as: '{}'".format(id_to_category[predicted]))
+       print("  - Predicted as: '{}'".format(predicted))
        print("")
     
 
 
+Result:
+
+"[DEFAULT] internal_service_availability_zone = internal Default availability zone for compute services. This option determines the default availability zone for 'nova-compute' # services, which will be used if the service(s) do not belong to aggregates default_availability_zone = nova #default_schedule_zone = <None> #password_length = 12 instance_usage_audit_period = month use_rootwrap_daemon = false"
+  - Predicted as: 'Conf-Externals'
